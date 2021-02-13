@@ -1,1 +1,1 @@
-xrazis
+`console.log('Hello 🤙');`

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="JavaScriptLibraryMappings">
-    <file url="PROJECT" libraries="{bulma}" />
+    <file url="PROJECT" libraries="{bulma, d16273c226}" />
   </component>
 </project>

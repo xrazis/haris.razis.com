@@ -2,9 +2,269 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+    <title>xrazis</title>
+
+    <link href="https://cdn.jsdelivr.net/npm/bulma@0.9.1/css/bulma.min.css" rel="stylesheet">
+    <script src="https://use.fontawesome.com/d16273c226.js"></script>
 </head>
 <body>
+
+<nav aria-label="main navigation" class="navbar" role="navigation">
+    <div class="container">
+        <div class="navbar-brand">
+            <a class="navbar-item" href="https://xrazis.com">
+                <p class="is-size-3 is-bold is-family-monospace">xrazis</p>
+            </a>
+            <div class="navbar-burger burger" data-target="nav-menu" id="nav-toggle"
+                 onclick="document.querySelector('#nav-menu').classList.toggle('is-active');">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </div>
+
+        <div class="navbar-menu p-1" id="nav-menu">
+            <div class="navbar-end">
+                <div class="navbar-item">
+                    <div class="buttons">
+                        <a class="button is-dark" href="https://github.com/xrazis" target="_blank">
+                           <span class="icon-text">
+                               <span class="icon">
+                                   <i class="fa fa-github"></i>
+                               </span>
+                               <span>Github</span>
+                           </span>
+                        </a>
+                        <a class="button is-link" href="https://twitter.com/x_razis" target="_blank">
+                           <span class="icon-text">
+                               <span class="icon">
+                                   <i class="fa fa-twitter"></i>
+                               </span>
+                               <span>Twitter</span>
+                           </span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</nav>
+
+<section class="hero is-medium">
+    <div class="hero-body">
+        <div class="container has-text-centered">
+            <div class="">
+                <p class="title is-size-1">
+                    My name is Haris Razis
+                </p>
+                <p class="subtitle">
+                    I'm a software developer and a great guy
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<div class="container is-max-desktop mb-6 ">
+    <div class="tile is-ancestor">
+        <div class="tile is-parent">
+            <div class="tile is-child box">
+                <p class="title is-4">What i'm doing now</p>
+                <hr>
+                <p class="content">I am an undergraduate student at UniWA, specialized at computer networks and
+                    communications.</p>
+                <p class="content">At the moment i'm working on my thesis which involves the applications of BAN and PAN
+                    with the purpose of improving athlete performance.</p>
+                <p class="content">Without getting into much detail, its main focus (alongside the actual thesis) is
+                    designing and developing a fullstack web application that will collect and analyze real-time body
+                    position data. You can track my progress over at
+                    <a href="https://github.com/xrazis/ichnaea" target="_blank">xrazis/ichnaea</a>.
+                </p>
+            </div>
+        </div>
+        <div class="tile is-parent is-vertical">
+            <div class="tile is-child box">
+                <p class="title is-4">Technologies i like working with</p>
+                <hr>
+                <div class="columns">
+                    <div class="column">
+                        <article class="media">
+                            <figure class="media-left">
+                                <p class="image is-32x32">
+                                    <img src="assets/icons/golang.png" alt="Golang icon">
+                                </p>
+                            </figure>
+                            <div class="media-content">
+                                <div class="content">
+                                    <p class="is-family-monospace">Golang</p>
+                                </div>
+                            </div>
+                        </article>
+                    </div>
+                    <div class="column">
+                        <article class="media">
+                            <figure class="media-left">
+                                <p class="image is-32x32">
+                                    <img src="assets/icons/javascript.png" alt="Javascript icon">
+                                </p>
+                            </figure>
+                            <div class="media-content">
+                                <div class="content">
+                                    <p class="is-family-monospace">Javascript</p>
+                                </div>
+                            </div>
+                        </article>
+                    </div>
+                </div>
+                <div class="columns mt-5">
+                    <div class="column">
+                        <article class="media">
+                            <figure class="media-left">
+                                <p class="image is-32x32">
+                                    <img src="assets/icons/nodejs.png" alt="Node.js icon">
+                                </p>
+                            </figure>
+                            <div class="media-content">
+                                <div class="content">
+                                    <p class="is-family-monospace">Node.js</p>
+                                </div>
+                            </div>
+                        </article>
+                    </div>
+                    <div class="column">
+                        <article class="media">
+                            <figure class="media-left">
+                                <p class="image is-32x32">
+                                    <img src="assets/icons/typescript.png" alt="typescript icon">
+                                </p>
+                            </figure>
+                            <div class="media-content">
+                                <div class="content">
+                                    <p class="is-family-monospace">Typescript</p>
+                                </div>
+                            </div>
+                        </article>
+                    </div>
+                </div>
+                <div class="columns mt-5">
+                    <div class="column">
+                        <article class="media">
+                            <figure class="media-left">
+                                <p class="image is-32x32">
+                                    <img src="assets/icons/docker.png" alt="Docker icon">
+                                </p>
+                            </figure>
+                            <div class="media-content">
+                                <div class="content">
+                                    <p class="is-family-monospace">Docker</p>
+                                </div>
+                            </div>
+                        </article>
+                    </div>
+                    <div class="column">
+                        <article class="media">
+                            <figure class="media-left">
+                                <p class="image is-32x32">
+                                    <img src="assets/icons/git.png" alt="Git icon">
+                                </p>
+                            </figure>
+                            <div class="media-content">
+                                <div class="content">
+                                    <p class="is-family-monospace">Git</p>
+                                </div>
+                            </div>
+                        </article>
+                    </div>
+                </div>
+                <div class="columns mt-5">
+                    <div class="column">
+                        <article class="media">
+                            <figure class="media-left">
+                                <p class="image is-32x32">
+                                    <img src="assets/icons/vue.png" alt="Vue icon">
+                                </p>
+                            </figure>
+                            <div class="media-content">
+                                <div class="content">
+                                    <p class="is-family-monospace">Vue</p>
+                                </div>
+                            </div>
+                        </article>
+                    </div>
+                    <div class="column">
+                        <article class="media">
+                            <figure class="media-left">
+                                <p class="image is-32x32">
+                                    <img src="assets/icons/linux.png" alt="Linux icon">
+                                </p>
+                            </figure>
+                            <div class="media-content">
+                                <div class="content">
+                                    <p class="is-family-monospace">Linux</p>
+                                </div>
+                            </div>
+                        </article>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="tile is-ancestor">
+        <div class="tile is-parent">
+            <div class="tile is-child box">
+                <p class="title is-4">My experience</p>
+                <hr>
+                <div class="notification is-link is-light py-1 my-3 has-text-centered">
+                    <b>Freelancing</b> frontend pages. One full page delivered and some updates and
+                    corrections to a couple more.
+                </div>
+                <div class="notification is-link is-light py-1 my-3 has-text-centered">
+                    Have <b>raced</b> in national and international bike races, so teamwork is my kind of game.
+                </div>
+                <div class="notification is-link is-light py-1 my-3 has-text-centered">
+                    <b>Installing</b> and <b>maintaining</b> computer networks and security equipment.
+                </div>
+                <div class="notification is-link is-light py-1 my-3 has-text-centered">
+                    Many years working in the tourism industry, <b>managing</b> role.
+                </div>
+                <div class="notification is-link is-light py-1 my-3 has-text-centered">
+                    Bike touring with Pedal Greece, <b>guiding</b> role.
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="tile is-ancestor">
+        <div class="tile is-parent">
+            <div class="tile is-child box">
+                <p class="title is-4">Free time</p>
+                <hr>
+                <p class="content">I like all kind of outdoorsy stuff. Scuba diving, windsurfing, road & mountain
+                    biking, running and hiking. I also tried getting into snowboarding but covid pulled me to a
+                    stop.
+                </p>
+            </div>
+        </div>
+        <div class="tile is-parent is-vertical">
+            <div class="tile is-child box">
+                <p class="title is-4">How to get in touch</p>
+                <hr>
+                <p class="content">I currently reside in <i>Athens</i> but was raised in <i>Zakynthos</i>.<br>
+                    Try throwing me an email. I really dont like spammers so you can find my email
+                    address on <a href="https://github.com/xrazis/" target="_blank">github.com/xrazis</a>.</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<footer class="footer">
+    <div class="content has-text-centered">
+        <p>
+            <strong>xrazis.com</strong> by <a href="https://github.com/xrazis">xrazis</a>
+            <br>
+        </p>
+    </div>
+</footer>
 
 </body>
 </html>

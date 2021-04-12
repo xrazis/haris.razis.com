@@ -10,5 +10,3 @@
 - 💬 Ask me anything **web-related**
 
 - 👨‍💻 Find out more on [xrazis.com](xrazis.com)
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xrazis&show_icons=true&locale=en&hide=java,html" alt="xrazis" /></p>

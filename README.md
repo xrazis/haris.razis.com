@@ -8,5 +8,3 @@
 - 🌱 I’m currently learning **Kubernetes**
 
 - 💬 Ask me anything **web-related**
-
-- 👨‍💻 Find out more on [xrazis.com](xrazis.com)

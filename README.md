@@ -3,8 +3,10 @@
 
 <div align="center">
 
-- 🌱 I’m currently learning **Kubernetes** and **Microservices** in Golang
-- 🔭 At the moment I'm working on [Ichnaea](https://github.com/xrazis/ichnaea)
-- 💬 Ask me anything **web-related**
+ 🌱 I’m currently learning **Kubernetes** and **Microservices** in Golang
+
+ 🔭 At the moment I'm working on [Ichnaea](https://github.com/xrazis/ichnaea)
+
+ 💬 Ask me anything **web-related**
 
 </div>

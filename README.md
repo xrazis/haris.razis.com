@@ -1,7 +1,7 @@
-<h1 align="center">Hi 🤙, I'm Haris</h1>
-<h3 align="center">A software engineer and a great guy</h3>
+<h1>Hi 🤙, I'm Haris</h1>
+<h3>A software engineer and a great guy</h3>
 
-<div align="center">
+<div>
 
  🌱 I’m currently learning **Kubernetes** and **Microservices** in Golang
 

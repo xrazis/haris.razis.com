@@ -2,14 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://xrazis.com/</loc>
+    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://xrazis.com/tags/papermod/</loc>
+    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://xrazis.com/posts/</loc>
+    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://xrazis.com/posts/first-post/</loc>
+    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://xrazis.com/tags/</loc>
+    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://xrazis.com/archives/</loc>
   </url><url>
     <loc>https://xrazis.com/categories/</loc>
   </url><url>
-    <loc>https://xrazis.com/</loc>
-  </url><url>
     <loc>https://xrazis.com/search/</loc>
-  </url><url>
-    <loc>https://xrazis.com/tags/</loc>
   </url>
 </urlset>

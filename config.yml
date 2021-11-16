@@ -15,19 +15,18 @@ minify:
 params:
   env: production
   title: xrazis
-  description: "My personal blog-portfolio"
+  description: "My personal blog/portfolio"
   keywords: [ Blog, Portfolio, PaperMod ]
   author: Haris Razis
   images: [ "<link or path of image for opengraph, twitter-cards>" ]
   DateFormat: "2 January, 2006"
   defaultTheme: auto
   disableThemeToggle: false
-
   ShowReadingTime: true
-  ShowShareButtons: true
+  ShowShareButtons: false
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
-  ShowCodeCopyButtons: false
+  ShowCodeCopyButtons: true
   disableSpecial1stPost: false
   disableScrollToTop: false
   comments: false
@@ -39,14 +38,13 @@ params:
   label:
     text: "xrazis"
 
-  # profile-mode
   profileMode:
     enabled: false # needs to be explicitly set
 
-  # home-info mode
   homeInfoParams:
-    Title: "Hi there 🤙"
-    Content: I am Haris, a software engineer and a great guy.
+    Title: "Hi there \U0001F44B"
+    Content: My name is Haris. I am software engineer and a great guy. This corner of the web is my digital garden,
+      a small collection of things I've learned over the years. I hope you find something usefull.
 
   socialIcons:
     - name: github
@@ -55,6 +53,8 @@ params:
       url: "https://twitter.com/x_razis"
     - name: linkedin
       url: "https://www.linkedin.com/in/xrazis/"
+    - name: email
+      url: "mailto:haris@razis.com"
 
   cover:
     hidden: true # hide everywhere but not in structured data
@@ -62,7 +62,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/xrazis/xrazis/content"
+    URL: "https://github.com/xrazis/xrazis/tree/master/content"
     Text: "Suggest Changes"
     appendFilePath: true
 
@@ -81,10 +81,14 @@ menu:
       name: Archive
       url: /archives/
       weight: 10
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 20
     - identifier: search
       name: Search
       url: /search/
-      weight: 20
+      weight: 30
 
 outputs:
   home:

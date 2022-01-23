@@ -49,10 +49,16 @@ params:
   socialIcons:
     - name: github
       url: "https://github.com/xrazis"
+    - name: stackoverflow
+      url: "https://stackoverflow.com/users/10358289/haris-razis"
     - name: twitter
       url: "https://twitter.com/x_razis"
     - name: linkedin
       url: "https://www.linkedin.com/in/xrazis/"
+    - name: youtube
+      url: "https://www.youtube.com/channel/UCF79v6s2uTSf8l4P_ud3hOw"
+    - name: RsS
+      url: "index.xml"
     - name: email
       url: "mailto:haris@razis.com"
 

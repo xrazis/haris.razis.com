@@ -8,7 +8,6 @@ draft: false
 ---
 
 # Introduction
-
 A while ago I submitted my thesis with its subject being the study of the architecture of BAN and PAN, and their applications, with the aim of optimizing athletes performance, by enhancing personalized training practices. I was also tasked with creating an e-sport application that would collect and analyze data on the athlete’s body position in real-time. I named the e-sport application Icnhaea, and I will be referring to it as so for the rest of this post.
 
 Developing Ichnaea proved a challenge for me, as it tested my knowledge and understanding of full-stack applications. I wanted to build a resilient, multi-tenant application with scaling capabilities that would not just tick the boxes for a thesis but be a worthwhile project that would make me a better engineer.
@@ -16,7 +15,6 @@ Developing Ichnaea proved a challenge for me, as it tested my knowledge and unde
 This post will be a rough overview of the thesis. You can find the source and doc [here](https://github.com/xrazis/ichnaea).
 
 # Architecture
-
 To begin with, deployment is handled by docker and docker-compose. Abstracting the configuration to a handy yaml file, while keeping the development environment the same across machines makes deployment a breeze. Running the project will create the following services:
 
 - **Client**, a Node.js app that collects and sends the data to the backend.
@@ -33,11 +31,9 @@ To begin with, deployment is handled by docker and docker-compose. Abstracting t
 As you can see, I decided to go full-on with JavaScript and TypeScript for Ichnaea, as I was already familiar with lots of libraries and frameworks in the respective ecosystems.
 
 # Client
-
 The client device is an Arduino with an IMU sensor. The program can either run on the host machine or on a Raspberry Pi that acts like a getaway for the Arduino. The client does some basic calculations with the help of Johnny-five, then the data is then streamed to the server, and subsequently to the frontend. The frontend does the final calculations that are needed for the model visualization. This way we avoid making any 'heavy' computations on the client device, thus allowing for small and power efficient getaways like a Pi Zero with multiple micro-controllers attached on it.
 
 ### What is an IMU and how do you make sense of its readings?
-
 An Inertial Measurement Unit can be found pretty much everywhere today and is a combination of accelerometers, gyroscopes, and magnetometers. They are used in navigation systems, smartphones, fitness trackers, and many more. Classified by Degrees Of Freedom, an IMU of 9-DOF will feature 3 degrees each of acceleration, magnetic orientation, and angular velocity. As a rule of thumb the higher the DOF rating the more accurate an IMU will be.
 
 To get some meaningful readings from an IMU a filter has to be used. There are many implementations from the notoriously hard Kalman filter to the relatively newly founded Madgwick filter. I decided to go with the complementary filter, an easy-to-understand and even easier to implement a filter. With the complementary filter we are keeping the best attributes from each sensor, using the gyro for short-term calculations and the accelerometer for long-term calculations. Why is that?
@@ -100,7 +96,6 @@ There is one got ya here. I am using a 6-DOF IMU and that means there is no refe
 There is a lot more going on here. Check out Euler angles (pitch, roll, yaw), accelerometers, gyroscopes, magnetometers.
 
 # Backend
-
 The server for Ichnaea was built on Node.js while making use of many popular packages like celebrate for input validation. Express was used for the creation of the API. A route definition is as simple as stating the HTTP action with the desired endpoint and then handling the request accordingly. I am not going to dive into route implementation details. You can find more in the Express documentation.
 
 Ichnaea was built with consideration for multiple tenants and isolation features. It wouldn't be very smart to stream an athlete's data to a trainer but his own. Besides offering session capabilities with distinct trainer accounts, an adoption concept has been introduced to solve this exact problem. An athlete in the orphan state has no trainer and is open to be adopted. You can then adopt him by entering the unique id (generated in the output of the client device) to the respective field in the frontend. After adopting the client, the data generated is only streamed to the intended recipient.
@@ -173,11 +168,9 @@ Redis pub-sub came to the rescue! By subscribing to the updateSocketID event whe
 The rest of the server is pretty basic. Field validation with celebrate, session and user management with bcrypt/passport/cookie-session, cors and rate limiter for security reasons, and the list goes on. Check the repo for more details.
 
 # Databases
-
 Ichnaea utilizes three databases, each for its distinct purpose.
 
 ### MongoDB
-
 MongoDB was chosen for the user store. Two models were created, one for the user logging to the dashboard and one to represent each distinct athlete. Each model has some basic identification features and the all-important socketID. This field stores the last socket connection id, useful to stream data only to the intended recipient.
 
 ![Untitled](/ichnaea/jetbrains-db-diagram.png)
@@ -189,7 +182,6 @@ client = await Athlete.findOne({id}).populate('_trainer');
 ```
 
 ### InfluxDB
-
 A time-series database was a precise fit for the serial data generated from the sensors. Writing data to influx is as easy as defining a new Point with the data you want to save. InfluxDB comes with a rich dashboard with various data display capabilities. A Grafana instance is attached to the Influx instance, so you can squeeze out every metric from Ichnaea.
 
 ```js
@@ -208,12 +200,9 @@ writeApi.writePoint(imuPoint);
 ```
 
 ### Redis
-
 Redis is used as a publish-subscribe mechanism in two places. The first place we make use of pubsub is updating the socket id dynamically when the dashboard reconnects, as mentioned a couple of sections before. Secondly, it is used as a socket.io adapter, helping when scaling up with multiple instances of the backend. This way we can broadcast a message to multiple clients even if they are connected to a different server. You can read more about that [here](https://socket.io/docs/v4/redis-adapter/).
 
 # Frontend
-
-
 Last but not least, the Frontend is built on Vue.js, and is a single page application that makes the dashboard of Ichnaea. Vue is a lovely framework that is extensible with things like routing and state management. I won't go into any details about the framework - feel free to browse the [docs](https://v3.vuejs.org/).
 
 I tried to make the dashboard as realistic as possible. It has the following features:
@@ -255,7 +244,6 @@ this.head.quaternion.setFromEuler(new Euler(this.roll, this.yaw, this.pitch));
 ```
 
 # Demo
-
 Placing the micro-controller on top of the head and making three discreet movements from neutral to left, back, and upwards right, maps with precision the physical movement and accurately depicts it on the model while testing all three axes, roll-pitch-yaw.
 
 ![Untitled](/ichnaea/testing-01.png)
@@ -265,5 +253,4 @@ Let's try the same but for another body part, this time the left arm. Starting f
 ![Untitled](/ichnaea/testing-02.png)
 
 # Conclusion
-
 This was an overview of Ichnaea, what I thought were the most interesting points, and by no means the full picture. What needs to be improved? Abstracting the sensor positioning logic to a UI where the user can drag and drop each sensor to the respective body and not hard-coding it. Making the client device smaller and self-sufficient with a battery and extensive connectivity options. Lastly, some ML with smart alerts and corrections would provide smart insights.

@@ -2,7 +2,6 @@ baseURL: "https://xrazis.com/"
 title: Haris Razis - Blog
 paginate: 5
 theme: PaperMod
-
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
@@ -15,13 +14,12 @@ minify:
 params:
   env: production
   title: xrazis
-  description: "My personal blog."
+  description: "My personal blog"
   keywords: [ Blog, Portfolio, PaperMod ]
-  author: Haris Razis
   images: [ "<link or path of image for opengraph, twitter-cards>" ]
   DateFormat: "2 January, 2006"
   defaultTheme: dark
-  disableThemeToggle: false
+  disableThemeToggle: true
   ShowReadingTime: true
   ShowShareButtons: false
   ShowPostNavLinks: true
@@ -32,8 +30,8 @@ params:
   comments: false
   hidemeta: false
   hideSummary: false
-  showtoc: false
-  tocopen: false
+  showtoc: true
+  tocopen: true
 
   label:
     text: "xrazis"
@@ -42,7 +40,7 @@ params:
     enabled: false # needs to be explicitly set
 
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
+    Title: "Hey there 🤙"
     Content: "My name is Haris, a software engineer and a great guy. This corner of the web is my digital garden,
     a small collection of things I’ve learned over the years."
 
@@ -83,18 +81,14 @@ params:
 
 menu:
   main:
-    - identifier: archives
-      name: Archive
-      url: /archives/
-      weight: 10
     - identifier: tags
       name: Tags
       url: /tags/
-      weight: 20
+      weight: 10
     - identifier: search
       name: Search
       url: /search/
-      weight: 30
+      weight: 20
 
 outputs:
   home:

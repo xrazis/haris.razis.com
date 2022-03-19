@@ -3,7 +3,6 @@ title: "A naive approach to blogging"
 summary: An early exploration of the web front
 date: 2022-03-15
 tags: ["Node.js", "Docker", "EJS", "Express.js", "MYSQL"]
-author: "Haris Razis"
 draft: false
 ---
 

@@ -3,7 +3,6 @@ title: "Body position tracking"
 summary: Scalable IoT solution for real-time body position tracking 
 date: 2021-11-26
 tags: ["IoT", "Docker", "Vue.js", "Arduino", "IMU"]
-author: "Haris Razis"
 draft: false
 ---
 

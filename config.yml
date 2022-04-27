@@ -1,4 +1,4 @@
-baseURL: "https://xrazis.com/"
+baseURL: "/"
 title: xrazis | Haris Razis
 paginate: 5
 theme: PaperMod
@@ -77,7 +77,7 @@ params:
     distance: 1000
     threshold: 0.4
     minMatchCharLength: 0
-    keys: [ "title", "permalink", "summary", "content" ]
+    keys: [ "title", "RelPermalink", "summary", "content" ]
 
 menu:
   main:

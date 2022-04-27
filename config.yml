@@ -1,5 +1,5 @@
 baseURL: "https://xrazis.com/"
-title: Haris Razis - Blog
+title: xrazis | Haris Razis
 paginate: 5
 theme: PaperMod
 enableRobotsTXT: true
@@ -14,7 +14,7 @@ minify:
 params:
   env: production
   title: xrazis
-  description: "My personal blog"
+  description: "My personal website"
   keywords: [ Blog, Portfolio, PaperMod ]
   images: [ "<link or path of image for opengraph, twitter-cards>" ]
   DateFormat: "2 January, 2006"
@@ -40,8 +40,8 @@ params:
     enabled: false # needs to be explicitly set
 
   homeInfoParams:
-    Title: "Hey there 🤙"
-    Content: "My name is Haris, a software engineer and a great guy. This corner of the web is my digital garden,
+    Title: "My name is Haris Razis."
+    Content: "I'm a software engineer and a great guy. This corner of the web is my digital garden,
     a small collection of things I’ve learned over the years."
 
   socialIcons:
@@ -55,10 +55,10 @@ params:
       url: "https://www.linkedin.com/in/xrazis/"
     - name: youtube
       url: "https://www.youtube.com/channel/UCF79v6s2uTSf8l4P_ud3hOw"
-    - name: RsS
-      url: "index.xml"
     - name: email
       url: "mailto:haris@razis.com"
+    - name: RsS
+      url: "index.xml"
 
   cover:
     hidden: true # hide everywhere but not in structured data

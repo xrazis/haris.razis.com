@@ -47,18 +47,12 @@ params:
   socialIcons:
     - name: github
       url: "https://github.com/xrazis"
-    - name: stackoverflow
-      url: "https://stackoverflow.com/users/10358289/haris-razis"
-    - name: twitter
-      url: "https://twitter.com/x_razis"
     - name: linkedin
       url: "https://www.linkedin.com/in/xrazis/"
     - name: youtube
       url: "https://www.youtube.com/channel/UCF79v6s2uTSf8l4P_ud3hOw"
     - name: email
       url: "mailto:haris@razis.com"
-    - name: RsS
-      url: "index.xml"
 
   cover:
     hidden: true # hide everywhere but not in structured data
@@ -93,5 +87,4 @@ menu:
 outputs:
   home:
     - HTML
-    - RSS
     - JSON

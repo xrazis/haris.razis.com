@@ -51,6 +51,8 @@ params:
       url: "https://www.linkedin.com/in/xrazis/"
     - name: youtube
       url: "https://www.youtube.com/channel/UCF79v6s2uTSf8l4P_ud3hOw"
+    - name: strava
+      url: "https://www.strava.com/athletes/8027560"
     - name: email
       url: "mailto:haris@razis.com"
 

@@ -33,6 +33,9 @@ params:
   showtoc: true
   tocopen: true
 
+  assets:
+    favicon32x32: "/favicon.png"
+
   label:
     text: "xrazis"
 

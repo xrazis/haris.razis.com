@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" serverName="Papaki" overwriteAll="false" deleteMissingItems="true" uploadOnCheckin="99756c59-0f98-46e3-a095-a311eee10266" remoteFilesAllowedToDisappearOnAutoupload="false">
+  <component name="PublishConfigData" serverName="Papaki" overwriteAll="false" deleteMissingItems="true" remoteFilesAllowedToDisappearOnAutoupload="false">
     <serverData>
       <paths name="Papaki">
         <serverdata>
@@ -10,6 +10,5 @@
         </serverdata>
       </paths>
     </serverData>
-    <option name="myUploadOnCheckinName" value="Papaki" />
   </component>
 </project>

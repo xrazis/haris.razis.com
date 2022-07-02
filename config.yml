@@ -59,6 +59,8 @@ params:
       url: "https://www.strava.com/athletes/8027560"
     - name: email
       url: "mailto:haris@razis.com"
+    - name: pgp
+      url: "https://keyserver.ubuntu.com/pks/lookup?op=get&search=0x0f4fe426d8f9f955f5e625b17bd748cfb62474de"
 
   cover:
     hidden: true # hide everywhere but not in structured data

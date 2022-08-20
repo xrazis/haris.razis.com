@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Motorbike on xrazis | Haris Razis</title>
+    <link>/tags/motorbike/</link>
+    <description>Recent content in Motorbike on xrazis | Haris Razis</description>
+    <image>
+      <url>/<link or path of image for opengraph, twitter-cards></url>
+      <link>/<link or path of image for opengraph, twitter-cards></link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/motorbike/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Round trip Africa</title>
+      <link>/posts/africa/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/africa/</guid>
+      <description>Around africa on a motorbike</description>
+    </item>
+    
+  </channel>
+</rss>

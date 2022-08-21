@@ -6,7 +6,14 @@ tags: ["Travel", "Motorbike", "Africa"]
 draft: true
 ---
 
-// TODO Planing
-// TODO Route
-// TODO Story
+# Route
 
+{{< maps "1woQlCxnEjPyP3CNk-50HTzJyQGQ5mc4" "2E312F">}}
+
+# Planning
+
+// TODO Planning
+
+# Story
+
+// TODO Story

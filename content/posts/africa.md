@@ -1,8 +1,9 @@
 ---
 title: "Round trip Africa"
 summary: Around africa on a motorbike
-date: 2023-01-01
+date: 2024-01-01
 tags: ["Travel", "Motorbike", "Africa"]
+weight: 1
 draft: true
 ---
 

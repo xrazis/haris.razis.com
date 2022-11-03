@@ -9,34 +9,7 @@
       <link>/<link or path of image for opengraph, twitter-cards></link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Africa</title>
-      <link>/tags/africa/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/africa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Motorbike</title>
-      <link>/tags/motorbike/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/motorbike/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Travel</title>
-      <link>/tags/travel/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/travel/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Fri, 08 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Networking</title>
       <link>/tags/networking/</link>

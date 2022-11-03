@@ -3,9 +3,9 @@ title: xrazis | Haris Razis
 paginate: 10
 theme: PaperMod
 enableRobotsTXT: true
-buildDrafts: true
-buildFuture: true
-buildExpired: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
 
 minify:
   disableXML: true

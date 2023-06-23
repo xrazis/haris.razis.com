@@ -8,17 +8,16 @@ draft: true
 
 # Introduction
 
-My old desktop computer was lying arround so i decided to flash it with Ubuntu and repurpose it as a Home Server. I'll try to keep all the services inside Docker and manage them with compose to make deployment and updating simpler.
-
-# resolved.conf
+My old desktop was lying arround so i decided to flash it with Ubuntu and repurpose it as a Home Server. I tried to keep all the services inside Docker and manage them with `docker compose` to make deployment, migrating, and updating simpler.
 
 # Docker Compose Services
 
-### ngnix-proxy
-
-### pihole
-
-### unifi
+- **tailscale**, to remotely connect to the homelab.
+- **ngnix-proxy**, to proxy all the requests to the services running in the containers. A neat thing is you can use a LAN hostname for all the services.
+- **pihole**, as an adblocker and a DNS server.
+- **unifi**, for controlling the wifi clients and the AP.
+- **home assistant**, for home automation, controlling the water heater, lights, door sensors, etc.
+- **fresh rss**, RSS aggregator in order to have all the news in one place.
 
 ### docker-compose.yaml
 
@@ -135,3 +134,7 @@ volumes:
 networks:
   unifi:
 ```
+
+# Problems
+
+### resolved.conf

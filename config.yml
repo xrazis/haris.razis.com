@@ -1,6 +1,6 @@
 baseURL: ""
 title: xrazis | Haris Razis
-paginate: 10
+paginate: 5
 theme: PaperMod
 enableRobotsTXT: true
 buildDrafts: false
@@ -15,8 +15,8 @@ params:
   env: production
   title: xrazis
   description: "My personal website"
-  keywords: [Blog, Portfolio, PaperMod]
-  images: ["<link or path of image for opengraph, twitter-cards>"]
+  keywords: [ Blog, Portfolio, PaperMod ]
+  images: [ "<link or path of image for opengraph, twitter-cards>" ]
   DateFormat: "2 January, 2006"
   defaultTheme: dark
   disableThemeToggle: true
@@ -80,7 +80,7 @@ params:
     distance: 1000
     threshold: 0.4
     minMatchCharLength: 0
-    keys: ["title", "RelPermalink", "summary", "content"]
+    keys: [ "title", "RelPermalink", "summary", "content" ]
 
 menu:
   main:

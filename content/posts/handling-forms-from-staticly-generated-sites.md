@@ -2,16 +2,16 @@
 title: "Handling emails for statically generated sites"
 summary: Minimal Express.js server to post emails from SSGs
 date: 2023-09-08
-tags: [ "Express.js", "Node.js" ]
-draft: true
+tags: [ "Hugo", "Express.js", "Node.js" ]
+draft: false
 ---
 
 # Introduction
 
 Statically generated sites are fast and flexible but don't have the ability to send _**contact us**_ emails due to the
-lack of a backend. A simple solution would be using a service like Airform or Formspree, but where's the fun in that?
-Instead, we can build a simple Express.js API that will handle POST requests from a form and will in turn forward that
-email to a mailbox.
+lack of a backend. A simple solution would be using a service like Airform, Mailgun, or Formspree, but where's the fun
+in that? Instead, we can build a simple Express.js API that will handle POST requests from a form and will in turn
+forward that email to a mailbox.
 
 # Frontend
 
@@ -42,24 +42,24 @@ sure to include `mode: "cors"` as we will be filtering request on the server sid
 ```javascript
 const endpoint = '{{ site.Params.contact_form_action }}';
 const contactForm = document.getElementById('contactForm');
-const submitter = document.getElementById('submitterButton');
 
 contactForm.addEventListener('submit', event => {
     event.preventDefault();
 
-    const formData = new FormData(contactForm, submitter);
-    formData.set('serverEmail', 'info@antamacollective.gr');
+    const data = new FormData(contactForm);
+    data.set('serverEmail', 'info@antamacollective.gr');
 
     fetch(endpoint, {
         method: "POST",
         mode: "cors",
-        body: formData,
+        body: data,
     }).then(response => {
         if (response.status === 200) {
             document.getElementById('successful-email').classList.remove('hidden');
         } else {
             document.getElementById('failed-email').classList.remove('hidden');
         }
+        document.getElementById('submitterButton').setAttribute('disabled', '');
     });
 });
 ```
@@ -87,8 +87,7 @@ The `/send-email` route is responsible for posting the email. There are two midd
 against a Joi schema and then the email is sent with Nodemailer.
 
 ```javascript
-
-app.post('/send-email', multer.none(), cors(corsOptions), async (req, res) => {
+app.post('/send-email', cors(corsOptions), multer().none(), async (req, res) => {
     try {
         const {name, email, message, serverEmail} = req.body;
         const host = req.hostname;
@@ -104,24 +103,21 @@ app.post('/send-email', multer.none(), cors(corsOptions), async (req, res) => {
             text: message
         };
 
-        transporter.sendMail(mail, err => {
+        transporter.sendMail(mail, (err, info) => {
             if (err) {
-                res.status(500).send(err);
-            } else {
-                res.status(200).send('Email sent!');
+                res.sendStatus(500);
+                return;
             }
+
+            res.sendStatus(200);
         });
     } catch (err) {
-        res.status(400).send(err);
+        res.sendStatus(400);
     }
 });
 ```
 
-# Server configuration
-
-//TODO 503 error
-
-# Repos
+# Repositories
 
 - https://github.com/xrazis/form-endpoint/
 - https://github.com/xrazis/antamacollective.gr

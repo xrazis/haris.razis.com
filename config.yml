@@ -1,7 +1,7 @@
 baseURL: ""
 title: xrazis | Haris Razis
 paginate: 5
-theme: PaperMod
+theme: hugo-PaperMod
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
@@ -54,6 +54,8 @@ params:
       url: "https://github.com/xrazis"
     - name: linkedin
       url: "https://www.linkedin.com/in/xrazis/"
+    - name: facebook
+      url: "https://www.facebook.com/xrazis"
     - name: youtube
       url: "https://www.youtube.com/channel/UCF79v6s2uTSf8l4P_ud3hOw"
     - name: strava

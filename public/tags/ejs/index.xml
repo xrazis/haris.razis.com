@@ -5,8 +5,9 @@
     <link>/tags/ejs/</link>
     <description>Recent content in EJS on xrazis | Haris Razis</description>
     <image>
-      <url>/<link or path of image for opengraph, twitter-cards></url>
-      <link>/<link or path of image for opengraph, twitter-cards></link>
+      <title>xrazis | Haris Razis</title>
+      <url>%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>

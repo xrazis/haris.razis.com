@@ -2,148 +2,148 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on xrazis | Haris Razis</title>
-    <link>/tags/</link>
+    <link>https://haris.razis.com/tags/</link>
     <description>Recent content in Tags on xrazis | Haris Razis</description>
     <image>
       <title>xrazis | Haris Razis</title>
-      <url>%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://haris.razis.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://haris.razis.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 08 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 08 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://haris.razis.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Express.js</title>
-      <link>/tags/express.js/</link>
+      <link>https://haris.razis.com/tags/express.js/</link>
       <pubDate>Fri, 08 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>/tags/express.js/</guid>
+      <guid>https://haris.razis.com/tags/express.js/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hugo</title>
-      <link>/tags/hugo/</link>
+      <link>https://haris.razis.com/tags/hugo/</link>
       <pubDate>Fri, 08 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>/tags/hugo/</guid>
+      <guid>https://haris.razis.com/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Node.js</title>
-      <link>/tags/node.js/</link>
+      <link>https://haris.razis.com/tags/node.js/</link>
       <pubDate>Fri, 08 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>/tags/node.js/</guid>
+      <guid>https://haris.razis.com/tags/node.js/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Networking</title>
-      <link>/tags/networking/</link>
+      <link>https://haris.razis.com/tags/networking/</link>
       <pubDate>Fri, 08 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>/tags/networking/</guid>
+      <guid>https://haris.razis.com/tags/networking/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ubiquity</title>
-      <link>/tags/ubiquity/</link>
+      <link>https://haris.razis.com/tags/ubiquity/</link>
       <pubDate>Fri, 08 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>/tags/ubiquity/</guid>
+      <guid>https://haris.razis.com/tags/ubiquity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Unifi</title>
-      <link>/tags/unifi/</link>
+      <link>https://haris.razis.com/tags/unifi/</link>
       <pubDate>Fri, 08 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>/tags/unifi/</guid>
+      <guid>https://haris.razis.com/tags/unifi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Linux</title>
-      <link>/tags/linux/</link>
+      <link>https://haris.razis.com/tags/linux/</link>
       <pubDate>Thu, 23 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>/tags/linux/</guid>
+      <guid>https://haris.razis.com/tags/linux/</guid>
       <description></description>
     </item>
     
     <item>
       <title>systemd</title>
-      <link>/tags/systemd/</link>
+      <link>https://haris.razis.com/tags/systemd/</link>
       <pubDate>Thu, 23 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>/tags/systemd/</guid>
+      <guid>https://haris.razis.com/tags/systemd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Docker</title>
-      <link>/tags/docker/</link>
+      <link>https://haris.razis.com/tags/docker/</link>
       <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>/tags/docker/</guid>
+      <guid>https://haris.razis.com/tags/docker/</guid>
       <description></description>
     </item>
     
     <item>
       <title>EJS</title>
-      <link>/tags/ejs/</link>
+      <link>https://haris.razis.com/tags/ejs/</link>
       <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>/tags/ejs/</guid>
+      <guid>https://haris.razis.com/tags/ejs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MYSQL</title>
-      <link>/tags/mysql/</link>
+      <link>https://haris.razis.com/tags/mysql/</link>
       <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>/tags/mysql/</guid>
+      <guid>https://haris.razis.com/tags/mysql/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Arduino</title>
-      <link>/tags/arduino/</link>
+      <link>https://haris.razis.com/tags/arduino/</link>
       <pubDate>Fri, 26 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>/tags/arduino/</guid>
+      <guid>https://haris.razis.com/tags/arduino/</guid>
       <description></description>
     </item>
     
     <item>
       <title>IMU</title>
-      <link>/tags/imu/</link>
+      <link>https://haris.razis.com/tags/imu/</link>
       <pubDate>Fri, 26 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>/tags/imu/</guid>
+      <guid>https://haris.razis.com/tags/imu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>IoT</title>
-      <link>/tags/iot/</link>
+      <link>https://haris.razis.com/tags/iot/</link>
       <pubDate>Fri, 26 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>/tags/iot/</guid>
+      <guid>https://haris.razis.com/tags/iot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vue.js</title>
-      <link>/tags/vue.js/</link>
+      <link>https://haris.razis.com/tags/vue.js/</link>
       <pubDate>Fri, 26 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>/tags/vue.js/</guid>
+      <guid>https://haris.razis.com/tags/vue.js/</guid>
       <description></description>
     </item>
     

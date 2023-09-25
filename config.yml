@@ -1,4 +1,4 @@
-baseURL: ""
+baseURL: "https://haris.razis.com/"
 title: xrazis | Haris Razis
 paginate: 5
 theme: hugo-PaperMod

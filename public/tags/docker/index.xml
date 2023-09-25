@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Docker on xrazis | Haris Razis</title>
-    <link>/tags/docker/</link>
+    <link>https://haris.razis.com/tags/docker/</link>
     <description>Recent content in Docker on xrazis | Haris Razis</description>
     <image>
       <title>xrazis | Haris Razis</title>
-      <url>%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://haris.razis.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://haris.razis.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 15 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/docker/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://haris.razis.com/tags/docker/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A naive approach to blogging</title>
-      <link>/posts/alfacycling/</link>
+      <link>https://haris.razis.com/posts/alfacycling/</link>
       <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>/posts/alfacycling/</guid>
+      <guid>https://haris.razis.com/posts/alfacycling/</guid>
       <description>An early exploration of the web front</description>
     </item>
     
     <item>
       <title>Body position tracking</title>
-      <link>/posts/ichnaea/</link>
+      <link>https://haris.razis.com/posts/ichnaea/</link>
       <pubDate>Fri, 26 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>/posts/ichnaea/</guid>
+      <guid>https://haris.razis.com/posts/ichnaea/</guid>
       <description>Scalable IoT solution for real-time body position tracking</description>
     </item>
     

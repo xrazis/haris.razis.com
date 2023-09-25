@@ -2,79 +2,79 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/tags/express.js/</loc>
+    <loc>https://haris.razis.com/tags/express.js/</loc>
     <lastmod>2023-09-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/handling-forms-from-staticly-generated-sites/</loc>
+    <loc>https://haris.razis.com/posts/handling-forms-from-staticly-generated-sites/</loc>
     <lastmod>2023-09-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/hugo/</loc>
+    <loc>https://haris.razis.com/tags/hugo/</loc>
     <lastmod>2023-09-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/node.js/</loc>
+    <loc>https://haris.razis.com/tags/node.js/</loc>
     <lastmod>2023-09-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/</loc>
+    <loc>https://haris.razis.com/posts/</loc>
     <lastmod>2023-09-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://haris.razis.com/tags/</loc>
     <lastmod>2023-09-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>https://haris.razis.com/</loc>
     <lastmod>2023-09-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/debugging-unifi-connections/</loc>
+    <loc>https://haris.razis.com/posts/debugging-unifi-connections/</loc>
     <lastmod>2022-07-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/networking/</loc>
+    <loc>https://haris.razis.com/tags/networking/</loc>
     <lastmod>2022-07-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/ubiquity/</loc>
+    <loc>https://haris.razis.com/tags/ubiquity/</loc>
     <lastmod>2022-07-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/unifi/</loc>
+    <loc>https://haris.razis.com/tags/unifi/</loc>
     <lastmod>2022-07-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/linux/</loc>
+    <loc>https://haris.razis.com/tags/linux/</loc>
     <lastmod>2022-06-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/resolved.conf/</loc>
+    <loc>https://haris.razis.com/posts/resolved.conf/</loc>
     <lastmod>2022-06-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/systemd/</loc>
+    <loc>https://haris.razis.com/tags/systemd/</loc>
     <lastmod>2022-06-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/alfacycling/</loc>
+    <loc>https://haris.razis.com/posts/alfacycling/</loc>
     <lastmod>2022-03-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/docker/</loc>
+    <loc>https://haris.razis.com/tags/docker/</loc>
     <lastmod>2022-03-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/ejs/</loc>
+    <loc>https://haris.razis.com/tags/ejs/</loc>
     <lastmod>2022-03-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/mysql/</loc>
+    <loc>https://haris.razis.com/tags/mysql/</loc>
     <lastmod>2022-03-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/arduino/</loc>
+    <loc>https://haris.razis.com/tags/arduino/</loc>
     <lastmod>2021-11-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/ichnaea/</loc>
+    <loc>https://haris.razis.com/posts/ichnaea/</loc>
     <lastmod>2021-11-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/imu/</loc>
+    <loc>https://haris.razis.com/tags/imu/</loc>
     <lastmod>2021-11-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/iot/</loc>
+    <loc>https://haris.razis.com/tags/iot/</loc>
     <lastmod>2021-11-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/vue.js/</loc>
+    <loc>https://haris.razis.com/tags/vue.js/</loc>
     <lastmod>2021-11-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/archives/</loc>
+    <loc>https://haris.razis.com/archives/</loc>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://haris.razis.com/categories/</loc>
   </url><url>
-    <loc>/search/</loc>
+    <loc>https://haris.razis.com/search/</loc>
   </url>
 </urlset>

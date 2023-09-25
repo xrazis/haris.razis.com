@@ -21,6 +21,18 @@ been a pain in the ass to maintain, port new CRs, and was horrible performance w
 
 # Porting to Liferay
 
+There are two ways to create a React widget:
+
+1. Using Blade to create a liferay-js module.
+2. Using Yeoman generator to create or adapt an existing React application.
+
+I found that creating a standalone React application with `npx create-react-app` and then porting it with `yeoman`
+proved useful, as I developed the module much faster outside of Liferay and only made some finishing touches once
+ported.
+
+Deploying was definitely not a breeze. We use a Jenkins job to build and deploy to a remote server but the module would
+fail each time, ruining the whole pipeline
+
 ### Configuration.json
 
 ### Build and Deploy

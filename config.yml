@@ -43,11 +43,10 @@ params:
     enabled: false # needs to be explicitly set
 
   homeInfoParams:
-    Title: "My name is Haris Razis."
+    Title: "My name is Haris Razis"
     Content:
       "I’m a software engineer and a great guy. This corner of the web is my digital garden, a small collection
-      of things I’ve learned/done over the years. The blogs here are random - expect anything from programming
-      to traveling. My default handle is xrazis."
+      of things I’ve learned over the years. My default handle is xrazis."
 
   socialIcons:
     - name: github

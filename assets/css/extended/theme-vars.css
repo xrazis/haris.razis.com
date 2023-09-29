@@ -1,0 +1,11 @@
+.dark {
+    --theme: rgb(24, 24, 24);
+    --entry: rgb(31, 31, 31);
+    --primary: rgb(255, 255, 255);
+    --secondary: rgb(230, 230, 230);
+    --tertiary: rgb(31, 31, 31);
+    --content: rgb(230, 230, 230);
+    --hljs-bg: rgba(0, 0, 0, 0.5);
+    --code-bg: rgb(31, 31, 31);
+    --border: rgb(44, 44, 44);
+}

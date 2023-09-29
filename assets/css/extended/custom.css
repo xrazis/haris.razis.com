@@ -1,0 +1,9 @@
+.post-content .highlight pre,
+.top-link,
+.entry-link {
+    border: 1px solid var(--border);
+}
+
+.chroma {
+    background-color: unset !important;
+}

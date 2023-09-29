@@ -1,5 +1,5 @@
 baseURL: "https://haris.razis.com/"
-title: xrazis | Haris Razis
+title: xrazis · Haris Razis
 paginate: 10
 theme: hugo-PaperMod
 enableRobotsTXT: true
@@ -79,9 +79,9 @@ params:
     isCaseSensitive: false
     shouldSort: true
     location: 0
-    distance: 1000
+    distance: 100
     threshold: 0.4
-    minMatchCharLength: 0
+    minMatchCharLength: 3
     keys: [ "title", "RelPermalink", "summary", "content" ]
 
 menu:

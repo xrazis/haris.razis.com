@@ -1,6 +1,6 @@
 baseURL: "https://haris.razis.com/"
 title: xrazis | Haris Razis
-paginate: 5
+paginate: 10
 theme: hugo-PaperMod
 enableRobotsTXT: true
 buildDrafts: false
@@ -31,7 +31,7 @@ params:
   hidemeta: false
   hideSummary: false
   showtoc: true
-  tocopen: true
+  tocopen: false
 
   assets:
     favicon32x32: "/favicon.png"
@@ -70,7 +70,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/xrazis/xrazis/tree/master/content"
+    URL: "https://github.com/xrazis/haris.razis.com/tree/main/content"
     Text: "Suggest Changes"
     appendFilePath: true
 

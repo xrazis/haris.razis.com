@@ -2,18 +2,21 @@
 title: "Home Server"
 summary: Repurposing an old computer
 date: 2023-03-31
-tags: ["Linux", "systemd", "Networking", "Server"]
+tags: [ "Linux", "systemd", "Networking", "Server" ]
 draft: true
 ---
 
 # Introduction
 
-My old desktop was lying arround so i decided to flash it with Ubuntu and repurpose it as a Home Server. I tried to keep all the services inside Docker and manage them with `docker compose` to make deployment, migrating, and updating simpler.
+My old desktop was lying arround so i decided to flash it with Ubuntu and repurpose it as a Home Server. I tried to keep
+all the services inside Docker and manage them with `docker compose` to make deployment, migrating, and updating
+simpler.
 
 # Docker Compose Services
 
 - **tailscale**, to remotely connect to the homelab.
-- **ngnix-proxy**, to proxy all the requests to the services running in the containers. A neat thing is you can use a LAN hostname for all the services.
+- **ngnix-proxy**, to proxy all the requests to the services running in the containers. A neat thing is you can use a
+  LAN hostname for all the services.
 - **pihole**, as an adblocker and a DNS server.
 - **unifi**, for controlling the wifi clients and the AP.
 - **home assistant**, for home automation, controlling the water heater, lights, door sensors, etc.

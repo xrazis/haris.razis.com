@@ -1,6 +1,6 @@
 baseURL: "https://haris.razis.com/"
 title: xrazis · Haris Razis
-paginate: 10
+paginate: 6
 theme: hugo-PaperMod
 enableRobotsTXT: true
 buildDrafts: false
@@ -86,14 +86,18 @@ params:
 
 menu:
   main:
+    - identifier: archives
+      name: Archive
+      url: /archives/
+      weight: 10
     - identifier: tags
       name: Tags
       url: /tags/
-      weight: 10
+      weight: 20
     - identifier: search
       name: Search
       url: /search/
-      weight: 20
+      weight: 30
 
 outputs:
   home:

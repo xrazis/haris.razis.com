@@ -13,21 +13,21 @@
     <language>en</language>
     <lastBuildDate>Mon, 25 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://haris.razis.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Building Liferay widgets with React</title>
-      <link>https://haris.razis.com/posts/building-liferay-widgets-with-react/</link>
+      <title>Liferay widgets and React</title>
+      <link>https://haris.razis.com/posts/liferay-widgets-react/</link>
       <pubDate>Mon, 25 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://haris.razis.com/posts/building-liferay-widgets-with-react/</guid>
-      <description>How to build a React portlet on Liferay 7.2 with widgets</description>
+      <guid>https://haris.razis.com/posts/liferay-widgets-react/</guid>
+      <description>How to build a React Portlet on Liferay 7.2 with widgets</description>
     </item>
     
     <item>
       <title>Handling emails for statically generated sites</title>
-      <link>https://haris.razis.com/posts/handling-emails-for-statically-generated-sites/</link>
+      <link>https://haris.razis.com/posts/form-endpoint/</link>
       <pubDate>Fri, 08 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://haris.razis.com/posts/handling-emails-for-statically-generated-sites/</guid>
-      <description>Minimal Express.js server to post emails from SSGs</description>
+      <guid>https://haris.razis.com/posts/form-endpoint/</guid>
+      <description>Minimal Express.js server to post emails from static sites build with tools like Hugo</description>
     </item>
     
     <item>

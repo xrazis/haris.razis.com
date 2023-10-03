@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 25 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://haris.razis.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://haris.razis.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dotfiles</title>
+      <link>https://haris.razis.com/posts/dotfiles/</link>
+      <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://haris.razis.com/posts/dotfiles/</guid>
+      <description>How to automate your system installs and keep your application configuration in dotfiles</description>
+    </item>
+    
     <item>
       <title>Liferay widgets and React</title>
       <link>https://haris.razis.com/posts/liferay-widgets-react/</link>

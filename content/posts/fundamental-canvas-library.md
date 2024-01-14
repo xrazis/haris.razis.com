@@ -208,7 +208,9 @@ const config = {
 const effect = new Effect(config);
 ```
 
-![img.png](/blog/20230114-01.png)
+You can see the code in action in the codepen bellow.
+
+{{< codepen "oNVBgMP">}}
 
 # Sources
 

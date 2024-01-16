@@ -1,7 +1,7 @@
 ---
 title: "Creating Falling Objects Animation Using Canvas"
 summary: Building a Canvas to animate falling objects in the background
-date: 2023-11-24
+date: 2024-01-14
 tags: [ "Canvas" ]
 draft: true
 ---
@@ -107,9 +107,67 @@ class Particle {
 
 # Effect Class
 
-//TODO Analyze class and in that
-// - Talk about the image on load event and the bug that will occur without using .onload()
-// - Talk about requestAnimationFrame()
+The `Effect` class is used to create and manipulate `Particle` classes. In the constructor the config object is set,
+then the animation sprite is loaded, and only when loaded is the rest of the code allowed to run. If you try to execute
+any code that needs the image prior to that you are not guaranteed that the image will be loaded.
+
+```javascript
+this.config = config;
+this.image = new Image();
+this.image.onload = () => {
+  this.config.image = this.image;
+  this.canvas = document.getElementById(this.config.canvas);
+  this.ctx = this.canvas.getContext('2d');
+  this.particlesArray = [];
+  this.setCanvasDimensions();
+  this.initParticlesArray();
+  this.handleParticles();
+  this.startAnimation();
+  this.registerListeners();
+}
+this.image.src = this.config.spriteUrl;
+```
+
+Once the image is loaded, the canvas is created, and a drawing context is set - a 2d rendering context in our case. Then
+we set the window dimensions both in the canvas and the config object.
+
+```javascript
+function setCanvasDimensions() {
+  this.canvas.width = window.innerWidth;
+  this.canvas.height = window.innerHeight;
+  this.config.canvasWidth = window.innerWidth;
+  this.config.canvasHeight = window.innerHeight;
+}
+```
+
+This is done for a very specific reason. The `Particle` needs to know the canvas width and height. In this case it is
+the window width and height, but in other cases it may as well be different. This way we can choose the `Particle`
+position randomly somewhere inside that canvas. Keep in mind that we also need to accommodate for any resize events, an
+expensive but necessary operation.
+
+```javascript
+function setParticleDimensions() {
+  this.particlesArray.forEach(particle => {
+    particle.canvasWidth = this.config.canvasWidth;
+    particle.canvasHeight = this.config.canvasHeight;
+  });
+}
+
+function onResize() {
+  this.setCanvasDimensions();
+  this.setParticleDimensions();
+}
+
+function registerListeners() {
+  window.addEventListener('resize', () => this.onResize());
+}
+```
+
+Then, the `Particles` are created, and the animation is started. I have used the
+built-in `requestAnimationFrame` and not a `setInterval`. That is because setting an interval is not a reliable way to
+animate things - in the case the function provided takes longer than 16ms (1/60 sec - 60FPS) that will cause blocking
+and result in dropped frames. The `requestAnimationFrame` invokes the callback function at each repaint. This is
+typically every 1/60th of a second, thus providing the wanted frame rate of 60FPS.
 
 {{<details "Click for the complete `Effect` class">}}
 
@@ -140,10 +198,10 @@ class Effect {
   }
 
   setParticleDimensions() {
-    for (let i = 0; i < this.particlesArray.length; i++) {
-      this.particlesArray[i].canvasWidth = window.innerWidth;
-      this.particlesArray[i].canvasHeight = window.innerHeight;
-    }
+    this.particlesArray.forEach(particle => {
+      particle.canvasWidth = this.config.canvasWidth;
+      particle.canvasHeight = this.config.canvasHeight;
+    });
   }
 
   initParticlesArray() {
@@ -158,10 +216,10 @@ class Effect {
 
   handleParticles() {
     this.clearRect();
-    for (let i = 0; i < this.particlesArray.length; i++) {
-      this.particlesArray[i].update();
-      this.particlesArray[i].draw(this.canvas);
-    }
+    this.particlesArray.forEach(particle => {
+      particle.update();
+      particle.draw(this.canvas);
+    });
   }
 
   onResize() {
@@ -193,8 +251,8 @@ config object with the following options:
 - `canvas`: The id of the Canvas HTML element.
 - `spriteUrl`: The image (in the form of a sprite) to be used for the falling objects.
 - `particlesCount`: The items count to be created - they are randomly selected from the sprite.
-- `spriteElementsX`: The images in the X axis in the sprite sheet.
-- `spriteElementsY`: The images in the Y axis in the sprite sheet.
+- `spriteElementsX`: The images in the X axis of the sprite sheet.
+- `spriteElementsY`: The images in the Y axis of the sprite sheet.
 
 ```javascript
 const config = {
@@ -208,7 +266,7 @@ const config = {
 const effect = new Effect(config);
 ```
 
-You can see the code in action in the codepen bellow.
+You can observe the code running in the following CodePen, voilà!
 
 {{< codepen "oNVBgMP">}}
 

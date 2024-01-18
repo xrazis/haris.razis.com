@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 02 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jan 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://haris.razis.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Creating Falling Objects Animation Using Canvas</title>
+      <link>https://haris.razis.com/posts/fundamental-canvas-library/</link>
+      <pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://haris.razis.com/posts/fundamental-canvas-library/</guid>
+      <description>Building a Canvas to animate falling objects in the background</description>
+    </item>
     <item>
       <title>Dotfiles</title>
       <link>https://haris.razis.com/posts/dotfiles/</link>

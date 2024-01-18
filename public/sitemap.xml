@@ -2,19 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://haris.razis.com/tags/canvas/</loc>
+    <lastmod>2024-01-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://haris.razis.com/posts/fundamental-canvas-library/</loc>
+    <lastmod>2024-01-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://haris.razis.com/posts/</loc>
+    <lastmod>2024-01-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://haris.razis.com/tags/</loc>
+    <lastmod>2024-01-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://haris.razis.com/</loc>
+    <lastmod>2024-01-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://haris.razis.com/posts/dotfiles/</loc>
     <lastmod>2023-10-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://haris.razis.com/tags/linux/</loc>
-    <lastmod>2023-10-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://haris.razis.com/posts/</loc>
-    <lastmod>2023-10-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://haris.razis.com/tags/</loc>
-    <lastmod>2023-10-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://haris.razis.com/</loc>
     <lastmod>2023-10-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://haris.razis.com/tags/liferay/</loc>

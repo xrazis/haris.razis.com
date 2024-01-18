@@ -1,32 +1,34 @@
 ---
 title: "Creating Falling Objects Animation Using Canvas"
 summary: Building a Canvas to animate falling objects in the background
-date: 2024-01-14
+date: 2024-01-18
 tags: [ "Canvas" ]
-draft: true
+draft: false
 ---
 
 # Introduction
 
 The Canvas API is used to draw graphics with Javascript. It can be utilized to make browser games, animations, visualize
-data, and many more. We will create a really basic Canvas implementation that is fed a configuration file and draws the
-falling items animation.
+data, and much more. We will create a really basic Canvas library that receives input from a configuration file and
+draws the falling items animation.
 
 # Particle Class
 
 The `Particle` class represents a single falling object. It is initialized with the same config object as the `Effect`
 class, as it needs many of the same parameters for correctly placing a particle inside the viewport. The constructor
-is where the majority of the logic is placed. After randomly picking the canvas position the image will appear we set
-the size and speed with `Math.random()` so we get an effect of depth and different weight for each object.
+is where the majority of the logic is placed. After randomly picking the position in the canvas, we set the size and
+speed with `Math.random()` so we get an effect of depth and different weight for each object.
 
 ```javascript
-this.size = Math.Random() * 60 + 20;
+this.x = Math.random() * this.config.canvasWidth;
+this.y = Math.random() * this.config.canvasHeight;
+this.size = Math.random() * 60 + 20;
 this.speed = Math.random() * 0.5 + 0.2;
 ```
 
 Then we need to randomly select an object from the sprite sheet and set the correct width/height. In order to reduce the
-config options required, we set the frame size for the X and Y axis by assuming the elements in the sprite are equally
-distanced on both axis.
+initial config options required, we set the frame size for the X and Y axis by assuming the elements in the sprite are
+equally distanced on both axis.
 
 ```javascript
 this.frameX = Math.floor(Math.random() * this.config.spriteElementsX);
@@ -35,24 +37,26 @@ this.frameSizeX = this.config.image.width / this.config.spriteElementsX;
 this.frameSizeY = this.config.image.height / this.config.spriteElementsY;
 ```
 
-The draw function is responsible for
+The draw function is responsible for drawing the image on the canvas. The input parameters are best explained
+on [MDN](https://developer.mozilla.org/en-US/docs/web/api/canvasrenderingcontext2d/drawimage).
 
 ```javascript
-function draw(canvas) {
-  const ctx = canvas.getContext('2d');
-
+function draw(ctx) {
   ctx.drawImage(this.config.image, this.frameX * this.frameSizeX, this.frameY * this.frameSizeY,
     this.frameSizeX, this.frameSizeY, this.x, this.y, this.size, this.size);
 }
 ```
 
-The draw function is responsible for
+Lastly, the update function moves the particle down the Y axis, thus providing the snowfall animation. The speed config
+option determines the speed of the particle falling. It is important to reset the particle position to the top of the
+canvas once it has surpassed the canvas height - that way the animation will continue running indefinitely.
 
 ```javascript
-function draw(canvas) {
-  const ctx = canvas.getContext('2d');
-  ctx.drawImage(this.config.image, this.frameX * this.frameSizeX, this.frameY * this.frameSizeY,
-    this.frameSizeX, this.frameSizeY, this.x, this.y, this.size, this.size);
+function update() {
+  this.y += this.speed;
+  if (this.y - this.size > this.config.canvasHeight) {
+    this.y = 0 - this.size;
+  }
 }
 ```
 
@@ -64,7 +68,7 @@ class Particle {
     this.config = config;
     this.x = Math.random() * this.config.canvasWidth;
     this.y = Math.random() * this.config.canvasHeight;
-    this.size = 100;
+    this.size = Math.random() * 60 + 20;
     this.speed = Math.random() * 0.5 + 0.2;
     this.frameX = Math.floor(Math.random() * this.config.spriteElementsX);
     this.frameY = Math.floor(Math.random() * this.config.spriteElementsY);
@@ -95,8 +99,7 @@ class Particle {
     }
   }
 
-  draw(canvas) {
-    const ctx = canvas.getContext('2d');
+  draw(ctx) {
     ctx.drawImage(this.config.image, this.frameX * this.frameSizeX, this.frameY * this.frameSizeY,
       this.frameSizeX, this.frameSizeY, this.x, this.y, this.size, this.size);
   }
@@ -108,7 +111,7 @@ class Particle {
 # Effect Class
 
 The `Effect` class is used to create and manipulate `Particle` classes. In the constructor the config object is set,
-then the animation sprite is loaded, and only when loaded is the rest of the code allowed to run. If you try to execute
+then the sprite is loaded, and only when loaded is the rest of the code allowed to run. If you try to execute
 any code that needs the image prior to that you are not guaranteed that the image will be loaded.
 
 ```javascript
@@ -163,11 +166,11 @@ function registerListeners() {
 }
 ```
 
-Then, the `Particles` are created, and the animation is started. I have used the
-built-in `requestAnimationFrame` and not a `setInterval`. That is because setting an interval is not a reliable way to
-animate things - in the case the function provided takes longer than 16ms (1/60 sec - 60FPS) that will cause blocking
-and result in dropped frames. The `requestAnimationFrame` invokes the callback function at each repaint. This is
-typically every 1/60th of a second, thus providing the wanted frame rate of 60FPS.
+Then, the `Particles` are created, and the animation is started. I have used the `requestAnimationFrame` and not
+a `setInterval`. That is because setting an interval is not a reliable way to animate things - in the case the function
+provided takes longer than 16ms (1/60 sec - 60FPS) that will cause blocking and result in dropped frames.
+The `requestAnimationFrame` invokes the callback function at each repaint. This is typically every 1/60th of a second,
+thus providing the wanted frame rate of 60FPS.
 
 {{<details "Click for the complete `Effect` class">}}
 
@@ -218,7 +221,7 @@ class Effect {
     this.clearRect();
     this.particlesArray.forEach(particle => {
       particle.update();
-      particle.draw(this.canvas);
+      particle.draw(this.ctx);
     });
   }
 
@@ -257,13 +260,13 @@ config object with the following options:
 ```javascript
 const config = {
   canvas: 'canvas-animation',
-  spriteUrl: './falling-items-sprite.png',
-  particlesCount: 30,
-  spriteElementsX: 3,
-  spriteElementsY: 1,
+  particlesCount: 10,
+  spriteUrl: "https://haris.razis.com/blog/20240114-cat.png",
+  spriteElementsX: 5,
+  spriteElementsY: 2,
 };
 
-const effect = new Effect(config);
+new Effect(config);
 ```
 
 You can observe the code running in the following CodePen, voilà!
@@ -273,4 +276,3 @@ You can observe the code running in the following CodePen, voilà!
 # Sources
 
 - [MDN Web Docs - Canvas API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
-- 

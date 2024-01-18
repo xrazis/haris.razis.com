@@ -1,6 +1,6 @@
 ---
-title: "Creating Falling Objects Animation Using Canvas"
-summary: Building a basic Canvas library to animate falling objects in the background (snowfall effect)
+title: "How to create a snowfall effect in the browser"
+summary: Building a basic Canvas library to animate falling objects in the background
 date: 2024-01-18
 tags: [ "Canvas" ]
 draft: false

@@ -16,7 +16,7 @@ params:
   title: xrazis
   description: "My personal website"
   keywords: [ Blog, Portfolio, PaperMod ]
-  images: [ "<link or path of image for opengraph, twitter-cards>" ]
+  images: [ "./neda-me.jpg" ]
   DateFormat: "2 January, 2006"
   defaultTheme: dark
   disableThemeToggle: true

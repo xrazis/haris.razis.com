@@ -2,7 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://haris.razis.com/tags/moto/</loc>
+    <lastmod>2024-06-20T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://haris.razis.com/posts/</loc>
+    <lastmod>2024-06-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://haris.razis.com/tags/</loc>
+    <lastmod>2024-06-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://haris.razis.com/posts/balkan-tet/</loc>
+    <lastmod>2024-06-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://haris.razis.com/tags/travel/</loc>
     <lastmod>2024-06-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://haris.razis.com/</loc>
@@ -12,9 +24,6 @@
     <lastmod>2024-01-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://haris.razis.com/posts/fundamental-canvas-library/</loc>
-    <lastmod>2024-01-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://haris.razis.com/tags/</loc>
     <lastmod>2024-01-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://haris.razis.com/posts/dotfiles/</loc>

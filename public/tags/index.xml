@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on xrazis · Haris Razis</title>
     <link>https://haris.razis.com/tags/</link>
@@ -9,133 +9,147 @@
       <url>https://haris.razis.com/neda-me.jpg</url>
       <link>https://haris.razis.com/neda-me.jpg</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.127.0</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 18 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jun 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://haris.razis.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Moto</title>
+      <link>https://haris.razis.com/tags/moto/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://haris.razis.com/tags/moto/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Travel</title>
+      <link>https://haris.razis.com/tags/travel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://haris.razis.com/tags/travel/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Canvas</title>
       <link>https://haris.razis.com/tags/canvas/</link>
-      <pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://haris.razis.com/tags/canvas/</guid>
       <description></description>
     </item>
     <item>
       <title>Linux</title>
       <link>https://haris.razis.com/tags/linux/</link>
-      <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://haris.razis.com/tags/linux/</guid>
       <description></description>
     </item>
     <item>
       <title>Liferay</title>
       <link>https://haris.razis.com/tags/liferay/</link>
-      <pubDate>Mon, 25 Sep 2023 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://haris.razis.com/tags/liferay/</guid>
       <description></description>
     </item>
     <item>
       <title>React</title>
       <link>https://haris.razis.com/tags/react/</link>
-      <pubDate>Mon, 25 Sep 2023 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://haris.razis.com/tags/react/</guid>
       <description></description>
     </item>
     <item>
       <title>Express.js</title>
       <link>https://haris.razis.com/tags/express.js/</link>
-      <pubDate>Fri, 08 Sep 2023 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://haris.razis.com/tags/express.js/</guid>
       <description></description>
     </item>
     <item>
       <title>Hugo</title>
       <link>https://haris.razis.com/tags/hugo/</link>
-      <pubDate>Fri, 08 Sep 2023 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://haris.razis.com/tags/hugo/</guid>
       <description></description>
     </item>
     <item>
       <title>Node.js</title>
       <link>https://haris.razis.com/tags/node.js/</link>
-      <pubDate>Fri, 08 Sep 2023 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://haris.razis.com/tags/node.js/</guid>
       <description></description>
     </item>
     <item>
       <title>Networking</title>
       <link>https://haris.razis.com/tags/networking/</link>
-      <pubDate>Fri, 08 Jul 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://haris.razis.com/tags/networking/</guid>
       <description></description>
     </item>
     <item>
       <title>Ubiquity</title>
       <link>https://haris.razis.com/tags/ubiquity/</link>
-      <pubDate>Fri, 08 Jul 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://haris.razis.com/tags/ubiquity/</guid>
       <description></description>
     </item>
     <item>
       <title>Unifi</title>
       <link>https://haris.razis.com/tags/unifi/</link>
-      <pubDate>Fri, 08 Jul 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://haris.razis.com/tags/unifi/</guid>
       <description></description>
     </item>
     <item>
       <title>Systemd</title>
       <link>https://haris.razis.com/tags/systemd/</link>
-      <pubDate>Thu, 23 Jun 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://haris.razis.com/tags/systemd/</guid>
       <description></description>
     </item>
     <item>
       <title>Docker</title>
       <link>https://haris.razis.com/tags/docker/</link>
-      <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://haris.razis.com/tags/docker/</guid>
       <description></description>
     </item>
     <item>
       <title>EJS</title>
       <link>https://haris.razis.com/tags/ejs/</link>
-      <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://haris.razis.com/tags/ejs/</guid>
       <description></description>
     </item>
     <item>
       <title>MYSQL</title>
       <link>https://haris.razis.com/tags/mysql/</link>
-      <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://haris.razis.com/tags/mysql/</guid>
       <description></description>
     </item>
     <item>
       <title>Arduino</title>
       <link>https://haris.razis.com/tags/arduino/</link>
-      <pubDate>Fri, 26 Nov 2021 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://haris.razis.com/tags/arduino/</guid>
       <description></description>
     </item>
     <item>
       <title>IMU</title>
       <link>https://haris.razis.com/tags/imu/</link>
-      <pubDate>Fri, 26 Nov 2021 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://haris.razis.com/tags/imu/</guid>
       <description></description>
     </item>
     <item>
       <title>IoT</title>
       <link>https://haris.razis.com/tags/iot/</link>
-      <pubDate>Fri, 26 Nov 2021 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://haris.razis.com/tags/iot/</guid>
       <description></description>
     </item>
     <item>
       <title>Vue.js</title>
       <link>https://haris.razis.com/tags/vue.js/</link>
-      <pubDate>Fri, 26 Nov 2021 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://haris.razis.com/tags/vue.js/</guid>
       <description></description>
     </item>

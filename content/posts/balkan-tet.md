@@ -3,7 +3,7 @@ title: "TET Albania-Montenegro-Bosnia-Croatia"
 summary: Our first long moto trip into the Balkans
 date: 2024-06-20
 tags: [ "Travel", "Moto" ]
-draft: true
+draft: false
 ---
 
 # Introduction
@@ -154,8 +154,91 @@ attr="Šatorsko lake, our last stop before entering Croatia."
 align=center link="/blog/balkan-tet/PXL_20240609_090046232.jpg" target="_blank" >}}
 
 Our second night at Bosnia was near the border to Croatia, at Glamoč. Nothing special, just a nights sleep and off to
-Croatia. At Knin we decided to have a rest day and do some sightseeing.  
+Croatia. At Knin we decided to have a rest day and do some sightseeing.
+Their [fortress](https://en.wikipedia.org/wiki/Knin_Fortress) is actually the most important stronghold of Croatia and
+has had a turbulent history.
 
 {{< figure src="/blog/balkan-tet/IMG_3114.jpg"
 attr="At the castle of Knin."
 align=center link="/blog/balkan-tet/IMG_3114.jpg" target="_blank" >}}
+
+The next day, the dirt section of the TET was fairly easy, so since we were close
+to [Plitvice Lakes](https://maps.app.goo.gl/gChHFsMRHR3aZT5i8), we decided to take a detour and visit the national park.
+
+{{< figure src="/blog/balkan-tet/PXL_20240610_155334408.jpg"
+attr="This was the first thing you saw after the parks paid entrance 🤯 (entrance 2)."
+align=center link="/blog/balkan-tet/PXL_20240610_155334408.jpg" target="_blank" >}}
+
+{{< figure src="/blog/balkan-tet/PXL_20240610_132242786.MP.jpg"
+attr="We took the long way around as fewer tourist preferred it."
+align=center link="/blog/balkan-tet/PXL_20240610_132242786.MP.jpg" target="_blank" >}}
+
+{{< figure src="/blog/balkan-tet/PXL_20240610_153443312.jpg"
+attr="There are 16 lakes across a 300 sq km protected area."
+align=center link="/blog/balkan-tet/PXL_20240610_153443312.jpg" target="_blank" >}}
+
+{{< figure src="/blog/balkan-tet/IMG_3154.jpg"
+attr="We only had time for 1/3 of the park as we arrived late noon."
+align=center link="/blog/balkan-tet/IMG_3154.jpg" target="_blank" >}}
+
+{{< figure src="/blog/balkan-tet/IMG_3182.jpg"
+attr="The park is better visited late as there are close to no people."
+align=center link="/blog/balkan-tet/IMG_3182.jpg" target="_blank" >}}
+
+We found a stay near the lakes and the next day we were off to finish the Croatian TET. We woke up to rain but the
+weather quickly got better.
+
+{{< figure src="/blog/balkan-tet/IMG_3185.jpg"
+attr="The only time we had to wear our rain gear."
+align=center link="/blog/balkan-tet/IMG_3185.jpg" target="_blank" >}}
+
+The TET ends at the Slovenian boarder, near the town of Delnice. We chose to skip the final
+section since it was paved, and instead headed to Zadar for our first overnight stay on the way back. We chose Zadar as
+it seemed good-looking enough on the photos (as it actually was irl) and it was on our way as we wanted to visit Split
+and Dubrovnik.
+
+{{< figure src="/blog/balkan-tet/IMG_3202.jpg"
+attr="What spoiled Dubrovnik for us was the overwhelming touristy atmosphere and the high prices."
+align=center link="/blog/balkan-tet/IMG_3202.jpg" target="_blank" >}}
+
+{{< figure src="/blog/balkan-tet/PXL_20240612_153308381.gif"
+attr="Only wheelie."
+align=center link="/blog/balkan-tet/PXL_20240612_153308381.gif" target="_blank" >}}
+
+We spent an additional two nights in Montenegro because it was our favorite of them all. The first night was in Kotor,
+and the second was back in Podgorica.
+
+{{< figure src="/blog/balkan-tet/IMG_3259.jpg"
+attr="Kotor from the highest viewpoint."
+align=center link="/blog/balkan-tet/IMG_3259.jpg" target="_blank" >}}
+
+{{< figure src="/blog/balkan-tet/PXL_20240613_165758183.jpg"
+attr="A gallery we visited at Podgorica."
+align=center link="/blog/balkan-tet/PXL_20240613_165758183.jpg" target="_blank" >}}
+
+{{< figure src="/blog/balkan-tet/PXL_20240613_172934731.jpg"
+attr="Various activities are performed in the river that passes Podgorica - from swimming to canyoning."
+align=center link="/blog/balkan-tet/PXL_20240613_172934731.jpg" target="_blank" >}}
+
+{{< figure src="/blog/balkan-tet/PXL_20240614_134923285.jpg"
+attr="Our last stop at Albania before crossing the border to Greece."
+align=center link="/blog/balkan-tet/PXL_20240614_134923285.jpg" target="_blank" >}}
+
+Since we had a day left we decided to stay at Ioannina and then pick up the Greek TET from there to Spercheiada through
+Agrafa. Unfortunately the Tenere had other plans as it decided to start leaking from the oil pain at the spot we had
+previously repaired. Luckily we found a stronger metal glue at Ioannina, and repaired it without loosing any of the oil.
+Because we lost a couple of hours in that process and had a lot of riding to get to Spercheiada we decided to skip that
+part and go straight to Athens.
+
+# Wrap up
+
+This being our first big off-road motorcycle journey we learned a lot of things.
+
+- Enduro clothing is the way to go for such trips. Although disadvantageous on a highway crash their off-road and high
+  temperature comfort is unparalleled.
+- Camping can become a chore for two people on motos. An alternative we would like to try is having a stationary camp
+  and rather explore the surroundings instead of camping on the way when trying to cover such lage distances.
+- 30 liters are enough to carry your personal belongings and tools.
+- A break of 1-2 days in the middle of the trip is necessary for rest.
+
+Up next is Cappadocia with a pillion!

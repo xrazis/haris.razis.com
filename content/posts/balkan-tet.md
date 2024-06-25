@@ -8,22 +8,21 @@ draft: false
 
 # Introduction
 
-The [Trans Euro Trail](https://transeurotrail.org/) (abbreviated TET) is a scenic GPX route that spans the whole
-European continent. At the time of writing its length is somewhere around 100.000 kilometers, and it is constantly
-growing. Each country has its respective linesmen that curates the GPX, but the community behind is much bigger than a
-single person!
+The [Trans Euro Trail](https://transeurotrail.org/) (TET) is a scenic GPX route that spans the
+entire European continent. As of now, its length is approximately 100,000 kilometers and continues to grow. Each country
+has its own linesman to curate the GPX, but the community behind it is much larger than just one person!
 
 I have known Christos for the better part of my adult life. We met at a bicycle group ride I participated with my other
-dearest friend, Apostolos. We all hit it along from the beginning, so we started riding, camping, touring, and racing
-bikes together. After the frenzy of the road bicycle thing steamed off for me and Christos, we both turned to
-motorbikes, since carrying a bicycle with us was no more a worry.
+dearest friend, Apostolos. We hit it off from the start, which led us to riding, camping, touring, and racing bikes
+together. As the excitement of road biking waned for Christos and me, we transitioned to motorbikes, freeing us from the
+hassle of transporting bicycles.
 
 My first big bike was (and still is) a KTM LC4 640 Enduro. Christos purchased a Suzuki V-STROM 650. We rode a few times
-together but due to COVID and us living in different areas for a while it was mostly short road rides. I already
-travelled a lot off-road by that point and was constantly telling my friends how awesome it is to ride on hard
-and difficult roads through the mountains where you get to injure yourself in the process.
+together but due to COVID and us living in different areas for a while it was mostly short road rides. By that point, I
+had already traveled extensively off-road and often shared with my friends how exhilarating it is to navigate
+challenging mountain roads, despite the occasional risk of injury.
 
-I think the point where it clicked for him was the first off-road ride we did together, 2 or 3 years ago.
+I believe the moment it clicked for Christos was during our first off-road ride together 2 or 3 years ago.
 
 {{< figure src="/blog/balkan-tet/PXL_20221003_103752293.jpg" attr="Somewhere along the Ziria mountain range."
 align=center link="/blog/balkan-tet/PXL_20221003_103752293.jpg" target="_blank" >}}
@@ -34,9 +33,9 @@ not enough experience to travel long distance on motorcycles.
 
 # Albania
 
-We left noon of the first day of June and decided to ride the national road to the border crossing of Konispol. This way
-we could stay at Sarandë for the night and start the TET fresh the next day. The first part from Sarandë to Këlcyrë was
-nothing new for us, the scenery was (obviously) very similar to Greece and the off-road was mostly rocky.
+We left noon of the first day of June and decided to ride the national road to the border crossing of Konispol. This
+allowed us to stay in Sarandë for the night and start the TET fresh the next day. The initial section from Sarandë to
+Këlcyrë was familiar terrain for us; the scenery closely resembled Greece, and the off-road was predominantly rocky.
 
 {{< figure src="/blog/balkan-tet/PXL_20240602_111041086.jpg" attr="Monument to Communism."
 align=center link="/blog/balkan-tet/PXL_20240602_111041086.jpg" target="_blank" >}}
@@ -47,16 +46,15 @@ link="/blog/balkan-tet/IMG_2853.jpg" target="_blank" >}}
 {{< figure src="/blog/balkan-tet/IMG_2858.jpg" attr="The place we stopped for lunch, alongside the Vjosa River."
 align=center link="/blog/balkan-tet/IMG_2858.jpg" target="_blank" >}}
 
-After food, we continued riding with the purpose of finding a nice camping spot where we could spend the night. And
-Christos did. He managed to hit a rock with such force and at such a bad angle that a retaining screw holding the
-bash plate bent the frame and pierced through the oil pan.
+After lunch, we continued riding with the goal of finding a suitable camping spot for the night. Unfortunately, Christos
+had a mishap. He struck a rock with such force and at such a bad angle that a retaining screw holding the bash plate
+bent the frame and pierced through the oil pan.
 
 {{< figure src="/blog/balkan-tet/IMG_2860.jpg" attr="The still pink 10-50 oil at the Albanian Countryside."
 align=center link="/blog/balkan-tet/IMG_2860.jpg" target="_blank" >}}
 
-Guess what was the one thing we bought but forgot to pack? Yes, metal glue. After a day's back and forth to the closest
-village, that was about 30kms from where we camped the night, we managed to find some cold steel and car oil to fix the
-Tenere.
+Of course, the one crucial item we bought but forgot to pack was metal glue. After a day of back-and-forth trips to the
+nearest village, about 30 km from our campsite, we finally found some cold steel and car oil to repair the Tenere.
 
 {{< figure src="/blog/balkan-tet/IMG_2883.jpg" attr="Waiting for the cold steel to dry."
 align=center link="/blog/balkan-tet/IMG_2883.jpg" target="_blank" >}}
@@ -64,8 +62,8 @@ align=center link="/blog/balkan-tet/IMG_2883.jpg" target="_blank" >}}
 {{< figure src="/blog/balkan-tet/PXL_20240604_091839484.jpg" attr="The Tenere is up and running!"
 align=center link="/blog/balkan-tet/PXL_20240604_091839484.jpg" target="_blank" >}}
 
-We decided to go to Elbassan for the night, which was a 4-hour drive from where we were. After a quick coffee stop at
-Berat, we arrived at Elbassan and toured their beautiful old city. The fourth day we had planned to do 250km and spend
+We decided to head to Elbassan for the night, a 4-hour drive from our location. After a brief coffee stop in Berat, we
+arrived in Elbassan and explored its beautiful old city. The fourth day we had planned to do 250km and spend
 the night somewhere close the border, so we could enter Montenegro the next morning. So we thought.
 
 {{< figure src="/blog/balkan-tet/IMG_2923.jpg" attr="Albania does not have food-rich bakeries like we do..."
@@ -77,9 +75,9 @@ align=center link="/blog/balkan-tet/IMG_2925" target="_blank" >}}
 {{< figure src="/blog/balkan-tet/IMG_2945.jpg" attr="An active mine in Lura where we decided to stop for a photo."
 align=center link="/blog/balkan-tet/IMG_2945.jpg" target="_blank" >}}
 
-The road up to the mine was not really bad, but we were tired and hungry. We still had 60kms in the Lura mountain and
-then an easy gravel road towards Shkodër. I can say with certainty, these were some of the most difficult kilometers
-I've had on two wheels. We needed nearly 3 hours to cross the rest of the Lura mountain, as it was extremely rocky, and
+The road up to the mine wasn't too bad, but we were tired and hungry. We still had 60 km through the Lura mountain and
+then an easy gravel road towards Shkodër. Without a doubt, these were some of the most challenging kilometers I've ever
+ridden on two wheels. We needed nearly 3 hours to cross the rest of the Lura mountain, as it was extremely rocky, and
 we struggled with the heavy bikes. They warned us that we would end up passing the point of no return and the road ahead
 would be gruelling, and boy did we not listen.
 
@@ -93,8 +91,8 @@ align=center link="/blog/balkan-tet/IMG_2950.jpg" target="_blank" >}}
 attr="Despite the hard times it gave us, it is still one of the most beautiful places I have ever visited."
 align=center link="/blog/balkan-tet/PXL_20240604_160923481.jpg" target="_blank" >}}
 
-After a good nights sleep and some excellent food at Fushë-Lurë we were off for Montenegro. We planned an easy day and
-a stay at Podgorica, so we could have some much-needed rest.
+After a good nights sleep and some excellent food at Fushë-Lurë we were off for Montenegro. We planned a relaxing day
+with a stay in Podgorica to get some much-needed rest.
 
 {{< figure src="/blog/balkan-tet/PXL_20240605_084353115.jpg" attr="The road from Fushë-Lurë to Shkodër."
 align=center link="/blog/balkan-tet/PXL_20240605_084353115.jpg" target="_blank" >}}
@@ -103,14 +101,14 @@ align=center link="/blog/balkan-tet/PXL_20240605_084353115.jpg" target="_blank" 
 attr="Podgorica has a large river crossing through its city center - it is full of green parks."
 align=center link="/blog/balkan-tet/PXL_20240605_175217576.jpg" target="_blank" >}}
 
-At Podgorica, we decided that camping and travelling at such a fast pace was not manageable. We didn't want to waste
-time getting food supplies and cooking, setting and gathering the gear, and doing all the things camp related. Don't get
-me wrong, we both enjoy camping, it just did not make sense as rooms were cheap and the food even cheaper. We left our
-camping gear at the rooms we were staying, and we would pick it up on the
-return. [Lightweight baby](https://www.youtube.com/watch?v=TRcR-_nF84o)!
+AIn Podgorica, we realized that camping while traveling at such a fast pace was impractical. We didn't want to waste
+time on tasks like gathering food supplies, cooking, and setting up camp. Don't misunderstand, we both love camping.
+However, it didn't seem practical since accommodations were inexpensive and food was even cheaper. We left our camping
+gear in the rooms where we stayed and planned to retrieve it on our way
+back. [Lightweight baby](https://www.youtube.com/watch?v=TRcR-_nF84o)!
 
 {{< figure src="/blog/balkan-tet/PXL_20240606_154226480.jpg"
-attr="The driving at Montenegro was not easy, but after every hard section we got rewarded with stunning views."
+attr="TRiding in Montenegro was challenging, but each difficult section rewarded us with stunning views."
 align=center link="/blog/balkan-tet/PXL_20240606_154226480.jpg" target="_blank" >}}
 
 {{< figure src="/blog/balkan-tet/PXL_20240606_155434543.jpg"
@@ -125,8 +123,8 @@ the morning after we crossed to Bosnia.
 attr="Once we figured out the Enduristan panniers we loved their simplicity. We both travelled on 24 liters."
 align=center link="/blog/balkan-tet/PXL_20240607_130321323.jpg" target="_blank" >}}
 
-The war in Bosnia and Herzegovina ended in 1995 leaving over 100.000 dead, millions displaced, and thousands of mines
-still active. There were multiple occasions were we passed by group graves with 300 or 400 names written on the
+The war in Bosnia and Herzegovina ended in 1995, leaving over 100,000 dead, millions displaced, and thousands of active
+mines. There were multiple occasions were we passed by group graves with 300 or 400 names written on the
 tombstone or plains that were completely altered by bombing.
 
 {{< figure src="/blog/balkan-tet/PXL_20240608_133427192.jpg"
@@ -137,9 +135,9 @@ align=center link="/blog/balkan-tet/PXL_20240608_133427192.jpg" target="_blank" 
 attr="Dense forests and mud."
 align=center link="/blog/balkan-tet/IMG_3082.jpg" target="_blank" >}}
 
-At Bosnia, we spent our first night at Mostar. A beautiful city - although a bit touristic - that has a Unesco heritage
-site, the old bridge of Stari Most. The bridge was completely destroyed in 1993, but was reconstructed from the very
-same materials, retrieved from the river bellow!
+In Bosnia, we spent our first night in Mostar, a beautiful city, albeit a bit touristic, home to the UNESCO World
+Heritage site, the old bridge of Stari Most. The bridge was completely destroyed in 1993, but was reconstructed from the
+very same materials, retrieved from the river bellow!
 
 {{< figure src="/blog/balkan-tet/PXL_20240608_104304878.MP.jpg"
 attr="Rama, an artificial lake built in the 60s."
@@ -224,21 +222,23 @@ align=center link="/blog/balkan-tet/PXL_20240613_172934731.jpg" target="_blank" 
 attr="Our last stop at Albania before crossing the border to Greece."
 align=center link="/blog/balkan-tet/PXL_20240614_134923285.jpg" target="_blank" >}}
 
-Since we had a day left we decided to stay at Ioannina and then pick up the Greek TET from there to Spercheiada through
-Agrafa. Unfortunately the Tenere had other plans as it decided to start leaking from the oil pain at the spot we had
-previously repaired. Luckily we found a stronger metal glue at Ioannina, and repaired it without loosing any of the oil.
-Because we lost a couple of hours in that process and had a lot of riding to get to Spercheiada we decided to skip that
-part and go straight to Athens.
+With an extra day left, we decided to stay in Ioannina and then take the Greek TET to Spercheiada through Agrafa.
+Unfortunately, the Tenere had other plans and started leaking oil from the previously repaired spot. Luckily we found a
+stronger metal glue at Ioannina, and repaired it without loosing any of the oil. Because we lost a couple of hours in
+that process and had a lot of riding to get to Spercheiada we decided to skip that part and go straight to Athens.
 
 # Wrap up
 
-This being our first big off-road motorcycle journey we learned a lot of things.
+Being our first major off-road motorcycle journey, we learned a lot.
 
 - Enduro clothing is the way to go for such trips. Although disadvantageous on a highway crash their off-road and high
   temperature comfort is unparalleled.
-- Camping can become a chore for two people on motos. An alternative we would like to try is having a stationary camp
-  and rather explore the surroundings instead of camping on the way when trying to cover such lage distances.
+- Camping can be challenging for two people on motorcycles. An alternative approach we're interested in trying involves
+  setting up a stationary camp and exploring the surroundings, rather than camping along the way when covering long
+  distances.
 - 30 liters are enough to carry your personal belongings and tools.
 - A break of 1-2 days in the middle of the trip is necessary for rest.
+- The rack-less panniers take some time to figure out, but once you do, you almost forget they're on the bike.
+- What can go wrong, will go wrong.
 
 Up next is Cappadocia with a pillion!

@@ -31,7 +31,7 @@ Having done my self a big part of the Greek TET, it was a no-brainer when Christ
 the Balkans. Up to that point we both had mid-sized adventure bikes, enough experience to tackle hard roads on them, and
 not enough experience to travel long distance on motorcycles.
 
-# Albania
+# The story
 
 We left noon of the first day of June and decided to ride the national road to the border crossing of Konispol. This
 allowed us to stay in Sarandë for the night and start the TET fresh the next day. The initial section from Sarandë to

@@ -101,7 +101,7 @@ align=center link="/blog/balkan-tet/PXL_20240605_084353115.jpg" target="_blank" 
 attr="Podgorica has a large river crossing through its city center - it is full of green parks."
 align=center link="/blog/balkan-tet/PXL_20240605_175217576.jpg" target="_blank" >}}
 
-AIn Podgorica, we realized that camping while traveling at such a fast pace was impractical. We didn't want to waste
+In Podgorica, we realized that camping while traveling at such a fast pace was impractical. We didn't want to waste
 time on tasks like gathering food supplies, cooking, and setting up camp. Don't misunderstand, we both love camping.
 However, it didn't seem practical since accommodations were inexpensive and food was even cheaper. We left our camping
 gear in the rooms where we stayed and planned to retrieve it on our way

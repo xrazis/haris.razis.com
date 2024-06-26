@@ -72,7 +72,7 @@ align=center link="/blog/balkan-tet/IMG_2923.jpg" target="_blank" >}}
 {{< figure src="/blog/balkan-tet/IMG_2925.jpg" attr="The Tenere taking a siesta."
 align=center link="/blog/balkan-tet/IMG_2925" target="_blank" >}}
 
-{{< figure src="/blog/balkan-tet/IMG_2945.jpg" attr="An active mine in Lura where we decided to stop for a photo."
+{{< figure src="/blog/balkan-tet/IMG_2945.jpg" attr="Little did we know of the suffer fest that lied ahead."
 align=center link="/blog/balkan-tet/IMG_2945.jpg" target="_blank" >}}
 
 The road up to the mine wasn't too bad, but we were tired and hungry. We still had 60 km through the Lura mountain and
@@ -108,7 +108,7 @@ gear in the rooms where we stayed and planned to retrieve it on our way
 back. [Lightweight baby](https://www.youtube.com/watch?v=TRcR-_nF84o)!
 
 {{< figure src="/blog/balkan-tet/PXL_20240606_154226480.jpg"
-attr="TRiding in Montenegro was challenging, but each difficult section rewarded us with stunning views."
+attr="Riding in Montenegro was challenging, but each difficult section rewarded us with stunning views."
 align=center link="/blog/balkan-tet/PXL_20240606_154226480.jpg" target="_blank" >}}
 
 {{< figure src="/blog/balkan-tet/PXL_20240606_155434543.jpg"

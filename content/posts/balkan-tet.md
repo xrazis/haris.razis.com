@@ -9,17 +9,17 @@ draft: false
 # Introduction
 
 The [Trans Euro Trail](https://transeurotrail.org/) (TET) is a scenic GPX route that spans the
-entire European continent. As of now, its length is approximately 100,000 kilometers and continues to grow. Each country
-has its own linesman to curate the GPX, but the community behind it is much larger than just one person!
+entire European continent. As of now, its length is approximately 100 thousand kilometers and continues to grow. Each
+country has its own linesman to curate the GPX, but the community behind it is much larger than just one person!
 
-I have known Christos for the better part of my adult life. We met at a bicycle group ride I participated with my other
+I’ve known Christos for the better part of my adult life. We met at a bicycle group ride I participated with my other
 dearest friend, Apostolos. We hit it off from the start, which led us to riding, camping, touring, and racing bikes
 together. As the excitement of road biking waned for Christos and me, we transitioned to motorbikes, freeing us from the
 hassle of transporting bicycles.
 
 My first big bike was (and still is) a KTM LC4 640 Enduro. Christos purchased a Suzuki V-STROM 650. We rode a few times
-together but due to COVID and us living in different areas for a while it was mostly short road rides. By that point, I
-had already traveled extensively off-road and often shared with my friends how exhilarating it is to navigate
+together, but due to COVID-19 and us living in different areas for a while, it was mostly short road rides. By that
+point, I had already traveled extensively off-road and often shared with my friends how exhilarating it is to navigate
 challenging mountain roads, despite the occasional risk of injury.
 
 I believe the moment it clicked for Christos was during our first off-road ride together 2 or 3 years ago.
@@ -29,11 +29,11 @@ align=center link="/blog/balkan-tet/PXL_20221003_103752293.jpg" target="_blank" 
 
 Having done my self a big part of the Greek TET, it was a no-brainer when Christos told me we should go on a big trip to
 the Balkans. Up to that point we both had mid-sized adventure bikes, enough experience to tackle hard roads on them, and
-not enough experience to travel long distance on motorcycles.
+not enough experience to travel long distances on motorcycles.
 
 # The story
 
-We left noon of the first day of June and decided to ride the national road to the border crossing of Konispol. This
+We left at noon of the first day of June and decided to ride the national road to the border crossing of Konispol. This
 allowed us to stay in Sarandë for the night and start the TET fresh the next day. The initial section from Sarandë to
 Këlcyrë was familiar terrain for us; the scenery closely resembled Greece, and the off-road was predominantly rocky.
 
@@ -64,7 +64,7 @@ align=center link="/blog/balkan-tet/PXL_20240604_091839484.jpg" target="_blank" 
 
 We decided to head to Elbassan for the night, a 4-hour drive from our location. After a brief coffee stop in Berat, we
 arrived in Elbassan and explored its beautiful old city. The fourth day we had planned to do 250km and spend
-the night somewhere close the border, so we could enter Montenegro the next morning. So we thought.
+the night somewhere close to the border, so we could enter Montenegro the next morning. So we thought.
 
 {{< figure src="/blog/balkan-tet/IMG_2923.jpg" attr="Albania does not have food-rich bakeries like we do..."
 align=center link="/blog/balkan-tet/IMG_2923.jpg" target="_blank" >}}
@@ -151,7 +151,7 @@ align=center link="/blog/balkan-tet/IMG_3087.jpg" target="_blank" >}}
 attr="Šatorsko lake, our last stop before entering Croatia."
 align=center link="/blog/balkan-tet/PXL_20240609_090046232.jpg" target="_blank" >}}
 
-Our second night at Bosnia was near the border to Croatia, at Glamoč. Nothing special, just a nights sleep and off to
+Our second night in Bosnia was near the border to Croatia, at Glamoč. Nothing special, just a night's sleep, and off to
 Croatia. At Knin we decided to have a rest day and do some sightseeing.
 Their [fortress](https://en.wikipedia.org/wiki/Knin_Fortress) is actually the most important stronghold of Croatia and
 has had a turbulent history.
@@ -183,7 +183,7 @@ align=center link="/blog/balkan-tet/IMG_3154.jpg" target="_blank" >}}
 attr="The park is better visited late as there are close to no people."
 align=center link="/blog/balkan-tet/IMG_3182.jpg" target="_blank" >}}
 
-We found a stay near the lakes and the next day we were off to finish the Croatian TET. We woke up to rain but the
+We found a stay near the lakes, and the next day we were off to finish the Croatian TET. We woke up to rain, but the
 weather quickly got better.
 
 {{< figure src="/blog/balkan-tet/IMG_3185.jpg"
@@ -191,7 +191,7 @@ attr="The only time we had to wear our rain gear."
 align=center link="/blog/balkan-tet/IMG_3185.jpg" target="_blank" >}}
 
 The TET ends at the Slovenian boarder, near the town of Delnice. We chose to skip the final
-section since it was paved, and instead headed to Zadar for our first overnight stay on the way back. We chose Zadar as
+section since it was paved and instead headed to Zadar for our first overnight stay on the way back. We chose Zadar as
 it seemed good-looking enough on the photos (as it actually was irl) and it was on our way as we wanted to visit Split
 and Dubrovnik.
 
@@ -215,7 +215,7 @@ attr="A gallery we visited at Podgorica."
 align=center link="/blog/balkan-tet/PXL_20240613_165758183.jpg" target="_blank" >}}
 
 {{< figure src="/blog/balkan-tet/PXL_20240613_172934731.jpg"
-attr="Various activities are performed in the river that passes Podgorica - from swimming to canyoning."
+attr="Various activities are performed in the river that passes Podgorica—from swimming to canyoning."
 align=center link="/blog/balkan-tet/PXL_20240613_172934731.jpg" target="_blank" >}}
 
 {{< figure src="/blog/balkan-tet/PXL_20240614_134923285.jpg"
@@ -223,22 +223,22 @@ attr="Our last stop at Albania before crossing the border to Greece."
 align=center link="/blog/balkan-tet/PXL_20240614_134923285.jpg" target="_blank" >}}
 
 With an extra day left, we decided to stay in Ioannina and then take the Greek TET to Spercheiada through Agrafa.
-Unfortunately, the Tenere had other plans and started leaking oil from the previously repaired spot. Luckily we found a
-stronger metal glue at Ioannina, and repaired it without loosing any of the oil. Because we lost a couple of hours in
+Unfortunately, the Tenere had other plans and started leaking oil from the previously repaired spot. Luckily, we found a
+stronger metal glue at Ioannina, and repaired it without losing any of the oil. Because we lost a couple of hours in
 that process and had a lot of riding to get to Spercheiada we decided to skip that part and go straight to Athens.
 
 # Wrap up
 
 Being our first major off-road motorcycle journey, we learned a lot.
 
-- Enduro clothing is the way to go for such trips. Although disadvantageous on a highway crash their off-road and high
-  temperature comfort is unparalleled.
+- Enduro clothing is the way to go for such trips. Although disadvantageous on a highway, crash their off-road and
+- high-temperature comfort is unparalleled.
 - Camping can be challenging for two people on motorcycles. An alternative approach we're interested in trying involves
   setting up a stationary camp and exploring the surroundings, rather than camping along the way when covering long
   distances.
-- 30 liters are enough to carry your personal belongings and tools.
-- A break of 1-2 days in the middle of the trip is necessary for rest.
+- Thirty liters are enough to carry your personal belongings and tools.
+- A break of 1–2 days in the middle of the trip is necessary for rest.
 - The rack-less panniers take some time to figure out, but once you do, you almost forget they're on the bike.
-- What can go wrong, will go wrong.
+- What can go wrong will go wrong.
 
 Up next is Cappadocia with a pillion!

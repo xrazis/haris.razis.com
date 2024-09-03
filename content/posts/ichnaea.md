@@ -2,7 +2,7 @@
 title: "Body position tracking"
 summary: Scalable IoT solution for real-time body position tracking
 date: 2021-11-26
-tags: [ "Web", "Networking", "System" ]
+tags: [ "Web", "Frontend", "Backend", "Networking", "System" ]
 draft: false
 ---
 

@@ -2,7 +2,7 @@
 title: "A naive approach to blogging"
 summary: An early exploration of the web front
 date: 2022-03-15
-tags: [ "Web" ]
+tags: [ "Web", "Frontend", "Backend" ]
 draft: false
 ---
 

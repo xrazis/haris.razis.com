@@ -2,7 +2,7 @@
 title: "Debugging Unifi connections"
 summary: Accessing Unifi OS logs
 date: 2022-07-08
-tags: ["Networking", "Unifi", "Ubiquity"]
+tags: [ "Networking" ]
 draft: false
 ---
 

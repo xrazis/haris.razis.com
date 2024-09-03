@@ -2,7 +2,7 @@
 title: "resolved.conf"
 summary: Unresolvable host workaround
 date: 2022-06-23
-tags: ["Linux", "systemd", "Networking"]
+tags: [ "Linux", "Networking" ]
 draft: false
 ---
 

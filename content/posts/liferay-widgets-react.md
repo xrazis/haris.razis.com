@@ -2,7 +2,7 @@
 title: "Liferay widgets and React"
 summary: How to build a React Portlet on Liferay 7.2 with widgets
 date: 2023-09-25
-tags: [ "React", "Liferay" ]
+tags: [ "Web", "Liferay" ]
 draft: false
 ---
 

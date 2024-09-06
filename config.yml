@@ -44,12 +44,13 @@ params:
     enabled: false # needs to be explicitly set
 
   homeInfoParams:
-    Title: "My name is Haris Razis"
+    Title: "Hey, I'm Haris"
     Content: >
-      - I’m a software engineer and a great guy. This corner of the web is my digital garden, a small collection
-      of things I’ve learned over the years. 
+      - I create bugs for a living, and this corner of the web is my digital garden — a small collection of things I’ve 
+      learned over the years. Here, you’ll find my personal projects, technical insights, and stories from my motorcycle 
+      adventures.
       
-      -
+      - 
       
       - My default handle is **xrazis**.
 

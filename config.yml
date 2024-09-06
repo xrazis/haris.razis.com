@@ -32,6 +32,7 @@ params:
   hideSummary: false
   showtoc: true
   tocopen: false
+  ShowPageNums: true
 
   assets:
     disableHLJS: true

@@ -16,7 +16,7 @@ params:
   title: xrazis
   description: "My personal website"
   keywords: [ Blog, Portfolio, PaperMod ]
-  images: [ "./favicon.png" ]
+  images: [ "./loupo-big.png" ]
   DateFormat: "2 January, 2006"
   defaultTheme: dark
   disableThemeToggle: true

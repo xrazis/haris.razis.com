@@ -2,50 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Web on xrazis · Haris Razis</title>
-    <link>https://haris.razis.com/tags/web/</link>
+    <link>http://localhost:1313/tags/web/</link>
     <description>Recent content in Web on xrazis · Haris Razis</description>
     <image>
       <title>xrazis · Haris Razis</title>
-      <url>https://haris.razis.com/loupo-big.png</url>
-      <link>https://haris.razis.com/loupo-big.png</link>
+      <url>http://localhost:1313/loupo-big.png</url>
+      <link>http://localhost:1313/loupo-big.png</link>
     </image>
     <generator>Hugo -- 0.134.1</generator>
     <language>en</language>
     <lastBuildDate>Thu, 18 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://haris.razis.com/tags/web/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/web/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to create a snowfall effect in the browser</title>
-      <link>https://haris.razis.com/posts/fundamental-canvas-library/</link>
+      <link>http://localhost:1313/posts/fundamental-canvas-library/</link>
       <pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://haris.razis.com/posts/fundamental-canvas-library/</guid>
+      <guid>http://localhost:1313/posts/fundamental-canvas-library/</guid>
       <description>Building a basic Canvas library to animate falling objects in the background</description>
     </item>
     <item>
       <title>Liferay widgets and React</title>
-      <link>https://haris.razis.com/posts/liferay-widgets-react/</link>
+      <link>http://localhost:1313/posts/liferay-widgets-react/</link>
       <pubDate>Mon, 25 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://haris.razis.com/posts/liferay-widgets-react/</guid>
+      <guid>http://localhost:1313/posts/liferay-widgets-react/</guid>
       <description>How to build a React Portlet on Liferay 7.2 with widgets</description>
     </item>
     <item>
       <title>Handling emails for statically generated sites</title>
-      <link>https://haris.razis.com/posts/form-endpoint/</link>
+      <link>http://localhost:1313/posts/form-endpoint/</link>
       <pubDate>Fri, 08 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://haris.razis.com/posts/form-endpoint/</guid>
+      <guid>http://localhost:1313/posts/form-endpoint/</guid>
       <description>Minimal Express.js server to post emails from static sites build with tools like Hugo</description>
     </item>
     <item>
       <title>A naive approach to blogging</title>
-      <link>https://haris.razis.com/posts/alfacycling/</link>
+      <link>http://localhost:1313/posts/alfacycling/</link>
       <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://haris.razis.com/posts/alfacycling/</guid>
+      <guid>http://localhost:1313/posts/alfacycling/</guid>
       <description>An early exploration of the web front</description>
     </item>
     <item>
       <title>Body position tracking</title>
-      <link>https://haris.razis.com/posts/ichnaea/</link>
+      <link>http://localhost:1313/posts/ichnaea/</link>
       <pubDate>Fri, 26 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://haris.razis.com/posts/ichnaea/</guid>
+      <guid>http://localhost:1313/posts/ichnaea/</guid>
       <description>Scalable IoT solution for real-time body position tracking</description>
     </item>
   </channel>

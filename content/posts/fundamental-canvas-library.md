@@ -261,7 +261,7 @@ config object with the following options:
 const config = {
   canvas: 'canvas-animation',
   particlesCount: 10,
-  spriteUrl: "https://haris.razis.com/blog/20240114-cat.png",
+  spriteUrl: "https://haris.razis.com/blog/20240114-cat.webp",
   spriteElementsX: 5,
   spriteElementsY: 2,
 };

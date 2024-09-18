@@ -1,23 +1,31 @@
 #!/bin/bash
 
-# Set the desired quality (adjust as needed)
-quality=90
+# Directory where the images are located
+image_dir="../static/blog"
 
-# Loop through each image in the current directory
-for file in *.jpg; do
-    # Check if the file is a regular file
-    if [ -f "$file" ]; then
+# Directory where the replacement should be done
+content_dir="../content/posts"
+
+# Loop through both .jpg and .png images in the directory and its subdirectories
+for ext in jpg png; do
+    find "$image_dir" -type f -name "*.$ext" | while read -r file; do
         # Get the filename without extension
         filename="${file%.*}"
 
         # Convert the image to WebP format with specified quality
-        convert "$file" -quality $quality "${filename}.webp"
-    fi
+        convert "$file" -quality 90 "${filename}.webp"
+    done
+
+    echo "Conversion of .$ext files complete."
+
+    # Remove original images
+    find "$image_dir" -type f -name "*.$ext" -delete
 done
 
-echo "Conversion complete."
+echo "All original images removed."
 
-for file in *.jpg; do
-    # Check if the file is a regular file
-    rm "$file"
-done
+# Replace code references of .jpg and .png with .webp in the content directory and its subdirectories
+find "$content_dir" -type f -exec sed -i 's/\.jpg/\.webp/g' {} +
+find "$content_dir" -type f -exec sed -i 's/\.png/\.webp/g' {} +
+
+echo "Replacement complete."

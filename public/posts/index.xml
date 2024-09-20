@@ -2,78 +2,78 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on xrazis · Haris Razis</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://haris.razis.com/posts/</link>
     <description>Recent content in Posts on xrazis · Haris Razis</description>
     <image>
       <title>xrazis · Haris Razis</title>
-      <url>http://localhost:1313/loupo-big.png</url>
-      <link>http://localhost:1313/loupo-big.png</link>
+      <url>https://haris.razis.com/loupo-big.png</url>
+      <link>https://haris.razis.com/loupo-big.png</link>
     </image>
     <generator>Hugo -- 0.134.1</generator>
     <language>en</language>
     <lastBuildDate>Thu, 20 Jun 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://haris.razis.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>TET Albania-Montenegro-Bosnia-Croatia</title>
-      <link>http://localhost:1313/posts/balkan-tet/</link>
+      <link>https://haris.razis.com/posts/balkan-tet/</link>
       <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/balkan-tet/</guid>
+      <guid>https://haris.razis.com/posts/balkan-tet/</guid>
       <description>Our first long moto trip into the Balkans</description>
     </item>
     <item>
       <title>How to create a snowfall effect in the browser</title>
-      <link>http://localhost:1313/posts/fundamental-canvas-library/</link>
+      <link>https://haris.razis.com/posts/fundamental-canvas-library/</link>
       <pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/fundamental-canvas-library/</guid>
+      <guid>https://haris.razis.com/posts/fundamental-canvas-library/</guid>
       <description>Building a basic Canvas library to animate falling objects in the background</description>
     </item>
     <item>
       <title>Dotfiles</title>
-      <link>http://localhost:1313/posts/dotfiles/</link>
+      <link>https://haris.razis.com/posts/dotfiles/</link>
       <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/dotfiles/</guid>
+      <guid>https://haris.razis.com/posts/dotfiles/</guid>
       <description>How to automate your system installs and keep your application configuration in dotfiles</description>
     </item>
     <item>
       <title>Liferay widgets and React</title>
-      <link>http://localhost:1313/posts/liferay-widgets-react/</link>
+      <link>https://haris.razis.com/posts/liferay-widgets-react/</link>
       <pubDate>Mon, 25 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/liferay-widgets-react/</guid>
+      <guid>https://haris.razis.com/posts/liferay-widgets-react/</guid>
       <description>How to build a React Portlet on Liferay 7.2 with widgets</description>
     </item>
     <item>
       <title>Handling emails for statically generated sites</title>
-      <link>http://localhost:1313/posts/form-endpoint/</link>
+      <link>https://haris.razis.com/posts/form-endpoint/</link>
       <pubDate>Fri, 08 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/form-endpoint/</guid>
+      <guid>https://haris.razis.com/posts/form-endpoint/</guid>
       <description>Minimal Express.js server to post emails from static sites build with tools like Hugo</description>
     </item>
     <item>
       <title>Debugging Unifi connections</title>
-      <link>http://localhost:1313/posts/debugging-unifi-connections/</link>
+      <link>https://haris.razis.com/posts/debugging-unifi-connections/</link>
       <pubDate>Fri, 08 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/debugging-unifi-connections/</guid>
+      <guid>https://haris.razis.com/posts/debugging-unifi-connections/</guid>
       <description>Accessing Unifi OS logs</description>
     </item>
     <item>
       <title>resolved.conf</title>
-      <link>http://localhost:1313/posts/resolved.conf/</link>
+      <link>https://haris.razis.com/posts/resolved.conf/</link>
       <pubDate>Thu, 23 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/resolved.conf/</guid>
+      <guid>https://haris.razis.com/posts/resolved.conf/</guid>
       <description>Unresolvable host workaround</description>
     </item>
     <item>
       <title>A naive approach to blogging</title>
-      <link>http://localhost:1313/posts/alfacycling/</link>
+      <link>https://haris.razis.com/posts/alfacycling/</link>
       <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/alfacycling/</guid>
+      <guid>https://haris.razis.com/posts/alfacycling/</guid>
       <description>An early exploration of the web front</description>
     </item>
     <item>
       <title>Body position tracking</title>
-      <link>http://localhost:1313/posts/ichnaea/</link>
+      <link>https://haris.razis.com/posts/ichnaea/</link>
       <pubDate>Fri, 26 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/ichnaea/</guid>
+      <guid>https://haris.razis.com/posts/ichnaea/</guid>
       <description>Scalable IoT solution for real-time body position tracking</description>
     </item>
   </channel>

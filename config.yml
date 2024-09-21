@@ -14,7 +14,7 @@ minify:
 params:
   env: production
   title: xrazis
-  description: "My personal website"
+  description: "Software engineer, avid motorcyclist, occasional racer."
   keywords: [ Blog, Portfolio, PaperMod ]
   images: [ "./cup.png" ]
   DateFormat: "2 January, 2006"

@@ -135,8 +135,7 @@ name fails to resolve properly, or if the domain’s IP is different from the on
 resolves.
 ```
 
-So changing the Plesk URL should resolve all of these issues. I also went ahead and added the hostname in the postfix
-template, as per
+So changing the Plesk URL resolved the issue. I also went ahead and added the hostname in the postfix template, as per
 [Plesk instructions](https://support.plesk.com/hc/en-us/articles/12377559724567-How-to-change-the-hostname-and-SMTP-banner-in-Postfix-on-a-Plesk-server).
 You also have to update the DNS templates from Plesk and sync the changes to Digital Ocean. The specific 'problematic'
 record is the host txt record.

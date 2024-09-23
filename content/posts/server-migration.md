@@ -2,7 +2,7 @@
 title: Server Migration
 summary: Migrating a Plesk server with multiple production environments.
 date: 2024-09-23
-tags: [ "System", "Linux", "Networking", "Plesk" ]
+tags: [ System, Linux, Networking, Plesk ]
 draft: false
 ---
 

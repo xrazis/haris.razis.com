@@ -11,8 +11,36 @@
     </image>
     <generator>Hugo -- 0.134.3</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 20 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Sep 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://haris.razis.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linux</title>
+      <link>https://haris.razis.com/tags/linux/</link>
+      <pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://haris.razis.com/tags/linux/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Networking</title>
+      <link>https://haris.razis.com/tags/networking/</link>
+      <pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://haris.razis.com/tags/networking/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Plesk</title>
+      <link>https://haris.razis.com/tags/plesk/</link>
+      <pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://haris.razis.com/tags/plesk/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>System</title>
+      <link>https://haris.razis.com/tags/system/</link>
+      <pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://haris.razis.com/tags/system/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Moto</title>
       <link>https://haris.razis.com/tags/moto/</link>
@@ -42,13 +70,6 @@
       <description></description>
     </item>
     <item>
-      <title>Linux</title>
-      <link>https://haris.razis.com/tags/linux/</link>
-      <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://haris.razis.com/tags/linux/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Liferay</title>
       <link>https://haris.razis.com/tags/liferay/</link>
       <pubDate>Mon, 25 Sep 2023 00:00:00 +0000</pubDate>
@@ -60,20 +81,6 @@
       <link>https://haris.razis.com/tags/backend/</link>
       <pubDate>Fri, 08 Sep 2023 00:00:00 +0000</pubDate>
       <guid>https://haris.razis.com/tags/backend/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Networking</title>
-      <link>https://haris.razis.com/tags/networking/</link>
-      <pubDate>Fri, 08 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://haris.razis.com/tags/networking/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>System</title>
-      <link>https://haris.razis.com/tags/system/</link>
-      <pubDate>Fri, 26 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://haris.razis.com/tags/system/</guid>
       <description></description>
     </item>
   </channel>

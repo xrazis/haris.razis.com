@@ -2,16 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://haris.razis.com/tags/linux/</loc>
+    <lastmod>2024-09-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://haris.razis.com/tags/networking/</loc>
+    <lastmod>2024-09-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://haris.razis.com/tags/plesk/</loc>
+    <lastmod>2024-09-23T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://haris.razis.com/posts/</loc>
-    <lastmod>2024-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://haris.razis.com/</loc>
-    <lastmod>2024-09-01T00:00:00+00:00</lastmod>
+    <loc>https://haris.razis.com/posts/server-migration/</loc>
+    <lastmod>2024-09-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://haris.razis.com/tags/moto/</loc>
-    <lastmod>2024-06-20T00:00:00+00:00</lastmod>
+    <loc>https://haris.razis.com/tags/system/</loc>
+    <lastmod>2024-09-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://haris.razis.com/tags/</loc>
+    <lastmod>2024-09-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://haris.razis.com/</loc>
+    <lastmod>2024-09-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://haris.razis.com/tags/moto/</loc>
     <lastmod>2024-06-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://haris.razis.com/posts/balkan-tet/</loc>
@@ -32,9 +47,6 @@
     <loc>https://haris.razis.com/posts/dotfiles/</loc>
     <lastmod>2023-10-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://haris.razis.com/tags/linux/</loc>
-    <lastmod>2023-10-02T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://haris.razis.com/tags/liferay/</loc>
     <lastmod>2023-09-25T00:00:00+00:00</lastmod>
   </url><url>
@@ -50,9 +62,6 @@
     <loc>https://haris.razis.com/posts/debugging-unifi-connections/</loc>
     <lastmod>2022-07-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://haris.razis.com/tags/networking/</loc>
-    <lastmod>2022-07-08T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://haris.razis.com/posts/resolved.conf/</loc>
     <lastmod>2022-06-23T00:00:00+00:00</lastmod>
   </url><url>
@@ -60,9 +69,6 @@
     <lastmod>2022-03-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://haris.razis.com/posts/ichnaea/</loc>
-    <lastmod>2021-11-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://haris.razis.com/tags/system/</loc>
     <lastmod>2021-11-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://haris.razis.com/archives/</loc>

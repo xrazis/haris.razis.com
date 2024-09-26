@@ -7,5 +7,6 @@
     --content: rgb(230, 230, 230);
     --hljs-bg: rgba(0, 0, 0, 0.5);
     --code-bg: rgb(31, 31, 31);
-    --border: rgb(44, 44, 44);
+    --code-block-bg: rgb(19, 19, 19);
+    --border: rgb(82, 82, 82);
 }

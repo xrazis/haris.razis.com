@@ -22,7 +22,7 @@ params:
   disableThemeToggle: true
   ShowReadingTime: true
   ShowShareButtons: false
-  ShowPostNavLinks: true
+  ShowPostNavLinks: false
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
   disableSpecial1stPost: false
@@ -39,7 +39,7 @@ params:
     favicon32x32: "/favicon.png"
 
   label:
-    text: "xrazis"
+    text: "Haris Razis"
 
   profileMode:
     enabled: false # needs to be explicitly set
@@ -92,18 +92,14 @@ params:
 
 menu:
   main:
-    - identifier: archives
-      name: Archive
-      url: /archives/
-      weight: 10
     - identifier: tags
       name: Tags
       url: /tags/
-      weight: 20
+      weight: 10
     - identifier: search
       name: Search
       url: /search/
-      weight: 30
+      weight: 20
 
 outputs:
   home:

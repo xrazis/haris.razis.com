@@ -14,74 +14,144 @@
     <lastBuildDate>Mon, 23 Sep 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://haris.razis.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Server Migration</title>
+      <title>Migrating a Plesk server with multiple production environments.</title>
       <link>https://haris.razis.com/posts/server-migration/</link>
       <pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate>
       <guid>https://haris.razis.com/posts/server-migration/</guid>
-      <description>Migrating a Plesk server with multiple production environments.</description>
+      <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;I have been maintaining a managed Plesk server on a Greek hosting provider for the past few years. It contains a handful
+of production websites and their respective mail servers. While it was okayish for basic hosting needs, the demands
+quickly outgrew it with limitations starting to appear on the infrastructure, supported technologies, and services.&lt;/p&gt;
+&lt;p&gt;After a little market research, I decided that the way forward would be Digital Ocean, as they provide solid cloud
+infrastructure with a plethora of tools. I also decided to keep Plesk as the server
+management platform. It will be adequate for the low needs of basic Node.js sites and small eshops, with the
+added benefit of an embedded mail server, security features, automations, and backups.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>TET Albania-Montenegro-Bosnia-Croatia</title>
+      <title>Trans Euro Trail Albania-Montenegro-Bosnia-Croatia</title>
       <link>https://haris.razis.com/posts/balkan-tet/</link>
       <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://haris.razis.com/posts/balkan-tet/</guid>
-      <description>Our first long moto trip into the Balkans</description>
+      <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;The &lt;a href=&#34;https://transeurotrail.org/&#34;&gt;Trans Euro Trail&lt;/a&gt; (TET) is a scenic GPX route that spans the
+entire European continent. As of now, its length is approximately 100 thousand kilometers and continues to grow. Each
+country has its own linesman to curate the GPX, but the community behind it is much larger than just one person!&lt;/p&gt;
+&lt;p&gt;I’ve known Christos for the better part of my adult life. We met at a bicycle group ride I participated with my other
+dearest friend, Apostolos. We hit it off from the start, which led us to riding, camping, touring, and racing bikes
+together. As the excitement of road biking waned for Christos and me, we transitioned to motorbikes, freeing us from the
+hassle of transporting bicycles.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How to create a snowfall effect in the browser</title>
-      <link>https://haris.razis.com/posts/fundamental-canvas-library/</link>
+      <link>https://haris.razis.com/posts/snowfall-canvas-library/</link>
       <pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://haris.razis.com/posts/fundamental-canvas-library/</guid>
-      <description>Building a basic Canvas library to animate falling objects in the background</description>
+      <guid>https://haris.razis.com/posts/snowfall-canvas-library/</guid>
+      <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;The Canvas API is used to draw graphics with Javascript. It can be utilized to make browser games, animations, visualize
+data, and much more. We will create a really basic Canvas library that receives input from a configuration file and
+draws the falling items animation.&lt;/p&gt;
+&lt;h1 id=&#34;particle-class&#34;&gt;Particle Class&lt;/h1&gt;
+&lt;p&gt;The &lt;code&gt;Particle&lt;/code&gt; class represents a single falling object. It is initialized with the same config object as the &lt;code&gt;Effect&lt;/code&gt;
+class, as it needs many of the same parameters for correctly placing a particle inside the viewport. The constructor
+is where the majority of the logic is placed. After randomly picking the position in the canvas, we set the size and
+speed with &lt;code&gt;Math.random()&lt;/code&gt; so we get an effect of depth and different weight for each object.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Dotfiles</title>
+      <title>How to automate your system installs and keep your application configuration in dotfiles</title>
       <link>https://haris.razis.com/posts/dotfiles/</link>
       <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://haris.razis.com/posts/dotfiles/</guid>
-      <description>How to automate your system installs and keep your application configuration in dotfiles</description>
+      <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;Dotfiles are user-specific application configuration files that your filesystem does not display by default, and they
+start with a dot (ie &lt;code&gt;~/.gitconfig&lt;/code&gt;). It is common to host them in a git repository in order to keep a consistent
+environment across machines. We are going to automate some of our application installs and symlink our system dotfiles
+to a git repository.&lt;/p&gt;
+&lt;h1 id=&#34;repository-structure-and-dotfiles&#34;&gt;Repository structure and Dotfiles&lt;/h1&gt;
+&lt;p&gt;Firstly initialize a git repository, ie my GitHub repo has the following structure.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Liferay widgets and React</title>
+      <title>How to build a React Portlet on Liferay 7.2 with widgets</title>
       <link>https://haris.razis.com/posts/liferay-widgets-react/</link>
       <pubDate>Mon, 25 Sep 2023 00:00:00 +0000</pubDate>
       <guid>https://haris.razis.com/posts/liferay-widgets-react/</guid>
-      <description>How to build a React Portlet on Liferay 7.2 with widgets</description>
+      <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;At my day job we decided to rewrite a Liferay portlet to React, it displays draws and results data from different
+numeric games (the client is a betting company slowly porting many of their games online). This particular portlet has
+been a pain in the ass to maintain, port new CRs, and was horrible performance wise, and that is because:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;The code was inherited from another company and was written a long time ago with questionable structure/logic. There
+was never enough time to do a proper cleanup or rewrite.&lt;/li&gt;
+&lt;li&gt;It tries to handle many different numeric games and in turn the code ends up being incomprehensible and bug prone.&lt;/li&gt;
+&lt;li&gt;It has many expensive DOM operations.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&#34;react-application&#34;&gt;React Application&lt;/h1&gt;
+&lt;p&gt;Developing the React application standalone and outside of Liferay is a huge boost of productivity as you can take
+advantage of features like live reloading and your IDE&amp;rsquo;s debugger. This particular project is based on a monolithic
+architecture with no direct communication to the server from the client (ex websockets). It is tightly coupled with
+third party vendors and much of the information displayed comes from APIs that other teams use as well (ex mobile
+vendor). Some of the API calls happen at the backend at a predefined interval, this way the endpoint does not get
+bottled down from requests. That information is exposed to a window variable so that specific context can be
+accessible from different parts of the application.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Handling emails for statically generated sites</title>
       <link>https://haris.razis.com/posts/form-endpoint/</link>
       <pubDate>Fri, 08 Sep 2023 00:00:00 +0000</pubDate>
       <guid>https://haris.razis.com/posts/form-endpoint/</guid>
-      <description>Minimal Express.js server to post emails from static sites build with tools like Hugo</description>
+      <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;Statically generated sites are fast and flexible but don&amp;rsquo;t have the ability to send &lt;em&gt;&lt;strong&gt;contact us&lt;/strong&gt;&lt;/em&gt; emails due to the
+lack of a backend. A simple solution would be using a service like Airform, Mailgun, or Formspree, but where&amp;rsquo;s the fun
+in that? Instead, we can build a simple Express.js API that will handle POST requests from a form and will in turn
+forward that email to a mailbox.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Debugging Unifi connections</title>
       <link>https://haris.razis.com/posts/debugging-unifi-connections/</link>
       <pubDate>Fri, 08 Jul 2022 00:00:00 +0000</pubDate>
       <guid>https://haris.razis.com/posts/debugging-unifi-connections/</guid>
-      <description>Accessing Unifi OS logs</description>
+      <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;Having SSH access to the server you are battling with is an invaluable tool - no matter how feature-rich the console may be. In the few past days, we (my father and I) faced connectivity issues on a corporate network where a specific client (a POS device) would not stay attached to the nearest access point but instead hop to an AP further away. That caused connectivity problems with slow/failed transactions. It finally proved to be a miss-configuration issue (as it always is) but had we had proper logging, we could have resolved the issue much sooner.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>resolved.conf</title>
+      <title>Unresolvable host workaround with resolved.conf</title>
       <link>https://haris.razis.com/posts/resolved.conf/</link>
       <pubDate>Thu, 23 Jun 2022 00:00:00 +0000</pubDate>
       <guid>https://haris.razis.com/posts/resolved.conf/</guid>
-      <description>Unresolvable host workaround</description>
+      <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;I encountered a weird issue the other day at work where I could not resolve a specific dev server on my laptop. Despite
+being logged to the company&amp;rsquo;s VPN and being able to resolve all the other servers, this specific one stubbornly
+refused. Going through the debugging process of a complex network was not an option, so &lt;code&gt;resolved.conf&lt;/code&gt; came to the
+rescue.&lt;/p&gt;
+&lt;h1 id=&#34;network-name-resolution-configuration-files&#34;&gt;Network Name Resolution configuration files&lt;/h1&gt;
+&lt;p&gt;The file &lt;code&gt;resolved.conf&lt;/code&gt; is responsible for local DNS and LLNMR (Link-Local Multicast Name Resolution) name resolution.
+The main file can be found under &lt;code&gt;/etc/systemd&lt;/code&gt; and its entries override any defaults. The following configuration was
+needed for the server to resolve.&lt;/p&gt;</description>
     </item>
     <item>
       <title>A naive approach to blogging</title>
       <link>https://haris.razis.com/posts/alfacycling/</link>
       <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
       <guid>https://haris.razis.com/posts/alfacycling/</guid>
-      <description>An early exploration of the web front</description>
+      <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;Building a blog from the ground up can be quite interesting. It won’t and can’t be a match to a feature-rich blogging
+engine, without any substantial effort at least, but it will help you understand topics like REST, CRUD, and many more.
+A while ago I created &lt;a href=&#34;https://github.com/xrazis/alfacycling.com&#34;&gt;alfacycling.com&lt;/a&gt;, a primitive blog to get my hands
+dirty with new technologies.&lt;/p&gt;
+&lt;h1 id=&#34;architecture&#34;&gt;Architecture&lt;/h1&gt;
+&lt;p&gt;The idea behind this project was pretty simple, have a landing page with some info about the team and two sub-routes
+with all the blogging and user functions. There is no user support besides a moderator, with some basic capabilities
+like creating, editing, or deleting a blog post.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Body position tracking</title>
+      <title>Scalable IoT solution for real-time body position tracking</title>
       <link>https://haris.razis.com/posts/ichnaea/</link>
       <pubDate>Fri, 26 Nov 2021 00:00:00 +0000</pubDate>
       <guid>https://haris.razis.com/posts/ichnaea/</guid>
-      <description>Scalable IoT solution for real-time body position tracking</description>
+      <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;A while ago I submitted my thesis with its subject being the study of the architecture of BAN and PAN, and their
+applications, with the aim of optimizing athletes performance, by enhancing personalized training practices. I was also
+tasked with creating an e-sport application that would collect and analyze data on the athlete’s body position in
+real-time. I named the e-sport application Icnhaea, and I will be referring to it as so for the rest of this post.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

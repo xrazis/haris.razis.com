@@ -1,8 +1,7 @@
 ---
-title: "Home Server"
-summary: Repurposing an old computer
+title: Home Server
 date: 2023-03-31
-tags: [ "Linux", "System" ]
+tags: [ Linux, System ]
 draft: true
 ---
 

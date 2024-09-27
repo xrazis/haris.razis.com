@@ -1,8 +1,7 @@
 ---
-title: "resolved.conf"
-summary: Unresolvable host workaround
+title: Unresolvable host workaround with resolved.conf
 date: 2022-06-23
-tags: [ "Linux", "Networking" ]
+tags: [ Linux, Networking ]
 draft: false
 ---
 

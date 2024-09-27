@@ -1,8 +1,7 @@
 ---
-title: "Handling emails for statically generated sites"
-summary: Minimal Express.js server to post emails from static sites build with tools like Hugo
+title: Handling emails for statically generated sites
 date: 2023-09-08
-tags: [ "Web", "Frontend", "Backend" ]
+tags: [ Web, Frontend, Backend ]
 draft: false
 ---
 

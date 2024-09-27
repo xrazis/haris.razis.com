@@ -1,8 +1,7 @@
 ---
-title: "Dotfiles"
-summary: How to automate your system installs and keep your application configuration in dotfiles
+title: How to automate your system installs and keep your application configuration in dotfiles
 date: 2023-10-02
-tags: [ "Linux" ]
+tags: [ Linux ]
 draft: false
 ---
 

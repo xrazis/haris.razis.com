@@ -14,25 +14,46 @@
     <lastBuildDate>Mon, 23 Sep 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://haris.razis.com/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Server Migration</title>
+      <title>Migrating a Plesk server with multiple production environments.</title>
       <link>https://haris.razis.com/posts/server-migration/</link>
       <pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate>
       <guid>https://haris.razis.com/posts/server-migration/</guid>
-      <description>Migrating a Plesk server with multiple production environments.</description>
+      <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;I have been maintaining a managed Plesk server on a Greek hosting provider for the past few years. It contains a handful
+of production websites and their respective mail servers. While it was okayish for basic hosting needs, the demands
+quickly outgrew it with limitations starting to appear on the infrastructure, supported technologies, and services.&lt;/p&gt;
+&lt;p&gt;After a little market research, I decided that the way forward would be Digital Ocean, as they provide solid cloud
+infrastructure with a plethora of tools. I also decided to keep Plesk as the server
+management platform. It will be adequate for the low needs of basic Node.js sites and small eshops, with the
+added benefit of an embedded mail server, security features, automations, and backups.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Dotfiles</title>
+      <title>How to automate your system installs and keep your application configuration in dotfiles</title>
       <link>https://haris.razis.com/posts/dotfiles/</link>
       <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://haris.razis.com/posts/dotfiles/</guid>
-      <description>How to automate your system installs and keep your application configuration in dotfiles</description>
+      <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;Dotfiles are user-specific application configuration files that your filesystem does not display by default, and they
+start with a dot (ie &lt;code&gt;~/.gitconfig&lt;/code&gt;). It is common to host them in a git repository in order to keep a consistent
+environment across machines. We are going to automate some of our application installs and symlink our system dotfiles
+to a git repository.&lt;/p&gt;
+&lt;h1 id=&#34;repository-structure-and-dotfiles&#34;&gt;Repository structure and Dotfiles&lt;/h1&gt;
+&lt;p&gt;Firstly initialize a git repository, ie my GitHub repo has the following structure.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>resolved.conf</title>
+      <title>Unresolvable host workaround with resolved.conf</title>
       <link>https://haris.razis.com/posts/resolved.conf/</link>
       <pubDate>Thu, 23 Jun 2022 00:00:00 +0000</pubDate>
       <guid>https://haris.razis.com/posts/resolved.conf/</guid>
-      <description>Unresolvable host workaround</description>
+      <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;I encountered a weird issue the other day at work where I could not resolve a specific dev server on my laptop. Despite
+being logged to the company&amp;rsquo;s VPN and being able to resolve all the other servers, this specific one stubbornly
+refused. Going through the debugging process of a complex network was not an option, so &lt;code&gt;resolved.conf&lt;/code&gt; came to the
+rescue.&lt;/p&gt;
+&lt;h1 id=&#34;network-name-resolution-configuration-files&#34;&gt;Network Name Resolution configuration files&lt;/h1&gt;
+&lt;p&gt;The file &lt;code&gt;resolved.conf&lt;/code&gt; is responsible for local DNS and LLNMR (Link-Local Multicast Name Resolution) name resolution.
+The main file can be found under &lt;code&gt;/etc/systemd&lt;/code&gt; and its entries override any defaults. The following configuration was
+needed for the server to resolve.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -1,8 +1,7 @@
 ---
-title: "How to create a snowfall effect in the browser"
-summary: Building a basic Canvas library to animate falling objects in the background
+title: How to create a snowfall effect in the browser
 date: 2024-01-18
-tags: [ "Web", "Frontend" ]
+tags: [ Web, Frontend ]
 draft: false
 ---
 

@@ -1,28 +1,42 @@
+:root {
+    --color-primary: #fcd37a;
+    --color-hover: #ffeea6;
+    --color-border: #999;
+    --color-background-hover: rgb(31, 31, 31);
+    --color-border-radius: 8px;
+    --color-border-default: #525252;
+}
+
 .nav {
     max-width: calc(var(--main-width) + var(--gap) * 2);
 }
 
-.chroma {
-    background-color: unset !important;
+.post-entry:hover,
+.post-tags a:hover,
+.paginav a:hover,
+.terms-tags a:hover {
+    border-color: var(--color-border);
+    background: var(--color-background-hover);
 }
 
-.post-entry:hover, .post-tags a:hover, .paginav a:hover, .terms-tags a:hover {
-    border-color: #999;
-    background: rgb(31, 31, 31);
+.post-content .highlight pre,
+.terms-tags a {
+    border-radius: var(--color-border-radius);
+    border: 1px solid var(--color-border-default);
 }
 
-.post-content .highlight pre, .terms-tags a {
-    border-radius: 8px;
-    border: 1px solid #525252;
-}
-
-.footer a, .post-content a, #menu .active {
-    color: #fcd37a;
+.footer a,
+.post-content a,
+#menu .active,
+.first-entry.home-info strong,
+.entry-footer,
+.post-meta {
+    color: var(--color-primary);
     border: none;
-    box-shadow: none;
 }
 
-.footer a:hover, .post-content a:hover {
-    color: #ffeea6;
-    border-bottom: 1px solid #ffeea6;
+.footer a:hover,
+.post-content a:hover {
+    color: var(--color-hover);
+    border-bottom: 1px solid var(--color-hover);
 }

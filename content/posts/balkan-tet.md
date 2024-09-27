@@ -1,8 +1,7 @@
 ---
-title: "TET Albania-Montenegro-Bosnia-Croatia"
-summary: Our first long moto trip into the Balkans
+title: Trans Euro Trail Albania-Montenegro-Bosnia-Croatia
 date: 2024-06-20
-tags: [ "Travel", "Moto" ]
+tags: [ Travel, Moto ]
 draft: false
 ---
 

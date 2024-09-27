@@ -23,19 +23,21 @@ params:
   ShowReadingTime: true
   ShowShareButtons: false
   ShowPostNavLinks: false
-  ShowBreadCrumbs: true
+  ShowBreadCrumbs: false
   ShowCodeCopyButtons: true
   disableSpecial1stPost: false
-  disableScrollToTop: false
+  disableScrollToTop: true
   comments: false
   hidemeta: false
-  hideSummary: false
-  showtoc: true
+  hideSummary: true
+  showtoc: false
   tocopen: false
   ShowPageNums: true
+  ShowWordCount: true
+  hideFooter: true
 
   assets:
-    disableHLJS: true
+    disableHLJS: false
     favicon32x32: "/favicon.png"
 
   label:
@@ -60,26 +62,17 @@ params:
       url: "https://github.com/xrazis"
     - name: linkedin
       url: "https://www.linkedin.com/in/xrazis/"
-    - name: facebook
-      url: "https://www.facebook.com/xrazis"
     - name: youtube
       url: "https://www.youtube.com/channel/UCF79v6s2uTSf8l4P_ud3hOw"
     - name: strava
       url: "https://www.strava.com/athletes/8027560"
     - name: email
       url: "mailto:haris@razis.com"
-#    - name: pgp
-#      url: "https://keyserver.ubuntu.com/pks/lookup?op=get&search=0x0f4fe426d8f9f955f5e625b17bd748cfb62474de"
 
   cover:
     hidden: true # hide everywhere but not in structured data
     hiddenInList: true # hide on list pages and home
     hiddenInSingle: true # hide on single page
-
-  editPost:
-    URL: "https://github.com/xrazis/haris.razis.com/tree/main/content"
-    Text: "Suggest Changes"
-    appendFilePath: true
 
   fuseOpts:
     isCaseSensitive: false
@@ -108,9 +101,4 @@ outputs:
 
 markup:
   highlight:
-    # anchorLineNos: true
-    codeFences: true
-    guessSyntax: true
-    # lineNos: true
-    # noClasses: false
-    style: github-dark
+    style: obsidian-min

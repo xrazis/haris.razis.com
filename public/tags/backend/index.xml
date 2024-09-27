@@ -18,21 +18,37 @@
       <link>https://haris.razis.com/posts/form-endpoint/</link>
       <pubDate>Fri, 08 Sep 2023 00:00:00 +0000</pubDate>
       <guid>https://haris.razis.com/posts/form-endpoint/</guid>
-      <description>Minimal Express.js server to post emails from static sites build with tools like Hugo</description>
+      <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;Statically generated sites are fast and flexible but don&amp;rsquo;t have the ability to send &lt;em&gt;&lt;strong&gt;contact us&lt;/strong&gt;&lt;/em&gt; emails due to the
+lack of a backend. A simple solution would be using a service like Airform, Mailgun, or Formspree, but where&amp;rsquo;s the fun
+in that? Instead, we can build a simple Express.js API that will handle POST requests from a form and will in turn
+forward that email to a mailbox.&lt;/p&gt;</description>
     </item>
     <item>
       <title>A naive approach to blogging</title>
       <link>https://haris.razis.com/posts/alfacycling/</link>
       <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
       <guid>https://haris.razis.com/posts/alfacycling/</guid>
-      <description>An early exploration of the web front</description>
+      <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;Building a blog from the ground up can be quite interesting. It won’t and can’t be a match to a feature-rich blogging
+engine, without any substantial effort at least, but it will help you understand topics like REST, CRUD, and many more.
+A while ago I created &lt;a href=&#34;https://github.com/xrazis/alfacycling.com&#34;&gt;alfacycling.com&lt;/a&gt;, a primitive blog to get my hands
+dirty with new technologies.&lt;/p&gt;
+&lt;h1 id=&#34;architecture&#34;&gt;Architecture&lt;/h1&gt;
+&lt;p&gt;The idea behind this project was pretty simple, have a landing page with some info about the team and two sub-routes
+with all the blogging and user functions. There is no user support besides a moderator, with some basic capabilities
+like creating, editing, or deleting a blog post.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Body position tracking</title>
+      <title>Scalable IoT solution for real-time body position tracking</title>
       <link>https://haris.razis.com/posts/ichnaea/</link>
       <pubDate>Fri, 26 Nov 2021 00:00:00 +0000</pubDate>
       <guid>https://haris.razis.com/posts/ichnaea/</guid>
-      <description>Scalable IoT solution for real-time body position tracking</description>
+      <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;A while ago I submitted my thesis with its subject being the study of the architecture of BAN and PAN, and their
+applications, with the aim of optimizing athletes performance, by enhancing personalized training practices. I was also
+tasked with creating an e-sport application that would collect and analyze data on the athlete’s body position in
+real-time. I named the e-sport application Icnhaea, and I will be referring to it as so for the rest of this post.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

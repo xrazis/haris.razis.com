@@ -5,6 +5,9 @@
     <loc>https://haris.razis.com/tags/linux/</loc>
     <lastmod>2024-09-23T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://haris.razis.com/posts/server-migration/</loc>
+    <lastmod>2024-09-23T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://haris.razis.com/tags/networking/</loc>
     <lastmod>2024-09-23T00:00:00+00:00</lastmod>
   </url><url>
@@ -12,9 +15,6 @@
     <lastmod>2024-09-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://haris.razis.com/posts/</loc>
-    <lastmod>2024-09-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://haris.razis.com/posts/server-migration/</loc>
     <lastmod>2024-09-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://haris.razis.com/tags/system/</loc>
@@ -38,7 +38,7 @@
     <loc>https://haris.razis.com/tags/frontend/</loc>
     <lastmod>2024-01-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://haris.razis.com/posts/fundamental-canvas-library/</loc>
+    <loc>https://haris.razis.com/posts/snowfall-canvas-library/</loc>
     <lastmod>2024-01-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://haris.razis.com/tags/web/</loc>
@@ -47,10 +47,10 @@
     <loc>https://haris.razis.com/posts/dotfiles/</loc>
     <lastmod>2023-10-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://haris.razis.com/tags/liferay/</loc>
+    <loc>https://haris.razis.com/posts/liferay-widgets-react/</loc>
     <lastmod>2023-09-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://haris.razis.com/posts/liferay-widgets-react/</loc>
+    <loc>https://haris.razis.com/tags/liferay/</loc>
     <lastmod>2023-09-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://haris.razis.com/tags/backend/</loc>

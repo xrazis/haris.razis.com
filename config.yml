@@ -12,11 +12,12 @@ minify:
   minifyOutput: true
 
 params:
+  social: true
   env: production
   title: xrazis
   description: "Software engineer, avid motorcyclist, occasional racer."
   keywords: [ Blog, Portfolio, PaperMod ]
-  images: [ "./cup.png" ]
+  images: [ "" ]
   DateFormat: "2 January, 2006"
   defaultTheme: dark
   disableThemeToggle: true
@@ -58,12 +59,12 @@ params:
       - My default handle is **xrazis**.
 
   socialIcons:
+    - name: mastodon
+      url: "https://mastodon.social/@xrazis"
     - name: github
       url: "https://github.com/xrazis"
     - name: linkedin
       url: "https://www.linkedin.com/in/xrazis/"
-    - name: youtube
-      url: "https://www.youtube.com/channel/UCF79v6s2uTSf8l4P_ud3hOw"
     - name: strava
       url: "https://www.strava.com/athletes/8027560"
     - name: email

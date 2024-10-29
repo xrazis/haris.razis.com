@@ -12,7 +12,7 @@ minify:
   minifyOutput: true
 
 params:
-  social: true
+  social: true #temp fix until PaperMod removes .Site.Social
   env: production
   title: xrazis
   description: "Software engineer, avid motorcyclist, occasional racer."

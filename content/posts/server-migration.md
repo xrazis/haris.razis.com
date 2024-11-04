@@ -127,12 +127,12 @@ described in the section [Change Plesk URL](#change-plesk-url).
 [Spamhaus describes this misconfiguration](https://www.spamhaus.org/faqs/combined-spam-sources-css/#misconfigured-plesk-hosts-in-css)
 on their FAQ:
 
-```md
-The host name used in the SMTP greeting is the Plesk server host name specified in Tools & Settings > Server Settings.
-Selecting this option may result in mail sent from some or all domains being marked as spam if the Plesk server host
-name fails to resolve properly, or if the domain’s IP is different from the one to which the Plesk server host name
-resolves.
-```
+
+> The host name used in the SMTP greeting is the Plesk server host name specified in Tools & Settings > Server Settings.
+> Selecting this option may result in mail sent from some or all domains being marked as spam if the Plesk server host
+> name fails to resolve properly, or if the domain’s IP is different from the one to which the Plesk server host name
+> resolves.
+
 
 So changing the Plesk URL resolved the issue. I also went ahead and added the hostname in the postfix template, as per
 [Plesk instructions](https://support.plesk.com/hc/en-us/articles/12377559724567-How-to-change-the-hostname-and-SMTP-banner-in-Postfix-on-a-Plesk-server).

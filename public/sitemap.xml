@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://haris.razis.com/posts/</loc>
+    <lastmod>2024-12-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://haris.razis.com/</loc>
+    <lastmod>2024-12-30T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://haris.razis.com/tags/linux/</loc>
     <lastmod>2024-09-23T00:00:00+00:00</lastmod>
   </url><url>
@@ -14,16 +20,10 @@
     <loc>https://haris.razis.com/tags/plesk/</loc>
     <lastmod>2024-09-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://haris.razis.com/posts/</loc>
-    <lastmod>2024-09-23T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://haris.razis.com/tags/system/</loc>
     <lastmod>2024-09-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://haris.razis.com/tags/</loc>
-    <lastmod>2024-09-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://haris.razis.com/</loc>
     <lastmod>2024-09-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://haris.razis.com/tags/moto/</loc>

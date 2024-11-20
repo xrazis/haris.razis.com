@@ -113,10 +113,11 @@ Despite both the
 [Greek](https://www.amnesty.org/en/location/europe-and-central-asia/western-central-and-south-eastern-europe/greece/)
 and the
 [Turkish](https://www.amnesty.org/en/location/europe-and-central-asia/western-central-and-south-eastern-europe/turkiye/)
-governments being lousy, constantly trying to ramp up the sense of nationalism and dictating that we are each other's
-arc enemy, we people know better than that. Anywhere we went, we would be greeted with excitement, and more often than
-not, we would be treated to chai (their local tea). A true testament to the kindness and hospitality of the Turkish
-people.
+governments being lousy and having a
+[long history of conflicts and bad diplomatic relationships](https://en.wikipedia.org/wiki/Greece%E2%80%93Turkey_relations)
+, we people know better than that. Anywhere we went, we would be greeted with
+excitement, and more often than not, we would be treated to chai (their local tea). A true testament to the kindness and
+hospitality of the Turkish people.
 
 ### Eğirdir → Konya
 
@@ -127,7 +128,7 @@ and stayed at a boutique hotel slightly over our budget.
 attr="If ever in the area, definitely consider Araf for your stay."
 align=center link="/blog/cappadocia/20241016_133220.webp" target="_blank" >}}
 
-Turkey and Palestine have a deep-rooted shared history, the former being the top provider of humanitarian aid to Gaza.
+Turkey and Palestine have a deep-rooted shared history, the former also the top provider of humanitarian aid to Gaza.
 During our stay at Konya, we saw many joint flags decorating public spaces.
 
 {{< figure src="/blog/cappadocia/20241016_164711.webp"
@@ -136,17 +137,78 @@ align=center link="/blog/cappadocia/20241016_164711.webp" target="_blank" >}}
 
 We also had the chance to watch the Dervish whirling dance. Dervishes are members of a Tariqa -a religious order of
 Sufism- and more specifically, the Mevleni Order were the ones we saw at Konya. Whirling is considered a customary
-meditation practice, that is through listening to music that one abandons ego or personal desires to achieve a closer
+meditation practice, that is through listening to music one abandons ego or personal desires to achieve a closer
 connection with Allah.
 
 {{< figure src="/blog/cappadocia/dervish.gif"
 attr="Sufi whirling at the Mevlana museum." width=100%
 align=center link="/blog/cappadocia/dervish.gif" target="_blank" >}}
 
+Men and women in Turkey do not have the same rights, and that is prominent in every aspect of their everyday life. For
+example the mosques have a restricted and much smaller area to pray at the back of the building, and no eye contact is
+possible between the two sexes.
+
+A catalyst to modernizing Turkey was Kemal Atatürk. He reformed the country's political, economical, and cultural
+sectors. The alphabet was changed from Ottoman to a latin based one. Women received equal civil and political
+rights, and a right to vote. The list goes on. He is commemorated through turkey and even today, at the time of his
+death (09:05 on the 10th of November) vehicles and people stop for one minute in remembrance.
+
+Despite the former improvements pointing Turkey to the right direction, it has gotten worse the last decades. Human
+rights violations, lack of freedom of speech, imprisonments, a huge gap between the formal rights and the social
+position of women, that in turn, suffer a really high percentage of raping and murdering. That only scratches the
+surface of a problematic state.
+
+### Konya → Göreme
+
+After five days of travel we would arrive at Göreme, our peak destination, and the furthest we would venture into
+Turkey. We did not choose the fastest road there but rather planned a little detour to see Tuz Golu, one of the largest
+hypersaline lakes in the world! Unfortunately, we did not go through the lake from a dirt road the locals use, as I
+deemed it too risky given the fact it rained the night before, and we that we did not have enough daylight left.
+
+{{< figure src="/blog/cappadocia/"
+attr="" width=100%
+align=center link="/blog/cappadocia/" target="_blank" >}}
+
+//TODO write about the backcountry roads we went through to get there, use the labels of the photos.
+
+The region of Cappadocia is truly magnificent, with a rich history, unique geological features, and full of Unesco
+heritage sites. We chose to stay at Göreme, a popular town in Nevşehir. The houses there are carved out of cone-shaped
+rocks that populate the area. Not much is known about its history and its origins as it was not located on any major
+travel roads.
+
+//TODO write about the cave house and their excellent breakfast.
+
+After a good nights sleep we started our day by visiting the open air museum
+
+//TODO saw the foreme open air museum, valleys arround Goreme, and saw the sunset ontop of the castle.
+
+//TODO underground cities history, visit, and city hidden in the mountains.
+
+### Göreme → Eskesihir
+
+### Eskesihir → Bursa
+
+### Bursa → Istanbul
+
+### Istanbul → Kavala
+
+Istanbul has a rich and turbulent history.
+
+### Kavala → Athens
+
 # Wrap up
 
 That wraps up Cappadocia! What we learned:
 
+- When off the bike, each couple should be completely independent. Sharing things (e.x. mobile data) is not practical,
+  as you will eventually want to split up.
+- A single large duffel bag is better than two smaller ones. Although a hustle to get things in and out when on the
+  road, it sits lower on the bike, resulting in vastly improved handling.
+- It is better to carry more technical clothes than casuals. The weather will vary vastly when traveling for long in
+  spring/autumn, so it is hard to predict how it is going to fare out throughout the days.
+- Passenger comfort is your priority. If you travel a lot solo, and especially in tough off-road conditions, you will
+  develop some resilience to harsh conditions and the fatigue of long days. That is not the case with your pillion, and
+  you ought to be considerate.
 -
 
 Up next is Kosovo with the guys!

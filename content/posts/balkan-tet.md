@@ -230,8 +230,8 @@ that process and had a lot of riding to get to Spercheiada we decided to skip th
 
 Being our first major off-road motorcycle journey, we learned a lot.
 
-- Enduro clothing is the way to go for such trips. Although disadvantageous on a highway, crash their off-road and
-- high-temperature comfort is unparalleled.
+- Enduro clothing is the way to go for such trips. Although disadvantageous on a highway crash, their off-road
+  protection and high-temperature comfort is unparalleled.
 - Camping can be challenging for two people on motorcycles. An alternative approach we're interested in trying involves
   setting up a stationary camp and exploring the surroundings, rather than camping along the way when covering long
   distances.

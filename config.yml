@@ -65,8 +65,6 @@ params:
       url: "https://github.com/xrazis"
     - name: linkedin
       url: "https://www.linkedin.com/in/xrazis/"
-    - name: strava
-      url: "https://www.strava.com/athletes/8027560"
     - name: email
       url: "mailto:haris@razis.com"
 

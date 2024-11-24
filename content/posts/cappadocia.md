@@ -26,7 +26,7 @@ We boarded the ferry on Sunday night, and after a short delay off we were, offic
 arrived at Chios after eight gruelling hours on the ship's deck, around six in the morning. The next ferry would leave
 at eight, so we took a stroll down the marina while waiting.
 
-{{< figure src="/blog/cappadocia/20241014_065111.webp" attr="As luck would have it, the mishaps would start soon enough."
+{{< figure src="/blog/cappadocia/20241014_065111.webp" attr="As luck would have it, mishaps would start soon enough."
 align=center link="/blog/cappadocia/20241014_065111.webp" target="_blank" >}}
 
 Before you board the ferry to Turkey, you have to go through Greek customs, bikes included, and when you arrive in
@@ -68,12 +68,12 @@ align=center link="/blog/cappadocia/20241015_104532.webp" target="_blank" >}}
 
 We found the entrance to the Unesco world heritage site to be ridiculously expensive, and in combination with the large
 crowds on the hills, we decided to skip it. We would soon realize that all the popular attractions had high ticket
-prices for the tourists, whereas natives would pay a tenth of the price. 
+prices for the tourists, whereas natives would pay a tenth of the price.
 
 On our way out from Pamukkale, we had a quick stop at Red Springs, where most of the locals would hang out.
 
 {{< figure src="/blog/cappadocia/IMG_3810.webp"
-attr="The hot waters of the springs which are believed to have healing properties."
+attr="The hot waters of the springs, which are believed to have healing properties."
 align=center link="/blog/cappadocia/IMG_3810.webp" target="_blank" >}}
 
 That would wrap our short visit to Pamukkale; unfortunately, it did not live up to the hype.
@@ -149,9 +149,9 @@ example the mosques have a restricted and much smaller area to pray at the back 
 possible between the two sexes.
 
 A catalyst to modernizing Turkey was Kemal Atatürk. He reformed the country's political, economical, and cultural
-sectors. The alphabet was changed from Ottoman to a latin based one. Women received equal civil and political
+sectors. The alphabet was changed from the Ottoman to a latin based one. Women received equal civil and political
 rights, and a right to vote. The list goes on. He is commemorated through turkey and even today, at the time of his
-death (09:05 on the 10th of November) vehicles and people stop for one minute in remembrance.
+death (09:05 on the 10th of November), vehicles and people stop for one minute in remembrance.
 
 Despite the former improvements pointing Turkey to the right direction, it has gotten worse the last decades. Human
 rights violations, lack of freedom of speech, imprisonments, a huge gap between the formal rights and the social
@@ -163,22 +163,48 @@ surface of a problematic state.
 After five days of travel we would arrive at Göreme, our peak destination, and the furthest we would venture into
 Turkey. We did not choose the fastest road there but rather planned a little detour to see Tuz Golu, one of the largest
 hypersaline lakes in the world! Unfortunately, we did not go through the lake from a dirt road the locals use, as I
-deemed it too risky given the fact it rained the night before, and we that we did not have enough daylight left.
+deemed it too risky given the fact it rained the night before, and that we did not have enough daylight left.
 
-{{< figure src="/blog/cappadocia/"
-attr="" width=100%
-align=center link="/blog/cappadocia/" target="_blank" >}}
+{{< figure src="/blog/cappadocia/PXL_20241017_120451502.webp"
+attr="The lake is 80 kilometers in length!" width=100%
+align=center link="/blog/cappadocia/PXL_20241017_120451502.webp" target="_blank" >}}
 
-//TODO write about the backcountry roads we went through to get there, use the labels of the photos.
+{{< figure src="/blog/cappadocia/20241017_145536.webp"
+attr="The locals would dip their feet in the small puddles that formed." width=100%
+align=center link="/blog/cappadocia/20241017_145536.webp" target="_blank" >}}
+
+{{< figure src="/blog/cappadocia/20241017_164447.webp"
+attr="The backcountry road that led us to Cappadocia." width=100%
+align=center link="/blog/cappadocia/20241017_164447.webp" target="_blank" >}}
+
+{{< figure src="/blog/cappadocia/20241017_173028.webp"
+attr="Rain would welcome us to Goreme." width=100%
+align=center link="/blog/cappadocia/20241017_173028.webp" target="_blank" >}}
 
 The region of Cappadocia is truly magnificent, with a rich history, unique geological features, and full of Unesco
 heritage sites. We chose to stay at Göreme, a popular town in Nevşehir. The houses there are carved out of cone-shaped
 rocks that populate the area. Not much is known about its history and its origins as it was not located on any major
 travel roads.
 
-//TODO write about the cave house and their excellent breakfast.
+{{< figure src="/blog/cappadocia/PXL_20241017_185903265.NIGHT.webp"
+attr="Goreme has flourished echonomically after the tourist boom of the 00s." width=100%
+align=center link="/blog/cappadocia/PXL_20241017_185903265.NIGHT.webp" target="_blank" >}}
 
-After a good nights sleep we started our day by visiting the open air museum
+We stayed at a cave house, a little outside the citys center. We really enjoyed the cozy feeling they give you, but
+unfortunately there is no natural light comming in. For our short stay we enjoyed it and would definetely choose it
+again. After a good nights sleep we started our day by visiting the open air museum.
+
+{{< figure src="/blog/cappadocia/PXL_20241018_083025556~2.webp"
+attr="It used to be a monastery for early christians." width=100%
+align=center link="/blog/cappadocia/PXL_20241018_083025556~2.webp" target="_blank" >}}
+
+There are numerous churches inside the open air museum, all of them of great historical importance. Cappadocia was
+considered a sanctuary for early christians, and under the guiding hand of Saint Basil, most of the churches in the area
+were built
+
+{{< figure src="/blog/cappadocia/IMG_4020.webp"
+attr="Many of the wall paintings were destroyed and are now under restoration." width=100%
+align=center link="/blog/cappadocia/IMG_4020.webp" target="_blank" >}}
 
 //TODO saw the foreme open air museum, valleys arround Goreme, and saw the sunset ontop of the castle.
 

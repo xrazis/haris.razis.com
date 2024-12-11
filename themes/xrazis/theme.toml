@@ -1,0 +1,18 @@
+name = 'xrazis'
+license = 'MIT'
+licenselink = 'https://github.com/xrazis/haris.razis.com/blob/main/themes/xrazis/LICENSE'
+description = 'The theme for my personal blog'
+
+# The home page of the theme, where the source can be found
+homepage = 'https://github.com/xrazis/haris.razis.com/tree/main/themes/xrazis'
+
+# If you have a running demo of the theme
+demosite = 'https://haris.razis.com'
+
+# Taxonomy terms
+tags = ['blog']
+
+# If the theme has a single author
+[author]
+  name = 'Haris Razis'
+  homepage = 'haris.razis.com'

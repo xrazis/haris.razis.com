@@ -36,7 +36,7 @@ that he forgot to issue a new green card for his bike.
 > The 'green card' is a certificate of international insurance and is necessary when traveling to countries outside
 > the European Economic Zone.
 
-We decided to go forth with it and try to get through, which, of course, did not work out. Apparently, the custom
+We decided to go forth with it and try to get through, which of course, did not work out. Apparently, the custom
 authorities are pretty strict on things like that. Who would have guessed. After some back and forth with the Greek
 authorities, they decided to let us through and let their Turkish counterparts deal with us. If we did not have the
 right paperwork, we would be sent straight back to Chios with the next ferry. We rushed to the ship and hopped on at the
@@ -47,7 +47,7 @@ Small problem, it was eight in the morning, on a Monday. After placing a few pho
 Christos agent, who unfortunately was sick and on a leave. Luckily, he was kind enough to call the right person at the
 insurance company and get him to issue us a green card as fast as possible.
 
-Should my technologically illiterate friend have an online insurance, we could have done this ourselves and almost
+Should my technologically illiterate friend have had an online insurance, we could have done this ourselves and almost
 instantly.
 
 {{< figure src="/blog/cappadocia/20241014_090841.webp"
@@ -81,7 +81,7 @@ That would wrap our short visit to Pamukkale; unfortunately, it did not live up 
 ### Pamukkale → Eğirdir
 
 The day after we would drive to the Isparta region through a collection of salty lakes, with no particular destination
-in mind. No sightseeing today, just racking up the miles.
+in mind.
 
 {{< figure src="/blog/cappadocia/IMG_3823.webp"
 attr="Salda Gölü, one of the many lakes we encountered."
@@ -137,7 +137,7 @@ align=center link="/blog/cappadocia/20241016_164711.webp" target="_blank" >}}
 
 We also had the chance to watch the Dervish whirling dance. Dervishes are members of a Tariqa -a religious order of
 Sufism- and more specifically, the Mevleni Order were the ones we saw at Konya. Whirling is considered a customary
-meditation practice, that is through listening to music one abandons ego or personal desires to achieve a closer
+meditation practice, that is through listening to music that one abandons ego or personal desires to achieve a closer
 connection with Allah.
 
 {{< figure src="/blog/cappadocia/dervish.gif"
@@ -145,17 +145,17 @@ attr="Sufi whirling at the Mevlana museum." width=100%
 align=center link="/blog/cappadocia/dervish.gif" target="_blank" >}}
 
 Men and women in Turkey do not have the same rights, and that is prominent in every aspect of their everyday life. For
-example the mosques have a restricted and much smaller area to pray at the back of the building, and no eye contact is
+example, the mosques have a restricted and much smaller area to pray at the back of the building, and no eye contact is
 possible between the two sexes.
 
-A catalyst to modernizing Turkey was Kemal Atatürk. He reformed the country's political, economical, and cultural
-sectors. The alphabet was changed from the Ottoman to a latin based one. Women received equal civil and political
-rights, and a right to vote. The list goes on. He is commemorated through turkey and even today, at the time of his
-death (09:05 on the 10th of November), vehicles and people stop for one minute in remembrance.
+A catalyst to modernizing Turkey was Kemal Atatürk. He reformed the country's political, economic, and cultural
+sectors. The alphabet was changed from the Ottoman to a Latin-based one. Women received equal civil and political rights
+and a right to vote. The list goes on. He is commemorated through Turkey, and even today, at the time of his death (09:
+05 on the 10th of November), vehicles and people stop for one minute in remembrance.
 
-Despite the former improvements pointing Turkey to the right direction, it has gotten worse the last decades. Human
+Despite the former improvements pointing Turkey in the right direction, it has gotten worse in the last decades. Human
 rights violations, lack of freedom of speech, imprisonments, a huge gap between the formal rights and the social
-position of women, that in turn, suffer a really high percentage of raping and murdering. That only scratches the
+position of women that, in turn, suffer a really high percentage of raping and murdering. That only scratches the
 surface of a problematic state.
 
 ### Konya → Göreme
@@ -163,7 +163,7 @@ surface of a problematic state.
 After five days of travel we would arrive at Göreme, our peak destination, and the furthest we would venture into
 Turkey. We did not choose the fastest road there but rather planned a little detour to see Tuz Golu, one of the largest
 hypersaline lakes in the world! Unfortunately, we did not go through the lake from a dirt road the locals use, as I
-deemed it too risky given the fact it rained the night before, and that we did not have enough daylight left.
+deemed it too risky given the fact it rained the night before, combined with the limited amount of daylight left.
 
 {{< figure src="/blog/cappadocia/PXL_20241017_120451502.webp"
 attr="The lake is 80 kilometers in length!" width=100%
@@ -174,41 +174,105 @@ attr="The locals would dip their feet in the small puddles that formed." width=1
 align=center link="/blog/cappadocia/20241017_145536.webp" target="_blank" >}}
 
 {{< figure src="/blog/cappadocia/20241017_164447.webp"
-attr="The backcountry road that led us to Cappadocia." width=100%
+attr="The back country road that led us to Cappadocia." width=100%
 align=center link="/blog/cappadocia/20241017_164447.webp" target="_blank" >}}
 
 {{< figure src="/blog/cappadocia/20241017_173028.webp"
-attr="Rain would welcome us to Goreme." width=100%
+attr="Rain would welcome us to Göreme." width=100%
 align=center link="/blog/cappadocia/20241017_173028.webp" target="_blank" >}}
 
 The region of Cappadocia is truly magnificent, with a rich history, unique geological features, and full of Unesco
 heritage sites. We chose to stay at Göreme, a popular town in Nevşehir. The houses there are carved out of cone-shaped
-rocks that populate the area. Not much is known about its history and its origins as it was not located on any major
+rocks that populate the area. Little is known about its early history and origins as it was not located on any major
 travel roads.
 
 {{< figure src="/blog/cappadocia/PXL_20241017_185903265.NIGHT.webp"
-attr="Goreme has flourished echonomically after the tourist boom of the 00s." width=100%
+attr="Göreme has flourished economically after the tourist boom of the 00s." width=100%
 align=center link="/blog/cappadocia/PXL_20241017_185903265.NIGHT.webp" target="_blank" >}}
 
-We stayed at a cave house, a little outside the citys center. We really enjoyed the cozy feeling they give you, but
-unfortunately there is no natural light comming in. For our short stay we enjoyed it and would definetely choose it
-again. After a good nights sleep we started our day by visiting the open air museum.
+We stayed at a cave house, a little outside the city center. We really enjoyed the cozy feeling they give you, but
+unfortunately, there is no natural light coming in. For our short stay we enjoyed it and would definitely choose it
+again. After a good nights sleep, we started our day by visiting the open air museum.
 
 {{< figure src="/blog/cappadocia/PXL_20241018_083025556~2.webp"
-attr="It used to be a monastery for early christians." width=100%
+attr="This used to be a monastery for early christians." width=100%
 align=center link="/blog/cappadocia/PXL_20241018_083025556~2.webp" target="_blank" >}}
 
-There are numerous churches inside the open air museum, all of them of great historical importance. Cappadocia was
-considered a sanctuary for early christians, and under the guiding hand of Saint Basil, most of the churches in the area
-were built
+There are numerous churches inside the open-air museum, all of them of great historical importance. Cappadocia was
+considered a sanctuary for early Christians, and under the guiding hand of Saint Basil, many churches in the area were
+built.
 
 {{< figure src="/blog/cappadocia/IMG_4020.webp"
 attr="Many of the wall paintings were destroyed and are now under restoration." width=100%
 align=center link="/blog/cappadocia/IMG_4020.webp" target="_blank" >}}
 
-//TODO saw the foreme open air museum, valleys arround Goreme, and saw the sunset ontop of the castle.
+{{< figure src="/blog/cappadocia/IMG_4032.webp"
+attr="Yiannoula X me." width=100%
+align=center link="/blog/cappadocia/IMG_4032.webp" target="_blank" >}}
+
+After a quick tour of the open air museum, we hopped on the bikes and went to the most famous valleys around Göreme.
+
+{{< figure src="/blog/cappadocia/IMG_4049.webp"
+attr="The whole region has unique geological features." width=100%
+align=center link="/blog/cappadocia/IMG_4049.webp" target="_blank" >}}
+
+{{< figure src="/blog/cappadocia/IMG_4062.webp"
+attr="Cilia X Christos." width=100%
+align=center link="/blog/cappadocia/IMG_4062.webp" target="_blank" >}}
+
+{{< figure src="/blog/cappadocia/IMG_4097.webp"
+attr="Balkans on tour." width=100%
+align=center link="/blog/cappadocia/IMG_4097.webp" target="_blank" >}}
+
+{{< figure src="/blog/cappadocia/20241018_142244.webp"
+attr="These have formed over thousands of years through erosion." width=100%
+align=center link="/blog/cappadocia/20241018_142244.webp" target="_blank" >}}
+
+{{< figure src="/blog/cappadocia/20241018_150013.webp"
+attr="You can't truly apprehend the size of fairy chimneys," width=100%
+align=center link="/blog/cappadocia/20241018_150013.webp" target="_blank" >}}
+
+{{< figure src="/blog/cappadocia/IMG_4108.webp"
+attr="until someone stands next to them." width=100%
+align=center link="/blog/cappadocia/IMG_4108.webp" target="_blank" >}}
+
+To wrap the day, we decided to watch the sunset from the top of the Uchisar castle. It is riddled with tunnels
+and has been used as a defensive stronghold for centuries, and the summit has a panoramic view of the whole region!
+We were lucky (?) because it was freezing cold, so there were just a few people on its summit.
+
+{{< figure src="/blog/cappadocia/IMG_4123.webp"
+attr="The Uchisar castle from bellow." width=100%
+align=center link="/blog/cappadocia/IMG_4123.webp" target="_blank" >}}
+
+{{< figure src="/blog/cappadocia/PXL_20241018_145517321.webp"
+attr="Once the sun was out, the whole valley turned red." width=100%
+align=center link="/blog/cappadocia/PXL_20241018_145517321.webp" target="_blank" >}}
 
 //TODO underground cities history, visit, and city hidden in the mountains.
+
+{{< figure src="/blog/cappadocia/underground.gif"
+attr="The tunnels were so tight that you had to bend your knees and pull your shoulders together!" width=100%
+align=center link="/blog/cappadocia/underground.gif" target="_blank" >}}
+
+{{< figure src="/blog/cappadocia/20241019_122701.webp"
+attr="The tunnels were so tight that you had to bend your knees and pull your shoulders together!" width=100%
+align=center link="/blog/cappadocia/20241019_122701.webp" target="_blank" >}}
+
+{{< figure src="/blog/cappadocia/IMG_4186.webp"
+attr="The tunnels were so tight that you had to bend your knees and pull your shoulders together!" width=100%
+align=center link="/blog/cappadocia/IMG_4186.webp" target="_blank" >}}
+
+{{< figure src="/blog/cappadocia/20241019_140438.webp"
+attr="The tunnels were so tight that you had to bend your knees and pull your shoulders together!" width=100%
+align=center link="/blog/cappadocia/20241019_140438.webp" target="_blank" >}}
+
+{{< figure src="/blog/cappadocia/IMG_4180.webp"
+attr="The tunnels were so tight that you had to bend your knees and pull your shoulders together!" width=100%
+align=center link="/blog/cappadocia/IMG_4180.webp" target="_blank" >}}
+
+{{< figure src="/blog/cappadocia/20241019_141917.webp"
+attr="The tunnels were so tight that you had to bend your knees and pull your shoulders together!" width=100%
+align=center link="/blog/cappadocia/20241019_141917.webp" target="_blank" >}}
 
 ### Göreme → Eskesihir
 
@@ -221,6 +285,8 @@ align=center link="/blog/cappadocia/IMG_4020.webp" target="_blank" >}}
 Istanbul has a rich and turbulent history.
 
 ### Kavala → Athens
+
+# Film photography
 
 # Wrap up
 

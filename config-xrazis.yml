@@ -32,9 +32,6 @@ params:
       learned over the years. Here, you’ll find my personal projects, technical insights, and stories from my motorcycle 
       adventures.
       
-      Dates highlighted in yellow are posts tagged with `Adventure` - easier to find for those who are not interested 
-      in any of my technical crap.
-      
       My default handle is **xrazis**.
     Footer: ""
 
@@ -50,10 +47,14 @@ params:
 
 menu:
   main:
-    - identifier: archives
+    - identifier: archive
       name: Archive
-      url: /archives/
+      url: /archive/
       weight: 10
+    - identifier: photos
+      name: Photos
+      url: /photos/
+      weight: 20
 
 outputs:
   home:

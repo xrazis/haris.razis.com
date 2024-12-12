@@ -1,1 +1,17 @@
-<p>Copyright {{ now.Year }}. All rights reserved.</p>
+<footer class="footer">
+    <div class="social-icons">
+        {{- range site.Params.socialIcons }}
+            {{- $icon_name := (trim .name " " | lower) }}
+            {{- if (eq .url "email") }}
+                <a class="button small" href="mailto:{{ $.MaskedEmail | default $.Email }}" title="{{ .name | title }}">
+                    {{ safeHTML (index $.Site.Data.svg $icon_name | default $.Site.Data.svg.default) }}
+                </a>
+            {{- else }}
+                <a class="button small" href="{{ trim .url " " }}" target="_blank" rel="noopener noreferrer me"
+                   title="{{ .name | title }}"> {{ safeHTML (index $.Site.Data.svg $icon_name | default $.Site.Data.svg.default) }}
+                    {{ .name }}
+                </a>
+            {{- end }}
+        {{- end }}
+    </div>
+</footer>

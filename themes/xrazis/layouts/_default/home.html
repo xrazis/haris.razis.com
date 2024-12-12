@@ -1,7 +1,50 @@
 {{ define "main" }}
-  {{ .Content }}
-  {{ range site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-    {{ .Summary }}
+
+  {{- with site.Params.homeParams }}
+    <article class="home-info">
+      <header class="home-info-header">
+        <h1>{{ .Title | markdownify }}</h1>
+      </header>
+      <div class="home-info-content">
+        {{- trim .Content "\n" | markdownify -}}
+      </div>
+    </article>
+  {{- end -}}
+
+  <div class="posts-header">
+    <h2>Posts</h2>
+
+    <a class="button small all-posts-btn" href="/archives">All Posts</a>
+  </div>
+
+  <div class="posts">
+    {{- $pages := .Pages }}
+    {{/* get all regular pages instead of pages in a section */}}
+    {{- $pages = where site.RegularPages "Section" "in" site.Params.mainSections }}
+    {{- $pages = where $pages "Params.hidden" "!=" true }}
+
+    {{/* related issue: https://github.com/gohugoio/hugo/issues/9003 */}}
+    {{ $paginator := "" }}
+    {{ if (.Param "paginate") }}
+      {{- $paginator = .Paginate $pages (.Param "paginate") }}
+    {{ else }}
+      {{- $paginator = .Paginate $pages }}
   {{ end }}
+
+    {{- $term := .Data.Term }}
+    {{- range $index, $page := $paginator.Pages }}
+
+      <a class="post" aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}">
+        <p>{{- .Title }}</p>
+
+        <time {{- if and .Params.tags (in .Params.tags "Adventure") }} class="adventure-highlight" {{ end }}>
+          {{ .Date | time.Format "January 2006" }}
+        </time>
+      </a>
+
+    {{- end }}
+  </div>
+
+  {{ partial "all-tags.html" (dict "taxonomy" "tags" "page" .) }}
+
 {{ end }}

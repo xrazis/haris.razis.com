@@ -1,22 +1,304 @@
-body {
-  color: #222;
-  font-family: sans-serif;
-  line-height: 1.5;
-  margin: 1rem;
-  max-width: 768px;
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=JetBrains+Mono:wght@100..800&display=swap');
+
+:root {
+  --font-family: 'Inter', system-ui, Avenir, Helvetica, Arial, sans-serif;
+  --font-family-monospace: Menlo, 'JetBrains Mono', monospace;
+
+  --gap: 24px;
+  --content-gap: 20px;
+  --main-width: 800px;
+  --post-width: 800px;
+  --header-height: 60px;
+  --footer-height: 80px;
+  --radius: 8px;
+  --home-sections-margin-bottom: 48px;
+
+  --theme: rgb(255, 255, 255);
+  --entry: rgb(255, 255, 255);
+  --primary: rgb(149, 154, 248);
+  --secondary: rgb(255, 212, 121);
+  --content: rgb(31, 31, 31);
+  --code-bg: rgb(245, 245, 245);
+  --border: rgb(238, 238, 238);
+  --link-color: var(--primary);
+  --link-hover-color: rgb(193, 195, 248);
+  --link-transition: all .2s ease-in-out;
+  --color-text: rgb(204, 204, 204);
+  --color-text-emphasized: rgb(249, 249, 249);
+  --color-text-button-hover: var(--primary);
+  --color-text-navbar-link-hover: rgb(255, 255, 255);
+  --color-background-navbar-link-hover: rgba(0, 0, 0, 0.25);
+  --color-border: rgb(61, 61, 61);
+  --color-border-button-hover: var(--primary);
+  --color-background-dark: rgb(24, 24, 24);
+  --color-background-button: rgba(255, 255, 255, 0.05);
+
+  color: var(--color-text);
+  background-color: rgb(31, 31, 31);
+
+  font-family: var(--font-family), serif;
+  line-height: 1.6;
+  font-weight: 400;
+  font-size: 16px;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
-header {
-  border-bottom: 1px solid #222;
-  margin-bottom: 1rem;
-}
+/* GENERAL */
 
-footer {
-  border-top: 1px solid #222;
-  margin-top: 1rem;
+h1, h2, h3, h4, h5 {
+  color: var(--color-text-emphasized);
+  line-height: 1.3;
 }
 
 a {
-  color: #00e;
+  color: var(--primary);
+  font-weight: 500;
+  text-decoration: inherit;
+}
+
+a:hover {
+  color: var(--link-hover-color);
+}
+
+a.button, button {
+  align-items: center;
+  background: var(--color-background-button);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius);
+  color: var(--color-text);
+  cursor: pointer;
+  display: inline-flex;
+  font-size: 1rem;
+  font-weight: 500 !important;
+  gap: .25rem;
+  line-height: 1;
+  padding: 12px 16px;
   text-decoration: none;
+  transition: --link-transition;
+  white-space: nowrap;
+}
+
+a.button:hover, button:hover {
+  border: 1px solid var(--color-border-button-hover);
+  color: var(--color-text-button-hover);
+}
+
+a.button.small, button.small {
+  font-size: 14px;
+  padding: 6px 10px;
+}
+
+img {
+  display: block;
+  border-radius: 4px;
+  margin: 1rem auto;
+  max-width: 100%;
+}
+
+img[src*="#center"] {
+  margin: 1rem auto;
+}
+
+body, figure, ul {
+  margin: 0;
+}
+
+figure.align-center {
+  text-align: center;
+}
+
+figure > figcaption {
+  color: var(--secondary);
+  font-size: 14px;
+  font-weight: 400;
+  margin: 8px 0 16px;
+}
+
+figure > figcaption p {
+  margin: 0;
+}
+
+/* HEADER */
+.nav {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  max-width: calc(var(--main-width) + var(--gap) * 2);
+  margin-inline-start: auto;
+  margin-inline-end: auto;
+  line-height: var(--header-height);
+}
+
+.nav ul {
+  margin: 0;
+  padding: 0;
+}
+
+.logo,
+#menu {
+  display: flex;
+  margin: auto 0;
+}
+
+.logo {
+  flex-wrap: inherit;
+}
+
+.logo a {
+  display: block;
+  color: var(--color-text-emphasized);
+  font-size: 24px;
+  font-weight: 700;
+}
+
+#menu {
+  list-style: none;
+  word-break: keep-all;
+  overflow-x: auto;
+  white-space: nowrap;
+}
+
+#menu a {
+  font-size: 16px;
+  font-weight: 500;
+  display: inline-block;
+  line-height: 1.5em;
+  color: var(--color-text-emphasized);
+  border-radius: var(--radius);
+  padding: .5rem .75rem;
+}
+
+#menu a:hover {
+  color: var(--color-text-navbar-link-hover);
+  background: var(--color-background-navbar-link-hover);
+}
+
+#menu .active {
+  color: var(--primary);
+}
+
+/* MAIN, POSTS, TAGS */
+
+.main {
+  position: relative;
+  min-height: calc(100vh - var(--header-height) - var(--footer-height) - var(--gap) * 2);
+  max-width: calc(var(--main-width) + var(--gap) * 2);
+  margin: auto;
+  padding: var(--content-gap) var(--gap) 0;
+}
+
+.home-info {
+  margin-bottom: var(--home-sections-margin-bottom);
+}
+
+.posts {
+  margin-bottom: var(--home-sections-margin-bottom);
+}
+
+.posts-header {
+  width: 100%;
+  display: inline-flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.post {
+  border-radius: var(--radius);
+  display: flex;
+  text-decoration: none;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 0 -8px;
+  padding: 4px 8px;
+}
+
+.post:hover {
+  background: var(--color-background-dark);
+}
+
+.post p {
+  margin: 0;
+  font-weight: 600;
+  max-width: 70%;
+}
+
+.post time {
+  text-align: right;
+  white-space: nowrap;
+  color: var(--color-text);
+}
+
+.post time.adventure-highlight {
+  color: var(--secondary);
+}
+
+.tags {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-bottom: var(--home-sections-margin-bottom);
+}
+
+.tags .button {
+  margin-right: 8px;
+  margin-bottom: 8px;
+}
+
+.tag.adventure-highlight {
+  color: var(--secondary);
+}
+
+/* SINGLE POST */
+
+.meta {
+  color: var(--secondary);
+}
+
+/* FOOTER */
+
+.footer {
+  max-width: calc(var(--main-width) + var(--gap) * 2);
+  margin: auto;
+  padding: calc((var(--footer-height) - var(--gap)) / 2) var(--gap);
+  text-align: center;
+  line-height: 24px;
+}
+
+.social-icons {
+}
+
+.social-icons a {
+  display: inline-flex;
+  line-height: 20px;
+  transition: var(--link-transition);
+}
+
+.social-icons a:not(:last-of-type) {
+  margin-right: 12px;
+}
+
+.social-icons a svg {
+  margin-right: 4px;
+  max-height: 20px;
+  min-height: 20px;
+  min-width: 20px;
+}
+
+@media screen and (max-width: 768px) {
+  :root {
+    --gap: 14px;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  :root {
+    --header-height: 52px;
+  }
+
 }

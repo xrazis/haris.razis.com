@@ -1,10 +1,22 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
 
-  {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
-  {{ $dateHuman := .Date | time.Format ":date_long" }}
-  <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
+  <div class="meta secondary">
+    {{- $scratch := newScratch }}
+
+    {{- if not .Date.IsZero -}}
+      {{- $scratch.Add "meta" (slice (printf "<time title='%s'>%s</time>" (.Date) (.Date | time.Format (default "January 2, 2006" site.Params.DateFormat)))) }}
+    {{- end }}
+
+    {{- $scratch.Add "meta" (slice (i18n "read_time" .ReadingTime | default (printf "%d min" .ReadingTime))) }}
+
+    {{- $scratch.Add "meta" (slice (i18n "words" .WordCount | default (printf "%d words" .WordCount))) }}
+
+    {{- with ($scratch.Get "meta") }}
+      {{- delimit . "&nbsp;·&nbsp;" | safeHTML -}}
+    {{- end -}}
+  </div>
 
   {{ .Content }}
-  {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
+  {{ partial "page-tags.html" (dict "taxonomy" "tags" "page" .) }}
 {{ end }}

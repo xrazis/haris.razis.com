@@ -1,8 +1,8 @@
 ---
 title: Two up Cappadocia
 date: 2024-11-01
-tags: [ Travel, Moto ]
-draft: true
+tags: [ Adventure, Travel, Moto ]
+draft: false
 ---
 
 # Introduction

@@ -1,0 +1,65 @@
+baseURL: "https://haris.razis.com/"
+title: xrazis · Haris Razis
+copyright: 🏍️
+paginate: 10
+theme: xrazis
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production
+  title: xrazis
+  description: "Software engineer, avid motorcyclist, occasional racer."
+  ShowCodeCopyButtons: true
+  disableSpecial1stPost: false
+
+  assets:
+    favicon32x32: "/favicon.png"
+
+  label:
+    text: "Haris Razis"
+
+  homeParams:
+    Title: "Hey, I'm Haris"
+    Content: |
+      I create bugs for a living, and this corner of the web is my digital garden — a small collection of things I’ve 
+      learned over the years. Here, you’ll find my personal projects, technical insights, and stories from my motorcycle 
+      adventures.
+      
+      Dates highlighted in yellow are posts tagged with `Adventure` - easier to find for those who are not interested 
+      in any of my technical crap.
+      
+      My default handle is **xrazis**.
+    Footer: ""
+
+  socialIcons:
+    - name: Mastodon
+      url: "https://mastodon.social/@xrazis"
+    - name: Github
+      url: "https://github.com/xrazis"
+    - name: Linkedin
+      url: "https://www.linkedin.com/in/xrazis/"
+    - name: Email
+      url: "mailto:haris@razis.com"
+
+menu:
+  main:
+    - identifier: archives
+      name: Archive
+      url: /archives/
+      weight: 10
+
+outputs:
+  home:
+    - HTML
+    - JSON
+
+markup:
+  highlight:
+    style: obsidian-min

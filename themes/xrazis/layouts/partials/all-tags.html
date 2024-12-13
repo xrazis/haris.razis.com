@@ -6,6 +6,6 @@
     {{- range $tag, $tagValues := site.Taxonomies.tags }}
         {{ $adventureHighlight := or (eq $tag "adventure") (eq $tag "moto") }}
         <a class="button tag {{ if $adventureHighlight }}secondary-highlight{{ end }}"
-           href="/tags/{{ $tag }}">{{ $tag }}</a>
+           href="/tags/{{ $tag }}">{{ $tag }} <sup>{{ len $tagValues }}</sup></a>
     {{- end }}
 </div>

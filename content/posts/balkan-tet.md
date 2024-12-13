@@ -1,7 +1,7 @@
 ---
 title: Trans Euro Trail Albania-Montenegro-Bosnia-Croatia
 date: 2024-06-20
-tags: [ Adventure, Travel, Moto ]
+tags: [ Adventure, Moto ]
 draft: false
 ---
 

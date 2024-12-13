@@ -36,7 +36,7 @@
       <a class="post" aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}">
         <p>{{- .Title }}</p>
 
-        <time {{- if and .Params.tags (in .Params.tags "Adventure") }} class="adventure-highlight" {{ end }}>
+        <time {{- if and .Params.tags (in .Params.tags "Adventure") }} class="secondary-highlight" {{ end }}>
           {{ .Date | time.Format "January 2006" }}
         </time>
       </a>

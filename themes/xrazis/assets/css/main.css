@@ -238,7 +238,7 @@ blockquote {
   line-height: var(--header-height);
 
   ul {
-    margin: 0;
+    margin: 0 !important;
   }
 }
 
@@ -273,7 +273,7 @@ blockquote {
     line-height: 1.5em;
     color: var(--color-text-emphasized);
     border-radius: var(--border-radius);
-    padding: 0;
+    padding: 0.5rem;
     text-decoration: none;
 
     &:hover {

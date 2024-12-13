@@ -25,14 +25,16 @@ params:
     text: "Haris Razis"
 
   homeParams:
-    Title: "!!! ~~~ Work in progress, come by later ~~~ !!!"
+    Title: "Hey there"
     Content: |
       I create bugs for a living, and this corner of the web is my digital garden — a small collection of things I’ve 
-      learned over the years. Here, you’ll find my personal projects, technical insights, and stories from my motorcycle 
-      adventures.
+      learned and done over the years. Here, you’ll find my projects, technical insights, and stories from my adventures.
+      
+      After trying all sorts of hobbies, I've concluded that riding bikes and motorcycles is my thing. I've gotten 
+      especially good at breaking bones, a true talent, one might say. For tales of cracked crankcases and lost 
+      paperwork in distant lands, click the yellow highlighted tags and posts.
       
       My default handle is **xrazis**.
-    Footer: ""
 
   socialIcons:
     - name: Mastodon

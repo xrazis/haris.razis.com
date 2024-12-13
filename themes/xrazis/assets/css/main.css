@@ -329,6 +329,10 @@ blockquote {
   &:hover {
     text-decoration: none;
     background: var(--color-background-dark);
+
+    time {
+      color: var(--color-text-emphasized) !important;
+    }
   }
 
   p {
@@ -367,11 +371,14 @@ blockquote {
   align-items: center;
   flex-wrap: wrap;
   gap: .75rem;
-  margin-bottom: var(--large-margin-bottom);
 
   .tag {
     &.secondary-highlight {
       color: var(--secondary);
+
+      &:hover {
+        color: var(--color-text-button-hover);
+      }
     }
   }
 }

@@ -19,28 +19,10 @@
 
   <div class="posts">
     {{- $pages := .Pages }}
-    {{/* get all regular pages instead of pages in a section */}}
     {{- $pages = where site.RegularPages "Section" "in" site.Params.mainSections }}
-
-    {{/* related issue: https://github.com/gohugoio/hugo/issues/9003 */}}
-    {{ $paginator := "" }}
-    {{ if (.Param "paginate") }}
-      {{- $paginator = .Paginate $pages (.Param "paginate") }}
-    {{ else }}
-      {{- $paginator = .Paginate $pages }}
-    {{ end }}
-
-    {{- $term := .Data.Term }}
-    {{- range $index, $page := $paginator.Pages }}
-
-      <a class="post" aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}">
-        <p>{{- .Title }}</p>
-
-        <time {{- if and .Params.tags (in .Params.tags "Adventure") }} class="secondary-highlight" {{ end }}>
-          {{ .Date | time.Format "January 2006" }}
-        </time>
-      </a>
-
+    {{- $pages_limited := first 10 $pages }}
+    {{- range $index, $page := $pages_limited }}
+      {{ partial "post.html" $page }}
     {{- end }}
   </div>
 

@@ -1,7 +1,6 @@
 baseURL: "https://haris.razis.com/"
 title: xrazis · Haris Razis
 copyright: 🏍️
-paginate: 10
 theme: xrazis
 enableRobotsTXT: true
 buildDrafts: false

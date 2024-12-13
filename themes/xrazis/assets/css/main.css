@@ -13,8 +13,6 @@
   --radius: 8px;
   --home-sections-margin-bottom: 48px;
 
-  --theme: rgb(255, 255, 255);
-  --entry: rgb(255, 255, 255);
   --primary: rgb(149, 154, 248);
   --secondary: rgb(255, 212, 121);
   --content: rgb(31, 31, 31);
@@ -32,6 +30,8 @@
   --color-border-button-hover: var(--primary);
   --color-background-dark: rgb(24, 24, 24);
   --color-background-button: rgba(255, 255, 255, 0.05);
+  --color-background-blockquote: rgba(149, 154, 248, 0.1);
+  --color-border-blockquote: var(--primary);
 
   color: var(--color-text);
   background-color: rgb(31, 31, 31);
@@ -103,7 +103,7 @@ img[src*="#center"] {
   margin: 1rem auto;
 }
 
-body, figure, ul {
+body, figure, ul, ol {
   margin: 0;
 }
 
@@ -120,6 +120,75 @@ figure > figcaption {
 
 figure > figcaption p {
   margin: 0;
+}
+
+pre {
+  border-radius: var(--radius);
+}
+
+pre code {
+  display: grid;
+  margin: auto 0;
+  padding: 10px;
+  color: #d5d5d6;
+  border-radius: var(--radius);
+  overflow-x: auto;
+  word-break: break-all;
+}
+
+blockquote {
+  background: var(--color-background-blockquote);
+  border: 1px solid var(--color-border-blockquote);
+  border-radius: var(--radius);
+  color: var(--color-text-emphasized);
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.6;
+  margin: 1.5rem 0;
+  padding: 1rem;
+}
+
+/* SCROLLBAR */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: 0 0;
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--color-text);
+  border: 1px solid var(--color-text);
+  border-radius: var(--radius);
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--secondary);
+  border: 1px solid var(--secondary);
+}
+
+.post-content :not(table) ::-webkit-scrollbar-thumb {
+  border: 2px solid var(--code-block-bg);
+  background: rgb(113, 113, 117);
+}
+
+.post-content :not(table) ::-webkit-scrollbar-thumb:hover {
+  background: rgb(163, 163, 165);
+}
+
+.gist table::-webkit-scrollbar-thumb {
+  border: 2px solid rgb(255, 255, 255);
+  background: rgb(173, 173, 173);
+}
+
+.gist table::-webkit-scrollbar-thumb:hover {
+  background: rgb(112, 112, 112);
+}
+
+.post-content table::-webkit-scrollbar-thumb {
+  border-width: 2px;
 }
 
 /* HEADER */

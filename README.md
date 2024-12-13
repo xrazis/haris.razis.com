@@ -1,3 +1,3 @@
-This is the source for my blog. It runs on [Hugo](https://gohugo.io/)
-and [PaperMod](https://github.com/adityatelange/hugo-PaperMod/). The color cues are
-from [Tania Rascia's blog](https://www.taniarascia.com/).
+This is the source for my blog on [Hugo](https://gohugo.io/).
+Inspiration comes from [PaperMod](https://github.com/adityatelange/hugo-PaperMod/)
+and [Tania Rascia's blog](https://www.taniarascia.com/).

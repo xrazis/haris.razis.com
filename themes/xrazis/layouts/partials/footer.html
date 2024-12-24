@@ -15,7 +15,5 @@
         {{- end }}
     </div>
 
-    {{- with site.Params.homeParams }}
-        <div class="copyright">{{ .Footer }}</div>
-    {{- end -}}
+    <div class="copyright">{{ site.Params.homeParams.Footer }}</div>
 </footer>

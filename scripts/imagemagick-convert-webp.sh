@@ -7,7 +7,7 @@ image_dir="../static/blog"
 content_dir="../content/posts"
 
 # Loop through both .jpg and .png images in the directory and its subdirectories
-for ext in jpg png; do
+for ext in jpg png HEIC; do
     find "$image_dir" -type f -name "*.$ext" | while read -r file; do
         # Get the filename without extension
         filename="${file%.*}"

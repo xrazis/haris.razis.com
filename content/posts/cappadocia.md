@@ -351,6 +351,10 @@ align=center link="/blog/cappadocia/PXL_20241024_131052580~2.webp" target="_blan
 attr="" width=100%
 align=center link="/blog/cappadocia/IMG_4402.webp" target="_blank" >}}
 
+{{< figure src="/blog/cappadocia/seesaw.gif"
+attr="Let the kids play." width=100%
+align=center link="/blog/cappadocia/seesaw.gif" target="_blank" >}}
+
 {{< figure src="/blog/cappadocia/PXL_20241025_152256960.webp"
 attr="People would fish way past the sunset." width=100%
 align=center link="/blog/cappadocia/PXL_20241025_152256960.webp" target="_blank" >}}

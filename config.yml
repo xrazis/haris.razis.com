@@ -22,10 +22,10 @@ params:
     favicon32x32: "/favicon.png"
 
   label:
-    text: "Haris Razis"
+    text: Haris Razis
 
   homeParams:
-    Title: "Hey there"
+    Title: Hey,
     Content: |
       I create bugs for a living, and this corner of the web is my digital garden — a small collection of things I’ve 
       learned and done over the years. Here, you’ll find my projects, technical insights, and stories from my adventures.
@@ -35,6 +35,7 @@ params:
       paperwork in distant lands, click the yellow highlighted dates and tags.
       
       My default handle is **xrazis**.
+    Footer: Hakuna matata
 
   socialIcons:
     - name: Mastodon
@@ -48,14 +49,10 @@ params:
 
 menu:
   main:
-    - identifier: archive
-      name: Archive
-      url: /archive/
-      weight: 10
     - identifier: photos
       name: Photos
       url: /photos/
-      weight: 20
+      weight: 10
 
 outputs:
   home:

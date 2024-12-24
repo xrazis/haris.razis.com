@@ -1,6 +1,6 @@
 ---
 title: Two up Cappadocia
-date: 2024-11-01
+date: 2024-11-27
 tags: [ Adventure, Moto ]
 draft: true
 ---
@@ -9,7 +9,7 @@ draft: true
 
 We had been planning a trip to Cappadocia for months, Yiannoula and I started drafting a route from early 2024. When
 Christos and I were doing part of the [Balkan TET](/posts/balkan-tet/), we would spend our evenings planning Cappadocia.
-Funny to say the least. We didn't know where we would spend then night, but apparently, we were concerned about how many
+Funny to say the least. We didn't know where we would spend the night, but apparently, we were concerned about how many
 luggage liters would be suitable for two up all the way to Cappadocia. Cilia would be Christos pillion—she needed
 little to none persuasion to join us.
 
@@ -22,9 +22,9 @@ where we would again board a boat at Çeşme.
 
 ### Athens → Chios → Çeşme
 
-We boarded the ferry on Sunday night, and after a short delay off we were, officially the start of our journey! We
-arrived at Chios after eight gruelling hours on the ship's deck, around six in the morning. The next ferry would leave
-at eight, so we took a stroll down the marina while waiting.
+We boarded the ferry on Sunday night, and after a short delay, the journey had officially started! We arrived at Chios
+after eight gruelling hours on the ship's deck, around six in the morning. The next ferry would leave at eight, so we
+took a stroll down the marina while waiting.
 
 {{< figure src="/blog/cappadocia/20241014_065111.webp" attr="As luck would have it, mishaps would start soon enough."
 align=center link="/blog/cappadocia/20241014_065111.webp" target="_blank" >}}
@@ -36,7 +36,7 @@ that he forgot to issue a new green card for his bike.
 > The 'green card' is a certificate of international insurance and is necessary when traveling to countries outside
 > the European Economic Zone.
 
-We decided to go forth with it and try to get through, which of course, did not work out. Apparently, the custom
+We decided to go forth with it and try to get through, which, of course, did not work out. Apparently, the custom
 authorities are pretty strict on things like that. Who would have guessed. After some back and forth with the Greek
 authorities, they decided to let us through and let their Turkish counterparts deal with us. If we did not have the
 right paperwork, we would be sent straight back to Chios with the next ferry. We rushed to the ship and hopped on at the
@@ -44,10 +44,10 @@ last possible moment.
 
 Our plan was simple enough, we had about 45 minutes to contact the insurance company and get the green card issued.
 Small problem, it was eight in the morning, on a Monday. After placing a few phone calls, we managed to get hold of
-Christos agent, who unfortunately was sick and on a leave. Luckily, he was kind enough to call the right person at the
+Christos agent, who unfortunately was sick and on leave. Luckily, he was kind enough to call the right person at the
 insurance company and get him to issue us a green card as fast as possible.
 
-Should my technologically illiterate friend have had an online insurance, we could have done this ourselves and almost
+Should my technologically illiterate friend have had online insurance, we could have done this ourselves and almost
 instantly.
 
 {{< figure src="/blog/cappadocia/20241014_090841.webp"
@@ -191,7 +191,7 @@ attr="Göreme has flourished economically after the tourist boom of the 00s." wi
 align=center link="/blog/cappadocia/PXL_20241017_185903265.NIGHT.webp" target="_blank" >}}
 
 We stayed at a cave house, a little outside the city center. We really enjoyed the cozy feeling they give you, but
-unfortunately, there is no natural light coming in. For our short stay we enjoyed it and would definitely choose it
+unfortunately, there is no natural light coming in. For our short stay, we enjoyed it and would definitely choose it
 again. After a good nights sleep, we started our day by visiting the open air museum.
 
 {{< figure src="/blog/cappadocia/PXL_20241018_083025556~2.webp"
@@ -259,7 +259,7 @@ attr="Just behind the touristic facade, half-demolished buildings are where the 
 align=center link="/blog/cappadocia/20241019_122701.webp" target="_blank" >}}
 
 {{< figure src="/blog/cappadocia/IMG_4186.webp"
-attr="" width=100%
+attr="The Soğanlı valley from above." width=100%
 align=center link="/blog/cappadocia/IMG_4186.webp" target="_blank" >}}
 
 {{< figure src="/blog/cappadocia/20241019_140438.webp"
@@ -299,27 +299,27 @@ align=center link="/blog/cappadocia/20241022_144256.webp" target="_blank" >}}
 Istanbul has a rich and turbulent history.
 
 {{< figure src="/blog/cappadocia/IMG_4290.webp"
-attr="The imposing entrance to the Istanbul university." width=100%
+attr="The imposing entrance to the Istanbul university from Beyazıt Square." width=100%
 align=center link="/blog/cappadocia/IMG_4290.webp" target="_blank" >}}
 
 {{< figure src="/blog/cappadocia/PXL_20241023_112415934~2.webp"
-attr="The //TODO palace has //TODO" width=100%
+attr="The Süleymaniye mosque was built in 1557." width=100%
 align=center link="/blog/cappadocia/PXL_20241023_112415934~2.webp" target="_blank" >}}
 
 {{< figure src="/blog/cappadocia/IMG_4310.webp"
-attr="The Vaporous straight from the //TODO palace." width=100%
+attr="The Bosphorus strait from the mosque." width=100%
 align=center link="/blog/cappadocia/IMG_4310.webp" target="_blank" >}}
 
 {{< figure src="/blog/cappadocia/20241023_165633.webp"
-attr="" width=100%
+attr="Kamondo Stairs at Karaköy." width=100%
 align=center link="/blog/cappadocia/20241023_165633.webp" target="_blank" >}}
 
 {{< figure src="/blog/cappadocia/IMG_4335.webp"
-attr="The Galatás tower sits on top of the hill, higher than anything else." width=100%
+attr="Galatás tower sits on top of the hill, higher than anything else." width=100%
 align=center link="/blog/cappadocia/IMG_4335.webp" target="_blank" >}}
 
 {{< figure src="/blog/cappadocia/PXL_20241024_055932734.webp"
-attr="The highest point of the dome of Hagia Sophia stands at X meters!" width=100%
+attr="The highest point of the dome of Hagia Sophia stands at 55.6 meters!" width=100%
 align=center link="/blog/cappadocia/PXL_20241024_055932734.webp" target="_blank" >}}
 
 {{< figure src="/blog/cappadocia/IMG_4349.webp"
@@ -330,30 +330,49 @@ align=center link="/blog/cappadocia/IMG_4349.webp" target="_blank" >}}
 attr="The grand bazaar is not for the agoraphobic." width=100%
 align=center link="/blog/cappadocia/PXL_20241024_084310324.MP.webp" target="_blank" >}}
 
-{{< figure src="/blog/cappadocia/PXL_20241024_095246090.webp"
-attr="" width=100%
-align=center link="/blog/cappadocia/PXL_20241024_095246090.webp" target="_blank" >}}
+{{< figure src="/blog/cappadocia/IMG_4443.webp"
+attr="Balat has a distinctive feel due to the colorful houses and their architecture." width=100%
+align=center link="/blog/cappadocia/IMG_4443.webp" target="_blank" >}}
 
 {{< figure src="/blog/cappadocia/20241024_125806.webp"
 attr="Again and again, behind the facade, patched walls and torn shoes would prevail." width=100%
 align=center link="/blog/cappadocia/20241024_125806.webp" target="_blank" >}}
 
+{{< figure src="/blog/cappadocia/PXL_20241024_140818144.webp"
+attr="The public boat transfer system is probably the fastest way to move from one side of the Bosphorus to the other."
+width=100%
+align=center link="/blog/cappadocia/PXL_20241024_140818144.webp" target="_blank" >}}
+
 {{< figure src="/blog/cappadocia/PXL_20241024_131052580~2.webp"
-attr="The entrance to the //TODO was a true work of art." width=100%
+attr="The entrance to the Dolmabahçe was a true work of art." width=100%
 align=center link="/blog/cappadocia/PXL_20241024_131052580~2.webp" target="_blank" >}}
 
 {{< figure src="/blog/cappadocia/IMG_4402.webp"
 attr="" width=100%
 align=center link="/blog/cappadocia/IMG_4402.webp" target="_blank" >}}
 
-{{< figure src="/blog/cappadocia/PXL_20241024_140818144.webp"
-attr="The public boat transfer system is probably the fastest way to move from one side of the Vosporous to the other."
+{{< figure src="/blog/cappadocia/PXL_20241025_152256960.webp"
+attr="People would fish way past the sunset." width=100%
+align=center link="/blog/cappadocia/PXL_20241025_152256960.webp" target="_blank" >}}
+
+{{< figure src="/blog/cappadocia/PXL_20241026_105256059.webp"
+attr="We liked Beyoğlu quite a lot, so we visited a second time."
 width=100%
-align=center link="/blog/cappadocia/PXL_20241024_140818144.webp" target="_blank" >}}
+align=center link="/blog/cappadocia/PXL_20241026_105256059.webp" target="_blank" >}}
 
 ### Istanbul → Kavala
 
+{{< figure src="/blog/cappadocia/20241027_200708.webp"
+attr="A hipster observed in his natural habitat. We got as close as we could without disturbing him."
+width=100%
+align=center link="/blog/cappadocia/20241027_200708.webp" target="_blank" >}}
+
 ### Kavala → Athens
+
+{{< figure src="/blog/cappadocia/PXL_20241028_094405525.webp"
+attr="There was a BMW group ride in the rest area, so we chose to stay away from them, just in case."
+width=100%
+align=center link="/blog/cappadocia/PXL_20241028_094405525.webp" target="_blank" >}}
 
 # Film photography
 

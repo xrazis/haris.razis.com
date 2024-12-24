@@ -213,7 +213,7 @@ align=center link="/blog/cappadocia/IMG_4032.webp" target="_blank" >}}
 After a quick tour of the open air museum, we hopped on the bikes and went to the most famous valleys around Göreme.
 
 {{< figure src="/blog/cappadocia/IMG_4049.webp"
-attr="The whole region has unique geological features." width=100%
+attr="The region has unique geological features." width=100%
 align=center link="/blog/cappadocia/IMG_4049.webp" target="_blank" >}}
 
 {{< figure src="/blog/cappadocia/IMG_4062.webp"
@@ -251,38 +251,107 @@ align=center link="/blog/cappadocia/PXL_20241018_145517321.webp" target="_blank"
 //TODO underground cities history, visit, and city hidden in the mountains.
 
 {{< figure src="/blog/cappadocia/underground.gif"
-attr="The tunnels were so tight that you had to bend your knees and pull your shoulders together!" width=100%
+attr="The tunnels were so narrow that you had to bend your knees and pull your shoulders together!" width=100%
 align=center link="/blog/cappadocia/underground.gif" target="_blank" >}}
 
 {{< figure src="/blog/cappadocia/20241019_122701.webp"
-attr="The tunnels were so tight that you had to bend your knees and pull your shoulders together!" width=100%
+attr="Just behind the touristic facade, half-demolished buildings are where the unfortunate live..." width=100%
 align=center link="/blog/cappadocia/20241019_122701.webp" target="_blank" >}}
 
 {{< figure src="/blog/cappadocia/IMG_4186.webp"
-attr="The tunnels were so tight that you had to bend your knees and pull your shoulders together!" width=100%
+attr="" width=100%
 align=center link="/blog/cappadocia/IMG_4186.webp" target="_blank" >}}
 
 {{< figure src="/blog/cappadocia/20241019_140438.webp"
-attr="The tunnels were so tight that you had to bend your knees and pull your shoulders together!" width=100%
+attr="" width=100%
 align=center link="/blog/cappadocia/20241019_140438.webp" target="_blank" >}}
 
 {{< figure src="/blog/cappadocia/IMG_4180.webp"
-attr="The tunnels were so tight that you had to bend your knees and pull your shoulders together!" width=100%
+attr="" width=100%
 align=center link="/blog/cappadocia/IMG_4180.webp" target="_blank" >}}
 
 {{< figure src="/blog/cappadocia/20241019_141917.webp"
-attr="The tunnels were so tight that you had to bend your knees and pull your shoulders together!" width=100%
+attr="" width=100%
 align=center link="/blog/cappadocia/20241019_141917.webp" target="_blank" >}}
 
 ### Göreme → Eskesihir
 
+{{< figure src="/blog/cappadocia/20241020_181206.webp"
+attr="" width=100%
+align=center link="/blog/cappadocia/20241020_181206.webp" target="_blank" >}}
+
+{{< figure src="/blog/cappadocia/20241021_125441.webp"
+attr="" width=100%
+align=center link="/blog/cappadocia/20241021_125441.webp" target="_blank" >}}
+
+{{< figure src="/blog/cappadocia/IMG_4275.webp"
+attr="" width=100%
+align=center link="/blog/cappadocia/IMG_4275.webp" target="_blank" >}}
+
 ### Eskesihir → Bursa
+
+{{< figure src="/blog/cappadocia/20241022_144256.webp"
+attr="" width=100%
+align=center link="/blog/cappadocia/20241022_144256.webp" target="_blank" >}}
 
 ### Bursa → Istanbul
 
-### Istanbul → Kavala
-
 Istanbul has a rich and turbulent history.
+
+{{< figure src="/blog/cappadocia/IMG_4290.webp"
+attr="The imposing entrance to the Istanbul university." width=100%
+align=center link="/blog/cappadocia/IMG_4290.webp" target="_blank" >}}
+
+{{< figure src="/blog/cappadocia/PXL_20241023_112415934~2.webp"
+attr="The //TODO palace has //TODO" width=100%
+align=center link="/blog/cappadocia/PXL_20241023_112415934~2.webp" target="_blank" >}}
+
+{{< figure src="/blog/cappadocia/IMG_4310.webp"
+attr="The Vaporous straight from the //TODO palace." width=100%
+align=center link="/blog/cappadocia/IMG_4310.webp" target="_blank" >}}
+
+{{< figure src="/blog/cappadocia/20241023_165633.webp"
+attr="" width=100%
+align=center link="/blog/cappadocia/20241023_165633.webp" target="_blank" >}}
+
+{{< figure src="/blog/cappadocia/IMG_4335.webp"
+attr="The Galatás tower sits on top of the hill, higher than anything else." width=100%
+align=center link="/blog/cappadocia/IMG_4335.webp" target="_blank" >}}
+
+{{< figure src="/blog/cappadocia/PXL_20241024_055932734.webp"
+attr="The highest point of the dome of Hagia Sophia stands at X meters!" width=100%
+align=center link="/blog/cappadocia/PXL_20241024_055932734.webp" target="_blank" >}}
+
+{{< figure src="/blog/cappadocia/IMG_4349.webp"
+attr="The detail in the (unfortunately destroyed) mosaics was incredible." width=100%
+align=center link="/blog/cappadocia/IMG_4349.webp" target="_blank" >}}
+
+{{< figure src="/blog/cappadocia/PXL_20241024_084310324.MP.webp"
+attr="The grand bazaar is not for the agoraphobic." width=100%
+align=center link="/blog/cappadocia/PXL_20241024_084310324.MP.webp" target="_blank" >}}
+
+{{< figure src="/blog/cappadocia/PXL_20241024_095246090.webp"
+attr="" width=100%
+align=center link="/blog/cappadocia/PXL_20241024_095246090.webp" target="_blank" >}}
+
+{{< figure src="/blog/cappadocia/20241024_125806.webp"
+attr="Again and again, behind the facade, patched walls and torn shoes would prevail." width=100%
+align=center link="/blog/cappadocia/20241024_125806.webp" target="_blank" >}}
+
+{{< figure src="/blog/cappadocia/PXL_20241024_131052580~2.webp"
+attr="The entrance to the //TODO was a true work of art." width=100%
+align=center link="/blog/cappadocia/PXL_20241024_131052580~2.webp" target="_blank" >}}
+
+{{< figure src="/blog/cappadocia/IMG_4402.webp"
+attr="" width=100%
+align=center link="/blog/cappadocia/IMG_4402.webp" target="_blank" >}}
+
+{{< figure src="/blog/cappadocia/PXL_20241024_140818144.webp"
+attr="The public boat transfer system is probably the fastest way to move from one side of the Vosporous to the other."
+width=100%
+align=center link="/blog/cappadocia/PXL_20241024_140818144.webp" target="_blank" >}}
+
+### Istanbul → Kavala
 
 ### Kavala → Athens
 

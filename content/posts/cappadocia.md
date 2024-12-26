@@ -20,7 +20,7 @@ where we would again board a boat at Çeşme.
 
 # The story
 
-### Athens → Chios → Çeşme
+### Athens -> Chios -> Çeşme
 
 We boarded the ferry on Sunday night, and after a short delay, the journey had officially started! We arrived at Chios
 after eight gruelling hours on the ship's deck, around six in the morning. The next ferry would leave at eight, so we
@@ -47,7 +47,7 @@ Small problem, it was eight in the morning, on a Monday. After placing a few pho
 Christos agent, who unfortunately was sick and on leave. Luckily, he was kind enough to call the right person at the
 insurance company and get him to issue us a green card as fast as possible.
 
-Should my technologically illiterate friend have had online insurance, we could have done this ourselves and almost
+Should my technologically illiterate friend have had an online insurance, we could have done this ourselves and almost
 instantly.
 
 {{< figure src="/blog/cappadocia/20241014_090841.webp"
@@ -57,7 +57,7 @@ align=center link="/blog/cappadocia/20241014_090841.webp" target="_blank" >}}
 Once the green card was emailed to us, we went through the Turkish side of the customs. I was part of a random check,
 where they even passed the bike through an X-ray scanner. Our first stop would be Pamukkale, about 350 kilometers away.
 
-### Çeşme → Pamukkale
+### Çeşme -> Pamukkale
 
 Pamukkale in Turkish means 'cotton castle'. The city is surrounded by cotton fields, and the hills surrounding Pamukkale
 are white as snow from the sediment (travertine) that has been deposited over the years.
@@ -78,7 +78,7 @@ align=center link="/blog/cappadocia/IMG_3810.webp" target="_blank" >}}
 
 That would wrap our short visit to Pamukkale; unfortunately, it did not live up to the hype.
 
-### Pamukkale → Eğirdir
+### Pamukkale -> Eğirdir
 
 The day after we would drive to the Isparta region through a collection of salty lakes, with no particular destination
 in mind.
@@ -119,7 +119,7 @@ governments being lousy and having a
 excitement, and more often than not, we would be treated to chai (their local tea). A true testament to the kindness and
 hospitality of the Turkish people.
 
-### Eğirdir → Konya
+### Eğirdir -> Konya
 
 An uneventful and boring trip led us to Konya. We decided to treat ourselves after the misfortune of the previous night
 and stayed at a boutique hotel slightly over our budget.
@@ -158,7 +158,7 @@ rights violations, lack of freedom of speech, imprisonments, a huge gap between 
 position of women that, in turn, suffer a really high percentage of raping and murdering. That only scratches the
 surface of a problematic state.
 
-### Konya → Göreme
+### Konya -> Göreme
 
 After five days of travel we would arrive at Göreme, our peak destination, and the furthest we would venture into
 Turkey. We did not choose the fastest road there but rather planned a little detour to see Tuz Golu, one of the largest
@@ -210,7 +210,7 @@ align=center link="/blog/cappadocia/IMG_4020.webp" target="_blank" >}}
 attr="Yiannoula X me." width=100%
 align=center link="/blog/cappadocia/IMG_4032.webp" target="_blank" >}}
 
-After a quick tour of the open air museum, we hopped on the bikes and went to the most famous valleys around Göreme.
+After a quick tour of the open air museum, we hopped on the bikes and visited the most famous valleys around Göreme.
 
 {{< figure src="/blog/cappadocia/IMG_4049.webp"
 attr="The region has unique geological features." width=100%
@@ -248,55 +248,91 @@ align=center link="/blog/cappadocia/IMG_4123.webp" target="_blank" >}}
 attr="Once the sun was out, the whole valley turned red." width=100%
 align=center link="/blog/cappadocia/PXL_20241018_145517321.webp" target="_blank" >}}
 
-//TODO underground cities history, visit, and city hidden in the mountains.
+When we woke up the second day at Göreme, we were greeted by freezing cold weather, and unfortunately, we had to ride to
+Derinkuyu, an underground city an hours' drive away. The Cappadocia region has many underground cities, which were first
+built in the 8th-7th century BC by the phrygians.
+
+Derinkuyu, as we see it today, was largely developed in the Byzantine
+era when it served as a defensive stronghold during the Arab-byzantine war. It was used until the 20th century when
+Cappadocian Greek and Armenians took refuge to escape the massacres at Adana. After the population exchange between the
+Greeks and the Turks in 1923, the city was abandoned and rediscovered by accident in the 1960s.
 
 {{< figure src="/blog/cappadocia/underground.gif"
 attr="The tunnels were so narrow that you had to bend your knees and pull your shoulders together!" width=100%
 align=center link="/blog/cappadocia/underground.gif" target="_blank" >}}
 
+The city has a depth of 85 meters and spans across 8 floors, with a housing capacity of 20.000 people with their
+livestock. It's truly astonishing how such large populations managed to live underground for long periods of time.
+
 {{< figure src="/blog/cappadocia/20241019_122701.webp"
 attr="Just behind the touristic facade, half-demolished buildings are where the unfortunate live..." width=100%
 align=center link="/blog/cappadocia/20241019_122701.webp" target="_blank" >}}
+
+We then visited the Soğanlı valley, where we drove through a beautiful twisty countryside road, in between a canyon.
+Soğanlı is an ancient settlement of similar historical significance to Göreme, with numerous churches, an abandoned
+village, and astonishing views.
 
 {{< figure src="/blog/cappadocia/IMG_4186.webp"
 attr="The Soğanlı valley from above." width=100%
 align=center link="/blog/cappadocia/IMG_4186.webp" target="_blank" >}}
 
 {{< figure src="/blog/cappadocia/20241019_140438.webp"
-attr="" width=100%
+attr="The abandoned (and ancient) village of about 20 houses." width=100%
 align=center link="/blog/cappadocia/20241019_140438.webp" target="_blank" >}}
 
 {{< figure src="/blog/cappadocia/IMG_4180.webp"
-attr="" width=100%
+attr="Rock cut houses above the main village." width=100%
 align=center link="/blog/cappadocia/IMG_4180.webp" target="_blank" >}}
 
 {{< figure src="/blog/cappadocia/20241019_141917.webp"
-attr="" width=100%
+attr="The bright-coloured doors and windows are believed to protect from 'evil eyes'." width=100%
 align=center link="/blog/cappadocia/20241019_141917.webp" target="_blank" >}}
 
-### Göreme → Eskesihir
+When back at the hotel we checked the weather for the next day, and unfortunately, we would have to change our route as
+the upper part of Turkey had intense thunderstorms. We decided to skip Samsun, Sinop, and the coastal
+route along the Black Sea, and instead head straight to Istanbul, through Eskişehir and Bursa.
+
+### Göreme -> Eskişehir
+
+We stayed in Odunpazarı, the oldest settlement in Eskişehir and a Unesco world heritage site, which has houses dating
+back to the Ottoman empire.
 
 {{< figure src="/blog/cappadocia/20241020_181206.webp"
-attr="" width=100%
+attr="All of the houses have similar architectural style, " width=100%
 align=center link="/blog/cappadocia/20241020_181206.webp" target="_blank" >}}
 
 {{< figure src="/blog/cappadocia/20241021_125441.webp"
-attr="" width=100%
+attr="and different pastel colors that give the old city center a unique feeling." width=100%
 align=center link="/blog/cappadocia/20241021_125441.webp" target="_blank" >}}
 
+The city is estimated to be more than 4000 years old, and now is one of the largest industrial centers in Turkey that
+produces products from sugar and textiles to railway and agricultural equipment.
+
 {{< figure src="/blog/cappadocia/IMG_4275.webp"
-attr="" width=100%
+attr="The Porsuk river splits the city in two." width=100%
 align=center link="/blog/cappadocia/IMG_4275.webp" target="_blank" >}}
 
-### Eskesihir → Bursa
+### Eskişehir -> Bursa
+
+//TODO Rewrite
+Bursa is another historic city that first appeared about 5200BC, with an important industrial center, , and a once
+important capital of the Ottoman empire.
+
+Unfortunately, Christos and I did not see Bursa at all, despite us staying two days there. We had a bad case of food
+poisoning from yogurt we ate at Eskişehir, and the moment we arrived at Bursa our suffering started. Luckily, the girls
+did not eat from that delicious yogurt and granola we had at that espresso house, and they did their best to help us.
 
 {{< figure src="/blog/cappadocia/20241022_144256.webp"
 attr="" width=100%
 align=center link="/blog/cappadocia/20241022_144256.webp" target="_blank" >}}
 
-### Bursa → Istanbul
+### Bursa -> Istanbul
 
-Istanbul has a rich and turbulent history.
+Istanbul is the largest and arguably the most important city in Turkey. It has a rich and turbulent history that spans
+centuries. //TODO Add more info about istanbul
+
+After battling for two hours in the traffic, we left our bikes at the hotel and started venturing into the city. Having
+arrived at noon and without a whole day to explore, we decided to walk to Galatás to get a first impression.
 
 {{< figure src="/blog/cappadocia/IMG_4290.webp"
 attr="The imposing entrance to the Istanbul university from Beyazıt Square." width=100%
@@ -318,13 +354,22 @@ align=center link="/blog/cappadocia/20241023_165633.webp" target="_blank" >}}
 attr="Galatás tower sits on top of the hill, higher than anything else." width=100%
 align=center link="/blog/cappadocia/IMG_4335.webp" target="_blank" >}}
 
+The following day we woke up early to visit Hagia Sophia so to avoid large crowds. Sadly, Erdoğan annulled Hagia
+Sophia's status as a museum and reverted it into a mosque. Visitors are only allowed on the top floor, which is a short
+15-minute tour. The visit was poor compared to what had been described to us by people who visited before the
+annulation.
+
+Despite that, Hagia Sophia is an architectural masterpiece, and we could not leave without visiting. //TODO add info
+
 {{< figure src="/blog/cappadocia/PXL_20241024_055932734.webp"
 attr="The highest point of the dome of Hagia Sophia stands at 55.6 meters!" width=100%
 align=center link="/blog/cappadocia/PXL_20241024_055932734.webp" target="_blank" >}}
 
 {{< figure src="/blog/cappadocia/IMG_4349.webp"
-attr="The detail in the (unfortunately destroyed) mosaics was incredible." width=100%
+attr="The detail in the (unfortunately destroyed) mosaics is incredible." width=100%
 align=center link="/blog/cappadocia/IMG_4349.webp" target="_blank" >}}
+
+We then headed towards Balat, //TODO Complete
 
 {{< figure src="/blog/cappadocia/PXL_20241024_084310324.MP.webp"
 attr="The grand bazaar is not for the agoraphobic." width=100%
@@ -347,6 +392,8 @@ align=center link="/blog/cappadocia/PXL_20241024_140818144.webp" target="_blank"
 attr="The entrance to the Dolmabahçe was a true work of art." width=100%
 align=center link="/blog/cappadocia/PXL_20241024_131052580~2.webp" target="_blank" >}}
 
+//TODO Write about the motorbike tour on the whole vosporous
+
 {{< figure src="/blog/cappadocia/IMG_4402.webp"
 attr="" width=100%
 align=center link="/blog/cappadocia/IMG_4402.webp" target="_blank" >}}
@@ -359,19 +406,21 @@ align=center link="/blog/cappadocia/seesaw.gif" target="_blank" >}}
 attr="People would fish way past the sunset." width=100%
 align=center link="/blog/cappadocia/PXL_20241025_152256960.webp" target="_blank" >}}
 
+//TODO Last day and wrapping thoughts, dont forget my illness. 
+
 {{< figure src="/blog/cappadocia/PXL_20241026_105256059.webp"
 attr="We liked Beyoğlu quite a lot, so we visited a second time."
 width=100%
 align=center link="/blog/cappadocia/PXL_20241026_105256059.webp" target="_blank" >}}
 
-### Istanbul → Kavala
+### Istanbul -> Kavala
 
 {{< figure src="/blog/cappadocia/20241027_200708.webp"
 attr="A hipster observed in his natural habitat. We got as close as we could without disturbing him."
 width=100%
 align=center link="/blog/cappadocia/20241027_200708.webp" target="_blank" >}}
 
-### Kavala → Athens
+### Kavala -> Athens
 
 {{< figure src="/blog/cappadocia/PXL_20241028_094405525.webp"
 attr="There was a BMW group ride in the rest area, so we chose to stay away from them, just in case."
@@ -379,6 +428,8 @@ width=100%
 align=center link="/blog/cappadocia/PXL_20241028_094405525.webp" target="_blank" >}}
 
 # Film photography
+
+//TODO Write about the film photography thing christos introduced at the balkans
 
 # Wrap up
 
@@ -393,6 +444,6 @@ That wraps up Cappadocia! What we learned:
 - Passenger comfort is your priority. If you travel a lot solo, and especially in tough off-road conditions, you will
   develop some resilience to harsh conditions and the fatigue of long days. That is not the case with your pillion, and
   you ought to be considerate.
--
+- //TODO Add more learned
 
 Up next is Kosovo with the guys!

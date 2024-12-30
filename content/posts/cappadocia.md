@@ -268,7 +268,7 @@ livestock. It's truly astonishing how such large populations managed to live und
 attr="Just behind the touristic facade, half-demolished buildings are where the unfortunate live..." width=100%
 align=center link="/blog/cappadocia/20241019_122701.webp" target="_blank" >}}
 
-We then visited the Soğanlı valley, where we drove through a beautiful twisty countryside road, in between a canyon.
+We then visited the Soğanlı valley, where we drove through a beautiful twisty countryside road that sits in a canyon.
 Soğanlı is an ancient settlement of similar historical significance to Göreme, with numerous churches, an abandoned
 village, and astonishing views.
 
@@ -294,8 +294,9 @@ route along the Black Sea, and instead head straight to Istanbul, through Eskiş
 
 ### Göreme -> Eskişehir
 
-We stayed in Odunpazarı, the oldest settlement in Eskişehir and a Unesco world heritage site, which has houses dating
-back to the Ottoman empire.
+Eskişehir is estimated to be more than 4000 years old. We stayed in Odunpazarı, the oldest settlement in Eskişehir, and
+a
+Unesco world heritage site, which has houses dating back to the Ottoman empire.
 
 {{< figure src="/blog/cappadocia/20241020_181206.webp"
 attr="All of the houses have similar architectural style, " width=100%
@@ -305,21 +306,15 @@ align=center link="/blog/cappadocia/20241020_181206.webp" target="_blank" >}}
 attr="and different pastel colors that give the old city center a unique feeling." width=100%
 align=center link="/blog/cappadocia/20241021_125441.webp" target="_blank" >}}
 
-The city is estimated to be more than 4000 years old, and now is one of the largest industrial centers in Turkey that
-produces products from sugar and textiles to railway and agricultural equipment.
-
 {{< figure src="/blog/cappadocia/IMG_4275.webp"
 attr="The Porsuk river splits the city in two." width=100%
 align=center link="/blog/cappadocia/IMG_4275.webp" target="_blank" >}}
 
 ### Eskişehir -> Bursa
 
-//TODO Rewrite
-Bursa is another historic city that first appeared about 5200BC, with an important industrial center, , and a once
-important capital of the Ottoman empire.
-
+Bursa is another historic city that first appeared about 5200BC and the first capital of the Ottoman empire.
 Unfortunately, Christos and I did not see Bursa at all, despite us staying two days there. We had a bad case of food
-poisoning from yogurt we ate at Eskişehir, and the moment we arrived at Bursa our suffering started. Luckily, the girls
+poisoning from yogurt we ate at Eskişehir, and the moment we arrived at Bursa, our suffering started. Luckily, the girls
 did not eat from that delicious yogurt and granola we had at that espresso house, and they did their best to help us.
 
 {{< figure src="/blog/cappadocia/20241022_144256.webp"
@@ -328,22 +323,23 @@ align=center link="/blog/cappadocia/20241022_144256.webp" target="_blank" >}}
 
 ### Bursa -> Istanbul
 
-Istanbul is the largest and arguably the most important city in Turkey. It has a rich and turbulent history that spans
-centuries. //TODO Add more info about istanbul
+Istanbul is the largest and arguably the most important city in Turkey. It is the most populous city in europe and the
+most visited city in the world! It has a rich and turbulent history that spans centuries.
 
 After battling for two hours in the traffic, we left our bikes at the hotel and started venturing into the city. Having
-arrived at noon and without a whole day to explore, we decided to walk to Galatás to get a first impression.
+arrived at noon and without a whole day to explore, we decided to walk to Galatás to get a first impression of Istanbul.
+//TODO Add info
 
 {{< figure src="/blog/cappadocia/IMG_4290.webp"
 attr="The imposing entrance to the Istanbul university from Beyazıt Square." width=100%
 align=center link="/blog/cappadocia/IMG_4290.webp" target="_blank" >}}
 
 {{< figure src="/blog/cappadocia/PXL_20241023_112415934~2.webp"
-attr="The Süleymaniye mosque was built in 1557." width=100%
+attr="The Süleymaniye mosque. It was built in 1557." width=100%
 align=center link="/blog/cappadocia/PXL_20241023_112415934~2.webp" target="_blank" >}}
 
 {{< figure src="/blog/cappadocia/IMG_4310.webp"
-attr="The Bosphorus strait from the mosque." width=100%
+attr="The Bosporus strait from the mosque." width=100%
 align=center link="/blog/cappadocia/IMG_4310.webp" target="_blank" >}}
 
 {{< figure src="/blog/cappadocia/20241023_165633.webp"
@@ -354,12 +350,18 @@ align=center link="/blog/cappadocia/20241023_165633.webp" target="_blank" >}}
 attr="Galatás tower sits on top of the hill, higher than anything else." width=100%
 align=center link="/blog/cappadocia/IMG_4335.webp" target="_blank" >}}
 
-The following day we woke up early to visit Hagia Sophia so to avoid large crowds. Sadly, Erdoğan annulled Hagia
-Sophia's status as a museum and reverted it into a mosque. Visitors are only allowed on the top floor, which is a short
-15-minute tour. The visit was poor compared to what had been described to us by people who visited before the
+The following day we visited Hagia Sophia as early as possible so to avoid large crowds. Sadly, Erdoğan annulled
+Hagia Sophia's status as a museum and reverted it into a mosque. Visitors are only allowed on the top floor, which is a
+short 15-minute tour. The visit was poor compared to what had been described to us by people who visited before the
 annulation.
 
-Despite that, Hagia Sophia is an architectural masterpiece, and we could not leave without visiting. //TODO add info
+Despite that, Hagia Sophia is an architectural masterpiece, and we could not leave without visiting. Initially a church,
+it was converted to a mosque after the fall of Constantinople in 1453. It is considered the epitome of Byzantine
+architecture and has influenced the history of architecture. When transitioned to a mosque,
+
+{{< figure src="/blog/cappadocia/IMG_4356.webp"
+attr="It's construction started in 346AD." width=100%
+align=center link="/blog/cappadocia/IMG_4356.webp" target="_blank" >}}
 
 {{< figure src="/blog/cappadocia/PXL_20241024_055932734.webp"
 attr="The highest point of the dome of Hagia Sophia stands at 55.6 meters!" width=100%
@@ -384,34 +386,55 @@ attr="Again and again, behind the facade, patched walls and torn shoes would pre
 align=center link="/blog/cappadocia/20241024_125806.webp" target="_blank" >}}
 
 {{< figure src="/blog/cappadocia/PXL_20241024_140818144.webp"
-attr="The public boat transfer system is probably the fastest way to move from one side of the Bosphorus to the other."
+attr="The public boat transfer system is probably the fastest way to move from one side of the Bosporus to the other."
 width=100%
 align=center link="/blog/cappadocia/PXL_20241024_140818144.webp" target="_blank" >}}
 
 {{< figure src="/blog/cappadocia/PXL_20241024_131052580~2.webp"
-attr="The entrance to the Dolmabahçe was a true work of art." width=100%
+attr="The entrance to Dolmabahçe was a true work of art." width=100%
 align=center link="/blog/cappadocia/PXL_20241024_131052580~2.webp" target="_blank" >}}
 
-//TODO Write about the motorbike tour on the whole vosporous
+On the morning of the third day at Istanbul, I learned that the night before Christos lost his wallet that contained his
+driving license, ID, and some money. No biggie, except he could not prove his driving ability. After some discussing, we
+decided to ignore this incident since he still had a passport and the motorcycle registration.
+
+Christos had a little tantrum saying how all the bad situations follow me around. And that bad things always happen
+when I am present. And some other nonsense of how I bring bad luck. Despite recent events (and pretty much everything
+including me) suggesting he is correct, I prefer to think of it a bit differently. //TODO
+
+> Never store important documents in one place, you should always split them up. If one is lost, you should still be
+> able to identify yourself.
+
+We decided to ride up the Bosporus strait and have a chill day outside the city center.
 
 {{< figure src="/blog/cappadocia/IMG_4402.webp"
-attr="" width=100%
+attr="They stopped us at a roadblock, where they asked for our driving license 🙂." width=100%
 align=center link="/blog/cappadocia/IMG_4402.webp" target="_blank" >}}
 
 {{< figure src="/blog/cappadocia/seesaw.gif"
-attr="Let the kids play." width=100%
+attr="Let them kids play." width=100%
 align=center link="/blog/cappadocia/seesaw.gif" target="_blank" >}}
+
+{{< figure src="/blog/cappadocia/PXL_20241025_143108588.webp"
+attr="Emirgan Grove." width=100%
+align=center link="/blog/cappadocia/PXL_20241025_143108588.webp" target="_blank" >}}
 
 {{< figure src="/blog/cappadocia/PXL_20241025_152256960.webp"
 attr="People would fish way past the sunset." width=100%
 align=center link="/blog/cappadocia/PXL_20241025_152256960.webp" target="_blank" >}}
 
-//TODO Last day and wrapping thoughts, dont forget my illness. 
+We spent our last day in Istanbul revisiting Galatás and the many bazaars in the that hope we would find interesting
+gifts. Unfortunately, the big bazaars are a tourist scam. The price inequality with the shops outside the bazaars was
+huge. You are supposed to negotiate the prices, but you are never going to come out on top. The same way you wouldn't if
+you fought a UFC pro. It's their job.
 
 {{< figure src="/blog/cappadocia/PXL_20241026_105256059.webp"
 attr="We liked Beyoğlu quite a lot, so we visited a second time."
 width=100%
 align=center link="/blog/cappadocia/PXL_20241026_105256059.webp" target="_blank" >}}
+
+Overall, we like Istanbul a lot. The locals also take great care of the stray cats and dogs that roam freely around the
+city streets. We could learn a lot from them.
 
 ### Istanbul -> Kavala
 
@@ -431,6 +454,15 @@ align=center link="/blog/cappadocia/PXL_20241028_094405525.webp" target="_blank"
 
 //TODO Write about the film photography thing christos introduced at the balkans
 
+# Ride Stats
+
+The trip info as recorded from the 790s dashboard.
+
+- **Trip**: 3376.0 kilometers
+- **Trip Time**: 41:30 hours
+- **Average consumption**: 4.7 L/100km
+- **Average speed**: 81 km/h
+
 # Wrap up
 
 That wraps up Cappadocia! What we learned:
@@ -444,6 +476,7 @@ That wraps up Cappadocia! What we learned:
 - Passenger comfort is your priority. If you travel a lot solo, and especially in tough off-road conditions, you will
   develop some resilience to harsh conditions and the fatigue of long days. That is not the case with your pillion, and
   you ought to be considerate.
-- //TODO Add more learned
+
+//TODO Add more learned
 
 Up next is Kosovo with the guys!

@@ -105,6 +105,16 @@ ul, ol {
     padding-left: 1.3rem;
 }
 
+::selection {
+    background-color: var(--color-background-dark);
+    color: var(--color-text-link-hover);
+}
+
+::-moz-selection {
+    background-color: var(--color-background-dark);
+    color: var(--color-text-link-hover);
+}
+
 button,
 a.button {
     display: inline-flex;

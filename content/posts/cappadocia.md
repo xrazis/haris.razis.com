@@ -7,7 +7,7 @@ draft: true
 
 # Introduction
 
-We had been planning a trip to Cappadocia for months, Yiannoula and I started drafting a route from early 2024. When
+We had been daydreaming a trip to Cappadocia for months, Yiannoula and I started drafting a route from early 2024. When
 Christos and I were doing part of the [Balkan TET](/posts/balkan-tet/), we would spend our evenings planning Cappadocia.
 Funny to say the least. We didn't know where we would spend the night, but apparently, we were concerned about how many
 luggage liters would be suitable for two up all the way to Cappadocia. Cilia would be Christos pillion—she needed
@@ -43,7 +43,7 @@ right paperwork, we would be sent straight back to Chios with the next ferry. We
 last possible moment.
 
 Our plan was simple enough, we had about 45 minutes to contact the insurance company and get the green card issued.
-Small problem, it was eight in the morning, on a Monday. After placing a few phone calls, we managed to get hold of
+Small problem. It was eight in the morning. On a Monday. After placing a few phone calls, we managed to get hold of
 Christos agent, who unfortunately was sick and on leave. Luckily, he was kind enough to call the right person at the
 insurance company and get him to issue us a green card as fast as possible.
 
@@ -145,25 +145,25 @@ attr="Sufi whirling at the Mevlana museum." width=100%
 align=center link="/blog/cappadocia/dervish.gif" target="_blank" >}}
 
 Men and women in Turkey do not have the same rights, and that is prominent in every aspect of their everyday life. For
-example, the mosques have a restricted and much smaller area to pray at the back of the building, and no eye contact is
+example, mosques have a restricted and much smaller area to pray at the back of the building, and no eye contact is
 possible between the two sexes.
 
 A catalyst to modernizing Turkey was Kemal Atatürk. He reformed the country's political, economic, and cultural
 sectors. The alphabet was changed from the Ottoman to a Latin-based one. Women received equal civil and political rights
-and a right to vote. The list goes on. He is commemorated through Turkey, and even today, at the time of his death (09:
-05 on the 10th of November), vehicles and people stop for one minute in remembrance.
+and a right to vote. The list goes on. He is commemorated through Turkey, and even today, at the time of his death
+(09:05 on the 10th of November), vehicles and people stop for one minute in remembrance.
 
 Despite the former improvements pointing Turkey in the right direction, it has gotten worse in the last decades. Human
 rights violations, lack of freedom of speech, imprisonments, a huge gap between the formal rights and the social
-position of women that, in turn, suffer a really high percentage of raping and murdering. That only scratches the
-surface of a problematic state.
+position of women, and a high percentage of raping and murdering of women. That only scratches the surface of a
+problematic state.
 
 ### Konya -> Göreme
 
 After five days of travel we would arrive at Göreme, our peak destination, and the furthest we would venture into
 Turkey. We did not choose the fastest road there but rather planned a little detour to see Tuz Golu, one of the largest
 hypersaline lakes in the world! Unfortunately, we did not go through the lake from a dirt road the locals use, as I
-deemed it too risky given the fact it rained the night before, combined with the limited amount of daylight left.
+deemed it too risky given the fact it rained the night before.
 
 {{< figure src="/blog/cappadocia/PXL_20241017_120451502.webp"
 attr="The lake is 80 kilometers in length!" width=100%
@@ -199,8 +199,8 @@ attr="This used to be a monastery for early christians." width=100%
 align=center link="/blog/cappadocia/PXL_20241018_083025556~2.webp" target="_blank" >}}
 
 There are numerous churches inside the open-air museum, all of them of great historical importance. Cappadocia was
-considered a sanctuary for early Christians, and under the guiding hand of Saint Basil, many churches in the area were
-built.
+considered a sanctuary for early Christians, and under the guiding hand of Saint Basil is when most of the churches in
+the area were built.
 
 {{< figure src="/blog/cappadocia/IMG_4020.webp"
 attr="Many of the wall paintings were destroyed and are now under restoration." width=100%
@@ -236,9 +236,9 @@ align=center link="/blog/cappadocia/20241018_150013.webp" target="_blank" >}}
 attr="until someone stands next to them." width=100%
 align=center link="/blog/cappadocia/IMG_4108.webp" target="_blank" >}}
 
-To wrap the day, we decided to watch the sunset from the top of the Uchisar castle. It is riddled with tunnels
-and has been used as a defensive stronghold for centuries, and the summit has a panoramic view of the whole region!
-We were lucky (?) because it was freezing cold, so there were just a few people on its summit.
+To wrap the day, we decided to watch the sunset from the top of the Uchisar castle. It is riddled with tunnels, has been
+used as a defensive stronghold for centuries, and the summit has a panoramic view of the whole region! We were lucky (🤷)
+because it was freezing cold, so there were just a few people on its summit.
 
 {{< figure src="/blog/cappadocia/IMG_4123.webp"
 attr="The Uchisar castle from bellow." width=100%
@@ -248,12 +248,12 @@ align=center link="/blog/cappadocia/IMG_4123.webp" target="_blank" >}}
 attr="Once the sun was out, the whole valley turned red." width=100%
 align=center link="/blog/cappadocia/PXL_20241018_145517321.webp" target="_blank" >}}
 
-When we woke up the second day at Göreme, we were greeted by freezing cold weather, and unfortunately, we had to ride to
+When we woke up the second day at Göreme, we were greeted by freezing cold weather. Unfortunately, we had to ride to
 Derinkuyu, an underground city an hours' drive away. The Cappadocia region has many underground cities, which were first
 built in the 8th-7th century BC by the phrygians.
 
 Derinkuyu, as we see it today, was largely developed in the Byzantine
-era when it served as a defensive stronghold during the Arab-byzantine war. It was used until the 20th century when
+era when it served as a defensive stronghold during the Arab-Byzantine war. It was used until the 20th century when
 Cappadocian Greek and Armenians took refuge to escape the massacres at Adana. After the population exchange between the
 Greeks and the Turks in 1923, the city was abandoned and rediscovered by accident in the 1960s.
 
@@ -323,19 +323,24 @@ align=center link="/blog/cappadocia/20241022_144256.webp" target="_blank" >}}
 
 ### Bursa -> Istanbul
 
-Istanbul is the largest and arguably the most important city in Turkey. It is the most populous city in europe and the
-most visited city in the world! It has a rich and turbulent history that spans centuries.
+Istanbul is the largest and arguably the most important city in Turkey and the history of humankind. It is the most
+populous city in Europe and the most visited city in the world! It has a rich and turbulent history that spans
+centuries.
+
+Initially named Byzantium when it was founded by Greek settlers in the seventh century BCE, then renamed to
+Constantinople in 330, and finally renamed again in 1930 to what we know it as today, Istanbul. The city also greatly
+advanced Christianity, before its transformation to the center of the Islamic world after the fall of Constantinople
+in 1453.
 
 After battling for two hours in the traffic, we left our bikes at the hotel and started venturing into the city. Having
 arrived at noon and without a whole day to explore, we decided to walk to Galatás to get a first impression of Istanbul.
-//TODO Add info
 
 {{< figure src="/blog/cappadocia/IMG_4290.webp"
 attr="The imposing entrance to the Istanbul university from Beyazıt Square." width=100%
 align=center link="/blog/cappadocia/IMG_4290.webp" target="_blank" >}}
 
 {{< figure src="/blog/cappadocia/PXL_20241023_112415934~2.webp"
-attr="The Süleymaniye mosque. It was built in 1557." width=100%
+attr="The Süleymaniye mosque, built in 1557." width=100%
 align=center link="/blog/cappadocia/PXL_20241023_112415934~2.webp" target="_blank" >}}
 
 {{< figure src="/blog/cappadocia/IMG_4310.webp"
@@ -350,14 +355,15 @@ align=center link="/blog/cappadocia/20241023_165633.webp" target="_blank" >}}
 attr="Galatás tower sits on top of the hill, higher than anything else." width=100%
 align=center link="/blog/cappadocia/IMG_4335.webp" target="_blank" >}}
 
-The following day we visited Hagia Sophia as early as possible so to avoid large crowds. Sadly, Erdoğan annulled
+The following day we visited Hagia Sophia as early as possible, as to avoid large crowds. Sadly, Erdoğan annulled
 Hagia Sophia's status as a museum and reverted it into a mosque. Visitors are only allowed on the top floor, which is a
 short 15-minute tour. The visit was poor compared to what had been described to us by people who visited before the
 annulation.
 
 Despite that, Hagia Sophia is an architectural masterpiece, and we could not leave without visiting. Initially a church,
 it was converted to a mosque after the fall of Constantinople in 1453. It is considered the epitome of Byzantine
-architecture and has influenced the history of architecture. When transitioned to a mosque,
+architecture and has influenced the history of architecture. When transitioned to a mosque, any Christian symbols and
+architectural points were removed, and the iconography was destroyed or plastered over.
 
 {{< figure src="/blog/cappadocia/IMG_4356.webp"
 attr="It's construction started in 346AD." width=100%
@@ -370,6 +376,10 @@ align=center link="/blog/cappadocia/PXL_20241024_055932734.webp" target="_blank"
 {{< figure src="/blog/cappadocia/IMG_4349.webp"
 attr="The detail in the (unfortunately destroyed) mosaics is incredible." width=100%
 align=center link="/blog/cappadocia/IMG_4349.webp" target="_blank" >}}
+
+We also visited the Hagia Sophia history & experience museum, where you go through a series of dark rooms with vivid
+animations on the walls of the 1700-year-old history of Hagia Sophia. At the end of the museum you are greeted by an
+exhibition filled with artifacts. The museum should definitely be visited alongside the Hagia Sophia.
 
 We then headed towards Balat, //TODO Complete
 
@@ -391,7 +401,7 @@ width=100%
 align=center link="/blog/cappadocia/PXL_20241024_140818144.webp" target="_blank" >}}
 
 {{< figure src="/blog/cappadocia/PXL_20241024_131052580~2.webp"
-attr="The entrance to Dolmabahçe was a true work of art." width=100%
+attr="The side entrance to Dolmabahçe was a true work of art." width=100%
 align=center link="/blog/cappadocia/PXL_20241024_131052580~2.webp" target="_blank" >}}
 
 On the morning of the third day at Istanbul, I learned that the night before Christos lost his wallet that contained his
@@ -400,9 +410,9 @@ decided to ignore this incident since he still had a passport and the motorcycle
 
 Christos had a little tantrum saying how all the bad situations follow me around. And that bad things always happen
 when I am present. And some other nonsense of how I bring bad luck. Despite recent events (and pretty much everything
-including me) suggesting he is correct, I prefer to think of it a bit differently. //TODO
+including me) suggesting he is correct, I prefer to think of the upside. You get to tell cool stories.
 
-> Never store important documents in one place, you should always split them up. If one is lost, you should still be
+> Never store important documents in one place, always split them up. If one is lost, you should still be
 > able to identify yourself.
 
 We decided to ride up the Bosporus strait and have a chill day outside the city center.
@@ -420,13 +430,13 @@ attr="Emirgan Grove." width=100%
 align=center link="/blog/cappadocia/PXL_20241025_143108588.webp" target="_blank" >}}
 
 {{< figure src="/blog/cappadocia/PXL_20241025_152256960.webp"
-attr="People would fish way past the sunset." width=100%
+attr="People would fish past the sunset." width=100%
 align=center link="/blog/cappadocia/PXL_20241025_152256960.webp" target="_blank" >}}
 
-We spent our last day in Istanbul revisiting Galatás and the many bazaars in the that hope we would find interesting
-gifts. Unfortunately, the big bazaars are a tourist scam. The price inequality with the shops outside the bazaars was
-huge. You are supposed to negotiate the prices, but you are never going to come out on top. The same way you wouldn't if
-you fought a UFC pro. It's their job.
+We spent our last day in Istanbul revisiting Galatás and the bazaars in the that hope we would find interesting gifts.
+Unfortunately, the big bazaars are a tourist scam. The price inequality with the shops outside the bazaars was huge. You
+are supposed to negotiate the prices, but you are never going to come out on top. The same way you wouldn't if you
+fought a UFC pro. It's their job.
 
 {{< figure src="/blog/cappadocia/PXL_20241026_105256059.webp"
 attr="We liked Beyoğlu quite a lot, so we visited a second time."
@@ -438,12 +448,20 @@ city streets. We could learn a lot from them.
 
 ### Istanbul -> Kavala
 
+Our plan was to stay at Xánthi, but due to a national holiday, we could not find any last-minute accommodation. We
+decided to stay at Kavála, about 45 minutes away. Kavála pleasantly surprised us, as it was located next to the sea with
+a cared-for city center.
+
 {{< figure src="/blog/cappadocia/20241027_200708.webp"
 attr="A hipster observed in his natural habitat. We got as close as we could without disturbing him."
 width=100%
 align=center link="/blog/cappadocia/20241027_200708.webp" target="_blank" >}}
 
 ### Kavala -> Athens
+
+The last stretch was 650 km of highway. It is an absolute nightmare to drive at 130–140 km/hr on such boring roads. I
+have concluded that these kinds of kilometers should be done either by car at the same speed or by 160+ hp bikes
+at 240 km/hr. No exception. No compromise.
 
 {{< figure src="/blog/cappadocia/PXL_20241028_094405525.webp"
 attr="There was a BMW group ride in the rest area, so we chose to stay away from them, just in case."
@@ -479,4 +497,4 @@ That wraps up Cappadocia! What we learned:
 
 //TODO Add more learned
 
-Up next is Kosovo with the guys!
+The upcoming trips are under discussion. Maybe Kosovo or Bulgaria for the enduro and Tunisia for the touring.

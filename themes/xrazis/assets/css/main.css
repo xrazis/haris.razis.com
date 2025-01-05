@@ -292,6 +292,14 @@ blockquote {
         }
     }
 
+    li:last-of-type {
+        margin-right: var(--gap);
+
+        a {
+            padding-right: 0;
+        }
+    }
+
     li + li {
         margin-inline-start: var(--gap);
     }

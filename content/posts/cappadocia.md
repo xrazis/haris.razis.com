@@ -1,8 +1,8 @@
 ---
 title: Two up Cappadocia
-date: 2024-11-27
+date: 2025-01-05
 tags: [ Adventure, Moto ]
-draft: true
+draft: false
 ---
 
 # Introduction
@@ -33,7 +33,7 @@ Before you board the ferry to Turkey, you have to go through Greek customs, bike
 Turkey, you have to go through their customs as well. It was moments before the boarding when Christos remembered
 that he forgot to issue a new green card for his bike.
 
-> The 'green card' is a certificate of international insurance and is necessary when traveling to countries outside
+> The green card is a certificate of international insurance and is necessary when traveling to countries outside
 > the European Economic Zone.
 
 We decided to go forth with it and try to get through, which, of course, did not work out. Apparently, the custom
@@ -182,17 +182,17 @@ attr="Rain would welcome us to Göreme." width=100%
 align=center link="/blog/cappadocia/20241017_173028.webp" target="_blank" >}}
 
 The region of Cappadocia is truly magnificent, with a rich history, unique geological features, and full of Unesco
-heritage sites. We chose to stay at Göreme, a popular town in Nevşehir. The houses there are carved out of cone-shaped
-rocks that populate the area. Little is known about its early history and origins as it was not located on any major
-travel roads.
+world heritage sites. We chose to stay at Göreme, a popular town in Nevşehir. The houses there are carved out of
+cone-shaped rocks that populate the area. Little is known about its early history and origins as it was not located on
+any major travel roads.
 
 {{< figure src="/blog/cappadocia/PXL_20241017_185903265.NIGHT.webp"
 attr="Göreme has flourished economically after the tourist boom of the 00s." width=100%
 align=center link="/blog/cappadocia/PXL_20241017_185903265.NIGHT.webp" target="_blank" >}}
 
-We stayed at a cave house, a little outside the city center. We really enjoyed the cozy feeling they give you, but
-unfortunately, there is no natural light coming in. For our short stay, we enjoyed it and would definitely choose it
-again. After a good nights sleep, we started our day by visiting the open air museum.
+We stayed at a cave house (Kismet—also highly recommended), a little outside the city center. We really enjoyed the cozy
+feeling they give you, but unfortunately, there is no natural light coming in. For our short stay, we enjoyed it and
+would definitely choose it again. After a good nights sleep, we started our day by visiting the open air museum.
 
 {{< figure src="/blog/cappadocia/PXL_20241018_083025556~2.webp"
 attr="This used to be a monastery for early christians." width=100%
@@ -238,7 +238,7 @@ align=center link="/blog/cappadocia/IMG_4108.webp" target="_blank" >}}
 
 To wrap the day, we decided to watch the sunset from the top of the Uchisar castle. It is riddled with tunnels, has been
 used as a defensive stronghold for centuries, and the summit has a panoramic view of the whole region! We were lucky (🤷)
-because it was freezing cold, so there were just a few people on its summit.
+because it was freezing cold, so there were just a handful of people on its summit.
 
 {{< figure src="/blog/cappadocia/IMG_4123.webp"
 attr="The Uchisar castle from bellow." width=100%
@@ -288,9 +288,13 @@ align=center link="/blog/cappadocia/IMG_4180.webp" target="_blank" >}}
 attr="The bright-coloured doors and windows are believed to protect from 'evil eyes'." width=100%
 align=center link="/blog/cappadocia/20241019_141917.webp" target="_blank" >}}
 
-When back at the hotel we checked the weather for the next day, and unfortunately, we would have to change our route as
+When back at the hotel, we checked the weather for the next day, and unfortunately, we would have to change our route as
 the upper part of Turkey had intense thunderstorms. We decided to skip Samsun, Sinop, and the coastal
 route along the Black Sea, and instead head straight to Istanbul, through Eskişehir and Bursa.
+
+{{< figure src="/blog/cappadocia/IMG_20241020_070153.webp"
+attr="Once the sun was out, the balloons filled the sky." width=100%
+align=center link="/blog/cappadocia/IMG_20241020_070153.webp" target="_blank" >}}
 
 ### Göreme -> Eskişehir
 
@@ -378,10 +382,10 @@ attr="The detail in the (unfortunately destroyed) mosaics is incredible." width=
 align=center link="/blog/cappadocia/IMG_4349.webp" target="_blank" >}}
 
 We also visited the Hagia Sophia history & experience museum, where you go through a series of dark rooms with vivid
-animations on the walls of the 1700-year-old history of Hagia Sophia. At the end of the museum you are greeted by an
+animations on the walls with the 1700-year-old history of Hagia Sophia. At the end of the museum you are greeted by an
 exhibition filled with artifacts. The museum should definitely be visited alongside the Hagia Sophia.
 
-We then headed towards Balat, //TODO Complete
+We then headed towards Balat and Fener to grab a coffee and explore the picturesque backstreets.
 
 {{< figure src="/blog/cappadocia/PXL_20241024_084310324.MP.webp"
 attr="The grand bazaar is not for the agoraphobic." width=100%
@@ -400,22 +404,23 @@ attr="The public boat transfer system is probably the fastest way to move from o
 width=100%
 align=center link="/blog/cappadocia/PXL_20241024_140818144.webp" target="_blank" >}}
 
-{{< figure src="/blog/cappadocia/PXL_20241024_131052580~2.webp"
-attr="The side entrance to Dolmabahçe was a true work of art." width=100%
-align=center link="/blog/cappadocia/PXL_20241024_131052580~2.webp" target="_blank" >}}
-
 On the morning of the third day at Istanbul, I learned that the night before Christos lost his wallet that contained his
 driving license, ID, and some money. No biggie, except he could not prove his driving ability. After some discussing, we
 decided to ignore this incident since he still had a passport and the motorcycle registration.
 
 Christos had a little tantrum saying how all the bad situations follow me around. And that bad things always happen
 when I am present. And some other nonsense of how I bring bad luck. Despite recent events (and pretty much everything
-including me) suggesting he is correct, I prefer to think of the upside. You get to tell cool stories.
+including me) suggesting he is correct, I prefer to think of the upside. **You get to tell cool stories**.
 
 > Never store important documents in one place, always split them up. If one is lost, you should still be
 > able to identify yourself.
 
-We decided to ride up the Bosporus strait and have a chill day outside the city center.
+We decided to ride up the Bosporus strait and have a chill day outside the city center, zigzagging between the
+European and Asian sides.
+
+{{< figure src="/blog/cappadocia/PXL_20241024_131052580~2.webp"
+attr="The side entrance to Dolmabahçe was a true work of art." width=100%
+align=center link="/blog/cappadocia/PXL_20241024_131052580~2.webp" target="_blank" >}}
 
 {{< figure src="/blog/cappadocia/IMG_4402.webp"
 attr="They stopped us at a roadblock, where they asked for our driving license 🙂." width=100%
@@ -468,10 +473,6 @@ attr="There was a BMW group ride in the rest area, so we chose to stay away from
 width=100%
 align=center link="/blog/cappadocia/PXL_20241028_094405525.webp" target="_blank" >}}
 
-# Film photography
-
-//TODO Write about the film photography thing christos introduced at the balkans
-
 # Ride Stats
 
 The trip info as recorded from the 790s dashboard.
@@ -483,7 +484,10 @@ The trip info as recorded from the 790s dashboard.
 
 # Wrap up
 
-That wraps up Cappadocia! What we learned:
+That wraps up Cappadocia! Despite any mishaps and mistakes made in planning or execution, we all had a great time our
+first time in Anatolia.
+
+What we learned:
 
 - When off the bike, each couple should be completely independent. Sharing things (e.x. mobile data) is not practical,
   as you will eventually want to split up.
@@ -495,6 +499,4 @@ That wraps up Cappadocia! What we learned:
   develop some resilience to harsh conditions and the fatigue of long days. That is not the case with your pillion, and
   you ought to be considerate.
 
-//TODO Add more learned
-
-The upcoming trips are under discussion. Maybe Kosovo or Bulgaria for the enduro and Tunisia for the touring.
+The upcoming trips are under discussion. Maybe Kosovo or Bulgaria for enduro and Tunisia for touring with a pillion.

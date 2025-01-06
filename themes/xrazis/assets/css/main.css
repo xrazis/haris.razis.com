@@ -246,13 +246,13 @@ blockquote {
     margin-inline-start: auto;
     margin-inline-end: auto;
     line-height: var(--header-height);
+    padding: 0 var(--gap);
 
     ul {
         margin: 0 !important;
     }
 }
 
-.logo,
 #menu {
     display: flex;
     margin: auto var(--gap);
@@ -289,14 +289,6 @@ blockquote {
         &:hover {
             color: var(--color-text-navbar-link-hover);
             background: var(--color-background-navbar-link-hover);
-        }
-    }
-
-    li:last-of-type {
-        margin-right: var(--gap);
-
-        a {
-            padding-right: 0;
         }
     }
 

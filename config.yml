@@ -46,6 +46,8 @@ params:
       url: "https://www.linkedin.com/in/xrazis/"
     - name: Email
       url: "mailto:haris@razis.com"
+    - name: Signal
+      url: "javascript:navigator.clipboard.writeText('xrazis.66')"
 
 menu:
   main:

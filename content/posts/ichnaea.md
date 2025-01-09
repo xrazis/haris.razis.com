@@ -35,7 +35,7 @@ create the following services:
     - **MongoDB**, used as the user store.
 - **Frontend**, a SPA built on Vue with Typescript.
 
-![thesis.drawio.webp](https://cdn.xrazis.com/ichnaea/thesis.drawio.webp#center)
+![thesis.drawio.webp](https://cdn.xrazis.com/static/posts/ichnaea/thesis.drawio.webp#center)
 
 As you can see, I decided to go full-on with JavaScript and TypeScript for Ichnaea, as I was already familiar with lots
 of libraries and frameworks in the respective ecosystems.
@@ -125,7 +125,7 @@ There is one got ya here. I am using a 6-DOF IMU and that means there is no refe
 relying completely on the gyro for the yaw angle, a drift is introduced over time. The orange line in the following
 chart depicts the slow but constant drift of the yaw angle. Here is where a magnetometer would come in handy.
 
-![Untitled](https://cdn.xrazis.com/ichnaea/influx-chart.webp#center)
+![Untitled](https://cdn.xrazis.com/static/posts/ichnaea/influx-chart.webp#center)
 
 There is a lot more going on here. Check out Euler angles (pitch, roll, yaw), accelerometers, gyroscopes, magnetometers.
 
@@ -230,7 +230,7 @@ MongoDB was chosen for the user store. Two models were created, one for the user
 represent each distinct athlete. Each model has some basic identification features and the all-important socketID. This
 field stores the last socket connection id, useful to stream data only to the intended recipient.
 
-![Untitled](https://cdn.xrazis.com/ichnaea/jetbrains-db-diagram.webp#center)
+![Untitled](https://cdn.xrazis.com/static/posts/ichnaea/jetbrains-db-diagram.webp#center)
 
 Another important field is the _trainer, found only in the athletes model. With that we keep a reference to the trainer
 of the athlete, that is the user _id. To retrieve the trainer details at the same time as the athlete's details, we can
@@ -323,14 +323,14 @@ Placing the micro-controller on top of the head and making three discreet moveme
 upwards right, maps with precision the physical movement and accurately depicts it on the model while testing all three
 axes, roll-pitch-yaw.
 
-![Untitled](https://cdn.xrazis.com/ichnaea/testing-01.webp#center)
+![Untitled](https://cdn.xrazis.com/static/posts/ichnaea/testing-01.webp#center)
 
 Let's try the same but for another body part, this time the left arm. Starting from a relaxed hanging position we pull
 the arm upwards making a slow circular motion and then returning to the starting point. This time due to us deliberately
 making a slow movement, we can now see the drift introduced from the gyroscope in the yaw angle. That skews with all the
 readings and thus placing the hand in a wrong final position.
 
-![Untitled](https://cdn.xrazis.com/ichnaea/testing-02.webp#center)
+![Untitled](https://cdn.xrazis.com/static/posts/ichnaea/testing-02.webp#center)
 
 # Conclusion
 

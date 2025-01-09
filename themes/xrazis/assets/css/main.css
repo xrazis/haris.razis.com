@@ -305,7 +305,7 @@ blockquote {
 
 .main {
     position: relative;
-    min-height: calc(100vh - var(--header-height) - var(--footer-height) - var(--gap) * 2);
+    min-height: calc(100vh - var(--header-height) - var(--footer-height) * 2 - var(--gap) * 2);
     max-width: calc(var(--main-width) + var(--gap) * 2);
     margin: auto;
     padding: var(--gap);

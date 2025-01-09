@@ -47,7 +47,7 @@ params:
     - name: Email
       url: "mailto:haris@razis.com"
     - name: Signal
-      url: "javascript:navigator.clipboard.writeText('xrazis.66')"
+      url: "xrazis.66"
 
 menu:
   main:

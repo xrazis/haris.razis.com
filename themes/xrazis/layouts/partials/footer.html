@@ -2,9 +2,10 @@
     <div class="social-icons">
         {{- range site.Params.socialIcons }}
             {{- $icon_name := (trim .name " " | lower) }}
-            {{- if (eq .url "email") }}
-                <a class="button small" href="mailto:{{ $.MaskedEmail | default $.Email }}" title="{{ .name | title }}">
-                    {{ safeHTML (index $.Site.Data.svg $icon_name | default $.Site.Data.svg.default) }}
+            {{- if (eq .name "Signal") }}
+                <a class="button small signal" href="javascript:alert('My Signal username is {{ trim .url " " }}')"
+                    title="{{ .name | title }}"> {{ safeHTML (index $.Site.Data.svg $icon_name | default $.Site.Data.svg.default) }}
+                    {{ .name }}
                 </a>
             {{- else }}
                 <a class="button small" href="{{ trim .url " " }}" target="_blank" rel="noopener noreferrer me"

@@ -68,7 +68,7 @@ Another helpful hook is `useEffect` which is used to synchronize the component w
 particular case we are going to use it to populate a html select with data from an API. This select displays the draw
 id's for a given month. The same action is also triggered when the user selects a different month.
 
-![img.webp](/blog/20230929-01.webp)
+![img.webp](https://cdn.xrazis.com/static/liferay-widgets-react/20230929-01.webp)
 
 When a month is changed three actions need to take place:
 

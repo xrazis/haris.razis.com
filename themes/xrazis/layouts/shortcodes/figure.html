@@ -3,7 +3,7 @@
 <figure class="align-center">
     <a href="{{ $imageSrc }}" target="_blank">
         <img loading="lazy" src="{{ $imageSrc }}"
-             alt="{{- if .Get " caption" -}} {{- .Get "caption" | markdownify -}} {{ end }}"
+             alt="{{- if .Get "caption" -}} {{- .Get "caption" | markdownify -}} {{ end }}"
         />
     </a>
     {{- if .Get "caption" -}}

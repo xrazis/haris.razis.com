@@ -48,7 +48,7 @@ params:
     - name: Email
       url: "mailto:haris@razis.com"
     - name: Signal
-      url: "xrazis.66"
+      url: "https://signal.me/#eu/FY5rnVgkfidSiO-Tt0qgLM_DuaoiAVOEP-GaBVmjaRviDz6bSGtKWJ43XOfVuB1_"
 
 menu:
   main:

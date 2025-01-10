@@ -26,8 +26,7 @@ We boarded the ferry on Sunday night, and after a short delay, the journey had o
 after eight gruelling hours on the ship's deck, around six in the morning. The next ferry would leave at eight, so we
 took a stroll down the marina while waiting.
 
-{{< figure src="/posts/cappadocia/20241014_065111.webp" attr="As luck would have it, mishaps would start soon enough."
- >}}
+{{< figure src="/posts/cappadocia/20241014_065111.webp" caption="As luck would have it, mishaps would start soon enough." >}}
 
 Before you board the ferry to Turkey, you have to go through Greek customs, bikes included, and when you arrive in
 Turkey, you have to go through their customs as well. It was moments before the boarding when Christos remembered
@@ -51,7 +50,7 @@ Should my technologically illiterate friend have had an online insurance, we cou
 instantly.
 
 {{< figure src="/posts/cappadocia/20241014_090841.webp"
-attr="Waiting for the insurance company to issue the green card whilst on the ferry." >}}
+caption="Waiting for the insurance company to issue the green card whilst on the ferry." >}}
 
 Once the green card was emailed to us, we went through the Turkish side of the customs. I was part of a random check,
 where they even passed the bike through an X-ray scanner. Our first stop would be Pamukkale, about 350 kilometers away.
@@ -62,7 +61,7 @@ Pamukkale in Turkish means 'cotton castle'. The city is surrounded by cotton fie
 are white as snow from the sediment (travertine) that has been deposited over the years.
 
 {{< figure src="/posts/cappadocia/20241015_104532.webp"
-attr="The travertine that emerges from the hot springs."
+caption="The travertine that emerges from the hot springs."
  >}}
 
 We found the entrance to the Unesco world heritage site to be ridiculously expensive, and in combination with the large
@@ -72,7 +71,7 @@ prices for the tourists, whereas natives would pay a tenth of the price.
 On our way out from Pamukkale, we had a quick stop at Red Springs, where most of the locals would hang out.
 
 {{< figure src="/posts/cappadocia/IMG_3810.webp"
-attr="The hot waters of the springs, which are believed to have healing properties."
+caption="The hot waters of the springs, which are believed to have healing properties."
  >}}
 
 That would wrap our short visit to Pamukkale; unfortunately, it did not live up to the hype.
@@ -83,29 +82,29 @@ The day after we would drive to the Isparta region through a collection of salty
 in mind.
 
 {{< figure src="/posts/cappadocia/IMG_3823.webp"
-attr="Salda Gölü, one of the many lakes we encountered."
+caption="Salda Gölü, one of the many lakes we encountered."
  >}}
 
 {{< figure src="/posts/cappadocia/20241015_145613.webp"
-attr="One of the first glimpses we would get of the Turkish countryside."
+caption="One of the first glimpses we would get of the Turkish countryside."
  >}}
 
 {{< figure src="/posts/cappadocia/20241015_164205.webp"
-attr="God bless cruise control."
+caption="God bless cruise control."
  >}}
 
 The night caught us at Eğirdir, which is located alongside the homonymous lake, the second-biggest fresh water lake in
 Turkey. We would have an awful stay at one of the few (last-minute) hotel options of the city.
 
 {{< figure src="/posts/cappadocia/IMG_3839.webp"
-attr="The busy street market alleys were completely empty at night."
+caption="The busy street market alleys were completely empty at night."
  >}}
 
 Turkey has the highest per capita tea consumption in the world! With over 3kgs consumed annually per person, you will
 find tea houses everywhere. They are mostly visited by men and called kiraathane.
 
 {{< figure src="/posts/cappadocia/IMG_3845.webp"
-attr="The owner of the tea house where he treated us like home."
+caption="The owner of the tea house where he treated us like home."
  >}}
 
 Despite both the
@@ -124,14 +123,14 @@ An uneventful and boring trip led us to Konya. We decided to treat ourselves aft
 and stayed at a boutique hotel slightly over our budget.
 
 {{< figure src="/posts/cappadocia/20241016_133220.webp"
-attr="If ever in the area, definitely consider Araf for your stay."
+caption="If ever in the area, definitely consider Araf for your stay."
  >}}
 
 Turkey and Palestine have a deep-rooted shared history, the former also the top provider of humanitarian aid to Gaza.
 During our stay at Konya, we saw many joint flags decorating public spaces.
 
 {{< figure src="/posts/cappadocia/20241016_164711.webp"
-attr="Look closely, Turkey X Palestine."
+caption="Look closely, Turkey X Palestine."
  >}}
 
 We also had the chance to watch the Dervish whirling dance. Dervishes are members of a Tariqa -a religious order of
@@ -140,7 +139,7 @@ meditation practice, that is through listening to music that one abandons ego or
 connection with Allah.
 
 {{< figure src="/posts/cappadocia/dervish.gif"
-attr="Sufi whirling at the Mevlana museum." width=100%
+caption="Sufi whirling at the Mevlana museum." width=100%
  >}}
 
 Men and women in Turkey do not have the same rights, and that is prominent in every aspect of their everyday life. For
@@ -165,19 +164,19 @@ hypersaline lakes in the world! Unfortunately, we did not go through the lake fr
 deemed it too risky given the fact it rained the night before.
 
 {{< figure src="/posts/cappadocia/PXL_20241017_120451502.webp"
-attr="The lake is 80 kilometers in length!" width=100%
+caption="The lake is 80 kilometers in length!" width=100%
  >}}
 
 {{< figure src="/posts/cappadocia/20241017_145536.webp"
-attr="The locals would dip their feet in the small puddles that formed." width=100%
+caption="The locals would dip their feet in the small puddles that formed." width=100%
  >}}
 
 {{< figure src="/posts/cappadocia/20241017_164447.webp"
-attr="The back country road that led us to Cappadocia." width=100%
+caption="The back country road that led us to Cappadocia." width=100%
  >}}
 
 {{< figure src="/posts/cappadocia/20241017_173028.webp"
-attr="Rain would welcome us to Göreme." width=100%
+caption="Rain would welcome us to Göreme." width=100%
  >}}
 
 The region of Cappadocia is truly magnificent, with a rich history, unique geological features, and full of Unesco
@@ -186,7 +185,7 @@ cone-shaped rocks that populate the area. Little is known about its early histor
 any major travel roads.
 
 {{< figure src="/posts/cappadocia/PXL_20241017_185903265.NIGHT.webp"
-attr="Göreme has flourished economically after the tourist boom of the 00s." width=100%
+caption="Göreme has flourished economically after the tourist boom of the 00s." width=100%
  >}}
 
 We stayed at a cave house (Kismet—also highly recommended), a little outside the city center. We really enjoyed the cozy
@@ -194,7 +193,7 @@ feeling they give you, but unfortunately, there is no natural light coming in. F
 would definitely choose it again. After a good nights sleep, we started our day by visiting the open air museum.
 
 {{< figure src="/posts/cappadocia/PXL_20241018_083025556~2.webp"
-attr="This used to be a monastery for early christians." width=100%
+caption="This used to be a monastery for early christians." width=100%
  >}}
 
 There are numerous churches inside the open-air museum, all of them of great historical importance. Cappadocia was
@@ -202,37 +201,37 @@ considered a sanctuary for early Christians, and under the guiding hand of Saint
 the area were built.
 
 {{< figure src="/posts/cappadocia/IMG_4020.webp"
-attr="Many of the wall paintings were destroyed and are now under restoration." width=100%
+caption="Many of the wall paintings were destroyed and are now under restoration." width=100%
  >}}
 
 {{< figure src="/posts/cappadocia/IMG_4032.webp"
-attr="Yiannoula X me." width=100%
+caption="Yiannoula X me." width=100%
  >}}
 
 After a quick tour of the open air museum, we hopped on the bikes and visited the most famous valleys around Göreme.
 
 {{< figure src="/posts/cappadocia/IMG_4049.webp"
-attr="The region has unique geological features." width=100%
+caption="The region has unique geological features." width=100%
  >}}
 
 {{< figure src="/posts/cappadocia/IMG_4062.webp"
-attr="Cilia X Christos." width=100%
+caption="Cilia X Christos." width=100%
  >}}
 
 {{< figure src="/posts/cappadocia/IMG_4097.webp"
-attr="Balkans on tour." width=100%
+caption="Balkans on tour." width=100%
  >}}
 
 {{< figure src="/posts/cappadocia/20241018_142244.webp"
-attr="These have formed over thousands of years through erosion." width=100%
+caption="These have formed over thousands of years through erosion." width=100%
  >}}
 
 {{< figure src="/posts/cappadocia/20241018_150013.webp"
-attr="You can't truly apprehend the size of fairy chimneys," width=100%
+caption="You can't truly apprehend the size of fairy chimneys," width=100%
  >}}
 
 {{< figure src="/posts/cappadocia/IMG_4108.webp"
-attr="until someone stands next to them." width=100%
+caption="until someone stands next to them." width=100%
  >}}
 
 To wrap the day, we decided to watch the sunset from the top of the Uchisar castle. It is riddled with tunnels, has been
@@ -240,11 +239,11 @@ used as a defensive stronghold for centuries, and the summit has a panoramic vie
 because it was freezing cold, so there were just a handful of people on its summit.
 
 {{< figure src="/posts/cappadocia/IMG_4123.webp"
-attr="The Uchisar castle from bellow." width=100%
+caption="The Uchisar castle from bellow." width=100%
  >}}
 
 {{< figure src="/posts/cappadocia/PXL_20241018_145517321.webp"
-attr="Once the sun was out, the whole valley turned red." width=100%
+caption="Once the sun was out, the whole valley turned red." width=100%
  >}}
 
 When we woke up the second day at Göreme, we were greeted by freezing cold weather. Unfortunately, we had to ride to
@@ -257,14 +256,14 @@ Cappadocian Greek and Armenians took refuge to escape the massacres at Adana. Af
 Greeks and the Turks in 1923, the city was abandoned and rediscovered by accident in the 1960s.
 
 {{< figure src="/posts/cappadocia/underground.gif"
-attr="The tunnels were so narrow that you had to bend your knees and pull your shoulders together!" width=100%
+caption="The tunnels were so narrow that you had to bend your knees and pull your shoulders together!" width=100%
  >}}
 
 The city has a depth of 85 meters and spans across 8 floors, with a housing capacity of 20.000 people with their
 livestock. It's truly astonishing how such large populations managed to live underground for long periods of time.
 
 {{< figure src="/posts/cappadocia/20241019_122701.webp"
-attr="Just behind the touristic facade, half-demolished buildings are where the unfortunate live..." width=100%
+caption="Just behind the touristic facade, half-demolished buildings are where the unfortunate live..." width=100%
  >}}
 
 We then visited the Soğanlı valley, where we drove through a beautiful twisty countryside road that sits in a canyon.
@@ -272,19 +271,19 @@ Soğanlı is an ancient settlement of similar historical significance to Göreme
 village, and astonishing views.
 
 {{< figure src="/posts/cappadocia/IMG_4186.webp"
-attr="The Soğanlı valley from above." width=100%
+caption="The Soğanlı valley from above." width=100%
  >}}
 
 {{< figure src="/posts/cappadocia/20241019_140438.webp"
-attr="The abandoned (and ancient) village of about 20 houses." width=100%
+caption="The abandoned (and ancient) village of about 20 houses." width=100%
  >}}
 
 {{< figure src="/posts/cappadocia/IMG_4180.webp"
-attr="Rock cut houses above the main village." width=100%
+caption="Rock cut houses above the main village." width=100%
  >}}
 
 {{< figure src="/posts/cappadocia/20241019_141917.webp"
-attr="The bright-coloured doors and windows are believed to protect from 'evil eyes'." width=100%
+caption="The bright-coloured doors and windows are believed to protect from 'evil eyes'." width=100%
  >}}
 
 When back at the hotel, we checked the weather for the next day, and unfortunately, we would have to change our route as
@@ -292,7 +291,7 @@ the upper part of Turkey had intense thunderstorms. We decided to skip Samsun, S
 route along the Black Sea, and instead head straight to Istanbul, through Eskişehir and Bursa.
 
 {{< figure src="/posts/cappadocia/IMG_20241020_070153.webp"
-attr="Once the sun was out, the balloons filled the sky." width=100%
+caption="Once the sun was out, the balloons filled the sky." width=100%
  >}}
 
 ### Göreme -> Eskişehir
@@ -302,15 +301,15 @@ a
 Unesco world heritage site, which has houses dating back to the Ottoman empire.
 
 {{< figure src="/posts/cappadocia/20241020_181206.webp"
-attr="All of the houses have similar architectural style, " width=100%
+caption="All of the houses have similar architectural style, " width=100%
  >}}
 
 {{< figure src="/posts/cappadocia/20241021_125441.webp"
-attr="and different pastel colors that give the old city center a unique feeling." width=100%
+caption="and different pastel colors that give the old city center a unique feeling." width=100%
  >}}
 
 {{< figure src="/posts/cappadocia/IMG_4275.webp"
-attr="The Porsuk river splits the city in two." width=100%
+caption="The Porsuk river splits the city in two." width=100%
  >}}
 
 ### Eskişehir -> Bursa
@@ -321,7 +320,7 @@ poisoning from yogurt we ate at Eskişehir, and the moment we arrived at Bursa, 
 did not eat from that delicious yogurt and granola we had at that espresso house, and they did their best to help us.
 
 {{< figure src="/posts/cappadocia/20241022_144256.webp"
-attr="" width=100%
+caption="" width=100%
  >}}
 
 ### Bursa -> Istanbul
@@ -339,23 +338,23 @@ After battling for two hours in the traffic, we left our bikes at the hotel and 
 arrived at noon and without a whole day to explore, we decided to walk to Galatás to get a first impression of Istanbul.
 
 {{< figure src="/posts/cappadocia/IMG_4290.webp"
-attr="The imposing entrance to the Istanbul university from Beyazıt Square." width=100%
+caption="The imposing entrance to the Istanbul university from Beyazıt Square." width=100%
  >}}
 
 {{< figure src="/posts/cappadocia/PXL_20241023_112415934~2.webp"
-attr="The Süleymaniye mosque, built in 1557." width=100%
+caption="The Süleymaniye mosque, built in 1557." width=100%
  >}}
 
 {{< figure src="/posts/cappadocia/IMG_4310.webp"
-attr="The Bosporus strait from the mosque." width=100%
+caption="The Bosporus strait from the mosque." width=100%
  >}}
 
 {{< figure src="/posts/cappadocia/20241023_165633.webp"
-attr="Kamondo Stairs at Karaköy." width=100%
+caption="Kamondo Stairs at Karaköy." width=100%
  >}}
 
 {{< figure src="/posts/cappadocia/IMG_4335.webp"
-attr="Galatás tower sits on top of the hill, higher than anything else." width=100%
+caption="Galatás tower sits on top of the hill, higher than anything else." width=100%
  >}}
 
 The following day we visited Hagia Sophia as early as possible, as to avoid large crowds. Sadly, Erdoğan annulled
@@ -369,15 +368,15 @@ architecture and has influenced the history of architecture. When transitioned t
 architectural points were removed, and the iconography was destroyed or plastered over.
 
 {{< figure src="/posts/cappadocia/IMG_4356.webp"
-attr="It's construction started in 346AD." width=100%
+caption="It's construction started in 346AD." width=100%
  >}}
 
 {{< figure src="/posts/cappadocia/PXL_20241024_055932734.webp"
-attr="The highest point of the dome of Hagia Sophia stands at 55.6 meters!" width=100%
+caption="The highest point of the dome of Hagia Sophia stands at 55.6 meters!" width=100%
  >}}
 
 {{< figure src="/posts/cappadocia/IMG_4349.webp"
-attr="The detail in the (unfortunately destroyed) mosaics is incredible." width=100%
+caption="The detail in the (unfortunately destroyed) mosaics is incredible." width=100%
  >}}
 
 We also visited the Hagia Sophia history & experience museum, where you go through a series of dark rooms with vivid
@@ -387,19 +386,19 @@ exhibition filled with artifacts. The museum should definitely be visited alongs
 We then headed towards Balat and Fener to grab a coffee and explore the picturesque backstreets.
 
 {{< figure src="/posts/cappadocia/PXL_20241024_084310324.MP.webp"
-attr="The grand bazaar is not for the agoraphobic." width=100%
+caption="The grand bazaar is not for the agoraphobic." width=100%
  >}}
 
 {{< figure src="/posts/cappadocia/IMG_4443.webp"
-attr="Balat has a distinctive feel due to the colorful houses and their architecture." width=100%
+caption="Balat has a distinctive feel due to the colorful houses and their architecture." width=100%
  >}}
 
 {{< figure src="/posts/cappadocia/20241024_125806.webp"
-attr="Again and again, behind the facade, patched walls and torn shoes would prevail." width=100%
+caption="Again and again, behind the facade, patched walls and torn shoes would prevail." width=100%
  >}}
 
 {{< figure src="/posts/cappadocia/PXL_20241024_140818144.webp"
-attr="The public boat transfer system is probably the fastest way to move from one side of the Bosporus to the other."
+caption="The public boat transfer system is probably the fastest way to move from one side of the Bosporus to the other."
 width=100%
  >}}
 
@@ -418,23 +417,23 @@ We decided to ride up the Bosporus strait and have a chill day outside the city 
 European and Asian sides.
 
 {{< figure src="/posts/cappadocia/PXL_20241024_131052580~2.webp"
-attr="The side entrance to Dolmabahçe was a true work of art." width=100%
+caption="The side entrance to Dolmabahçe was a true work of art." width=100%
  >}}
 
 {{< figure src="/posts/cappadocia/IMG_4402.webp"
-attr="They stopped us at a roadblock, where they asked for our driving license 🙂." width=100%
+caption="They stopped us at a roadblock, where they asked for our driving license 🙂." width=100%
  >}}
 
 {{< figure src="/posts/cappadocia/seesaw.gif"
-attr="Let them kids play." width=100%
+caption="Let them kids play." width=100%
  >}}
 
 {{< figure src="/posts/cappadocia/PXL_20241025_143108588.webp"
-attr="Emirgan Grove." width=100%
+caption="Emirgan Grove." width=100%
  >}}
 
 {{< figure src="/posts/cappadocia/PXL_20241025_152256960.webp"
-attr="People would fish past the sunset." width=100%
+caption="People would fish past the sunset." width=100%
  >}}
 
 We spent our last day in Istanbul revisiting Galatás and the bazaars in the that hope we would find interesting gifts.
@@ -443,7 +442,7 @@ are supposed to negotiate the prices, but you are never going to come out on top
 fought a UFC pro. It's their job.
 
 {{< figure src="/posts/cappadocia/PXL_20241026_105256059.webp"
-attr="We liked Beyoğlu quite a lot, so we visited a second time."
+caption="We liked Beyoğlu quite a lot, so we visited a second time."
 width=100%
  >}}
 
@@ -457,7 +456,7 @@ decided to stay at Kavála, about 45 minutes away. Kavála pleasantly surprised 
 a cared-for city center.
 
 {{< figure src="/posts/cappadocia/20241027_200708.webp"
-attr="A hipster observed in his natural habitat. We got as close as we could without disturbing him."
+caption="A hipster observed in his natural habitat. We got as close as we could without disturbing him."
 width=100%
  >}}
 
@@ -468,7 +467,7 @@ have concluded that these kinds of kilometers should be done either by car at th
 at 240 km/hr. No exception. No compromise.
 
 {{< figure src="/posts/cappadocia/PXL_20241028_094405525.webp"
-attr="There was a BMW group ride in the rest area, so we chose to stay away from them, just in case."
+caption="There was a BMW group ride in the rest area, so we chose to stay away from them, just in case."
 width=100%
  >}}
 

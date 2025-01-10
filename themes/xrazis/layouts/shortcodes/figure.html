@@ -3,26 +3,12 @@
 <figure class="align-center">
     <a href="{{ $imageSrc }}" target="_blank">
         <img loading="lazy" src="{{ $imageSrc }}"
-             {{- if or (.Get "alt") (.Get "caption") }}
-        alt="{{ with .Get "alt" }}{{ . }}{{ else }}{{ .Get "caption" | markdownify | plainify }}{{ end }}"
-        {{- end -}}
-        {{- with .Get "width" }} width="{{ . }}"{{ end -}}
-        {{- with .Get "height" }} height="{{ . }}"{{ end -}}
+             alt="{{- if .Get " caption" -}} {{- .Get "caption" | markdownify -}} {{ end }}"
         />
     </a>
-    {{- if or (or (.Get "title") (.Get "caption")) (.Get "attr") -}}
+    {{- if .Get "caption" -}}
     <figcaption>
-        {{ with (.Get "title") -}}
-        {{ . }}
-        {{- end -}}
-        {{- if or (.Get "caption") (.Get "attr") -}}<p>
-        {{- .Get "caption" | markdownify -}}
-        {{- with .Get "attrlink" }}
-        <a href="{{ . }}">
-            {{- end -}}
-            {{- .Get "attr" | markdownify -}}
-            {{- if .Get "attrlink" }}</a>{{ end }}</p>
-        {{- end }}
+        <p>{{- .Get "caption" | markdownify -}}</p>
     </figcaption>
     {{- end }}
 </figure>

@@ -39,16 +39,16 @@ params:
     Footer: Hakuna matata
 
   socialIcons:
+    - name: Signal
+      url: "https://signal.me/#eu/FY5rnVgkfidSiO-Tt0qgLM_DuaoiAVOEP-GaBVmjaRviDz6bSGtKWJ43XOfVuB1_"
+    - name: Email
+      url: "mailto:haris@razis.com"
     - name: Mastodon
       url: "https://mastodon.social/@xrazis"
     - name: Github
       url: "https://github.com/xrazis"
     - name: Linkedin
       url: "https://www.linkedin.com/in/xrazis/"
-    - name: Email
-      url: "mailto:haris@razis.com"
-    - name: Signal
-      url: "https://signal.me/#eu/FY5rnVgkfidSiO-Tt0qgLM_DuaoiAVOEP-GaBVmjaRviDz6bSGtKWJ43XOfVuB1_"
 
 menu:
   main:

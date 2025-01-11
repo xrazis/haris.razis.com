@@ -4,10 +4,14 @@
         {{ partial "info.html" .multimedia}}
     {{- end -}}
 
-    {{ range $.Site.Data.jazz.bass }}
+    {{ range $.Site.Data.images }}
     <ul>
-        {{ range .discography }}
-        <li>{{ . }}</li>
+        {{ range .images }}
+        {{ range $key, $value := . }}
+        <li>
+            {{ $key }} => {{ $value }}
+        </li>
+        {{ end }}
         {{ end }}
     </ul>
     {{ end }}

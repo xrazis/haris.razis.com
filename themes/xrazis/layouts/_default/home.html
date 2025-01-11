@@ -1,14 +1,7 @@
 {{ define "main" }}
 
-  {{- with site.Params.homeParams }}
-    <article class="home-info">
-      <header class="home-info-header">
-        <h1>{{ .Title | markdownify }}</h1>
-      </header>
-      <div class="home-info-content">
-        {{- trim .Content "\n" | markdownify -}}
-      </div>
-    </article>
+  {{- with site.Params.strings }}
+    {{ partial "info.html" .home}}
   {{- end -}}
 
   <div class="posts-header">

@@ -25,18 +25,19 @@ params:
   label:
     text: Haris Razis
 
-  homeParams:
-    Title: Hey,
-    Content: |
-      I create bugs for a living, and this corner of the web is my digital garden — a small collection of things I’ve 
-      learned and done over the years. Here, you’ll find my projects, technical insights, and stories from my adventures.
+  strings:
+    home: |
+      Hey, my name is Haris. I create bugs for a living, and this corner of the web is my digital garden — a small collection 
+      of things I’ve learned and done over the years. Here, you’ll find my projects, technical insights, and stories 
+      from my adventures.
       
       After trying all sorts of hobbies, I've concluded that riding bikes and motorcycles is my thing. I've gotten 
       especially good at breaking bones, a true talent, one might say. For tales of cracked crankcases and lost 
       paperwork in distant lands, click the yellow highlighted dates and tags.
       
       My default handle is **xrazis**.
-    Footer: Hakuna matata
+    multimedia: WIP! I share little on social media, but I do have some nice shots worth seeing. Coming soon!
+    footer: Hakuna matata
 
   socialIcons:
     - name: Signal
@@ -52,9 +53,9 @@ params:
 
 menu:
   main:
-    - identifier: photos
-      name: Photos
-      url: /photos/
+    - identifier: multimedia
+      name: Multimedia
+      url: /multimedia/
       weight: 10
 
 outputs:

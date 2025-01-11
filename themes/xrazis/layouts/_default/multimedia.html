@@ -1,0 +1,15 @@
+{{ define "main" }}
+
+    {{- with site.Params.strings }}
+        {{ partial "info.html" .multimedia}}
+    {{- end -}}
+
+    {{ range $.Site.Data.jazz.bass }}
+    <ul>
+        {{ range .discography }}
+        <li>{{ . }}</li>
+        {{ end }}
+    </ul>
+    {{ end }}
+
+{{ end }}

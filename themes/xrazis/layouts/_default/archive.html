@@ -19,10 +19,6 @@
                 </h2>
                 {{- range .Pages.GroupByDate "January" }}
                     <div class="archive-month">
-                        <h3 class="archive-month-header" id="{{ $year }}-{{ .Key }}">
-                            {{- .Key -}}
-                            <sup class="archive-count">&nbsp;{{ len .Pages }}</sup>
-                        </h3>
                         <div class="archive-posts">
                             {{- range $index, $page := .Pages }}
                                 {{ partial "post.html" $page }}

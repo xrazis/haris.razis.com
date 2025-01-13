@@ -1,0 +1,10 @@
+{{- partial "section-header.html" (dict "header" "Posts" "link" "/archive" "linkString" "All Posts") -}}
+
+<div class="posts">
+    {{- $pages := .Pages }}
+    {{- $pages = where site.RegularPages "Section" "in" site.Params.mainSections }}
+    {{- $pages_limited := first 10 $pages }}
+    {{- range $index, $page := $pages_limited }}
+    {{ partial "post.html" $page }}
+    {{- end }}
+</div>

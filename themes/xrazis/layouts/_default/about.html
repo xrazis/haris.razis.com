@@ -1,0 +1,7 @@
+{{ define "main" }}
+
+    {{- with site.Params.strings }}
+        {{ partial "info.html" .about}}
+    {{- end -}}
+
+{{ end }}

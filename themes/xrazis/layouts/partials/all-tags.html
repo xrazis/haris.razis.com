@@ -1,6 +1,4 @@
-<div class="tags-header">
-    <h2>Tags</h2>
-</div>
+{{- partial "section-header.html" (dict "header" "Tags") -}}
 
 <div class="tags">
     {{- range $tag, $tagValues := site.Taxonomies.tags }}

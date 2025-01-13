@@ -36,6 +36,10 @@ params:
       paperwork in distant lands, click the yellow highlighted dates and tags.
       
       My default handle is **xrazis**.
+    about: |
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna 
+      aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+      Duis aute irure dolor in reprehenderit in voluptate.
     multimedia: WIP! I share little on social media, but I do have some nice shots worth seeing. Coming soon!
     footer: Hakuna matata
 
@@ -53,9 +57,9 @@ params:
 
 menu:
   main:
-    - identifier: multimedia
-      name: Multimedia
-      url: /multimedia/
+    - identifier: about
+      name: About
+      url: /about/
       weight: 10
 
 outputs:

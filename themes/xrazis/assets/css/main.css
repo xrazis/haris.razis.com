@@ -50,7 +50,7 @@
     --main-width: 750px;
     --header-height: 60px;
     --footer-height: 60px;
-    --large-margin-bottom: 40px;
+    --large-margin: 15px;
 
     --font-family: 'Inter', system-ui, Avenir, Helvetica, Arial, sans-serif;
     --font-family-monospace: 'JetBrains Mono', monospace;
@@ -311,20 +311,13 @@ blockquote {
     padding: var(--gap);
 }
 
-.info {
-    margin-bottom: var(--large-margin-bottom);
-}
-
-.posts {
-    margin-bottom: var(--large-margin-bottom);
-}
-
-.posts-header {
+.section-header {
     width: 100%;
     display: inline-flex;
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
+    margin-top: var(--large-margin);
 }
 
 .post {

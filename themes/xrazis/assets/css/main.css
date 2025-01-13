@@ -161,6 +161,7 @@ img {
     display: block;
     border-radius: 4px;
     margin: 1rem auto;
+    width: 100%;
     max-width: 100%;
 }
 

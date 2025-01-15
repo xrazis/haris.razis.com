@@ -5,14 +5,13 @@
     {{- end -}}
 
     {{ range $.Site.Data.images }}
-    <ul>
+    <ul class="multimedia-gallery">
         {{ range .images }}
-        {{ range $key, $value := . }}
-        <li>
-            {{ $key }} => {{ $value }}
-        </li>
+            <li>
+                <img src="/upload/{{ .filename }}" alt="" loading="lazy">
+            </li>
         {{ end }}
-        {{ end }}
+        <li></li>
     </ul>
     {{ end }}
 

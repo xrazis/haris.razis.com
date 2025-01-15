@@ -40,7 +40,8 @@ for image in "${image_files[@]}"; do
     if [ -f "$image" ]; then
         {
             echo -n "  { "
-            identify -verbose "$image" | grep -E "Filename|exif:" | sed 's/^\s*//; s/: /=/; s/=/ = "/; s/:/-/g; s/$/",/; $ s/,$/ }/' | tr '\n' ' '
+            echo -n "filename = \"$(basename $image)\","
+            identify -verbose "$image" | grep -E "exif:" | sed 's/^\s*//; s/: /=/; s/=/ = "/; s/:/-/g; s/$/",/; $ s/,$/ },/' | tr '\n' ' '
             echo
         } >> "${output_file}"
     fi

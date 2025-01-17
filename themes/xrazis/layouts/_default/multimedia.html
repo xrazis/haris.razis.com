@@ -4,14 +4,13 @@
         {{ partial "info.html" .multimedia}}
     {{- end -}}
 
-    {{ range $.Site.Data.images }}
+    {{ range .Site.Data.images }}
     <ul class="multimedia-gallery">
-        {{ range .images }}
+        {{ range sort .images "exifDateTime" "desc" }}
             <li>
-                <img src="/upload/{{ .filename }}" alt="" loading="lazy">
+                <img src="/upload/{{ .filename }}" alt="{{ .exifDateTime}}" loading="lazy">
             </li>
         {{ end }}
-        <li></li>
     </ul>
     {{ end }}
 

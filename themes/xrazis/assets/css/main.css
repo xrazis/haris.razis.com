@@ -217,6 +217,28 @@ blockquote {
     padding: 1rem;
 }
 
+table {
+    border-collapse: collapse;
+    border: 1px solid var(--color-border);
+    border-radius: var(--border-radius);
+    display: block;
+    overflow-x: auto;
+    max-width: fit-content;
+    margin: 0 auto;
+    width: 100%;
+}
+
+td,
+th {
+    border: 1px solid var(--color-border);
+    padding: 0.25rem 0.5rem;
+    background: var(--color-background-code);
+}
+
+th {
+    border-bottom: 2px solid var(--color-border);
+}
+
 /* SCROLLBAR */
 ::-webkit-scrollbar {
     width: 6px;
@@ -433,20 +455,22 @@ blockquote {
 ul.multimedia-gallery {
     display: flex;
     flex-wrap: wrap;
+    gap: 6px;
+    list-style: none;
+    padding: 0;
 
     li {
-        height: 40vh;
+        height: 195px;
         flex-grow: 1;
-
-        &:last-child {
-            flex-grow: 10;
-        }
     }
 
     img {
+        height: 100%;
         max-height: 100%;
         min-width: 100%;
         object-fit: cover;
-        vertical-align: bottom;
+        object-position: center;
+        margin: 0;
+        overflow-clip-margin: unset;
     }
 }

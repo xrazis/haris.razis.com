@@ -472,5 +472,6 @@ ul.multimedia-gallery {
         object-position: center;
         margin: 0;
         overflow-clip-margin: unset;
+        border-radius: 0;
     }
 }

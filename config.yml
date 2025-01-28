@@ -37,10 +37,60 @@ params:
       
       My default handle is **xrazis**.
     about: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna 
-      aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate.
-    multimedia: WIP! I share little on social media, but I do have some nice shots worth seeing. Coming soon!
+      The old internet used to be much purer. Free of ads, paywalls, and walled garden social media. It was full of 
+      unique and interesting blogs, where you could read the thoughts of like-minded individuals. Although I am not old 
+      enough to have lived that long-gone golden era, I've been told the tales and seen the relics.
+
+      Do not get me wrong, I am not judgmental of social media. I do believe that they are worth (some of) your time — 
+      you can meet and connect with a lot of cool people. But I also believe that they do not work in their current 
+      centralized form. That's why I microblog on [Mastodon](https://joinmastodon.org/). It is exactly how I imagine 
+      social media. Open source, free, decentralized, and federated.
+      
+      Besides microblogging, here you will read the long, 'proper', blogs. There is no particular content or purpose for 
+      this blog, it is just my corner of the web. My little contribution to the internet.
+      
+      After all, the internet is not a window to a better world, it is a mirror. A mirror of us. 
+      We do not have to fix the internet. We have to fix ourselves. 
+      
+      ### Motorcycles
+      
+      ### Mountain bikes
+      
+      ### Weightlifting
+      
+      Science based lifting from the likes of [Jeff Nipard](https://www.youtube.com/@JeffNippard) and 
+      [Renaissance Periodization](https://www.youtube.com/@RenaissancePeriodization) is my cup of tea. I train consistently
+      with weights for a while now. I don't do 1 rep max efforts often as I deem them too risky. Instead,  I use
+      a [one rep max calculator](https://exrx.net/Calculators/OneRepMax) to roughly get an idea of where I stand. 
+      
+      | Lift         | One rep max |
+      | :----------: | :---------: |
+      | **Squat**    | 109kg       |
+      | **Bench**    | 82kg        |
+      | **Deadlift** | 142kg       |
+      
+      Where that places me as a lifter? Well, given I am a little over 80 kilos and based on the table bellow from
+      [Jeff](https://jeffnippard.com/blogs/news/how-strong-should-you-be-noob-to-freak-1), I am an early intermediate.
+      
+      |   Lift       | Beginner    | Intermediate  | Advanced     | Elite       | Freak       |
+      | :----------: | :---------: | :-----------: | :---------:  | :---------: | :---------: |
+      | **Squat**    | 1.25X BW    | 1.25-1.75X BW | 1.75-1.5X BW | 2.5-3X BW   | 3X+ BW      |
+      | **Bench**    | 1X BW       | 1-1.5X BW     | 1.5-2X BW    | 2-2.25X BW  | 2.25X+ BW   |
+      | **Deadlift** | 1.5X BW     | 1.5-2.25X BW  | 2.25-3X BW   | 3-3.5X BW   | 3.5X+ BW    |
+      
+      ### Film photography
+      
+      ### Blogroll
+      
+      These are the blogs I enjoy reading:
+      
+      - Entry 1
+      - Entry 2
+      - Entry 3
+    multimedia: |
+      WIP! I share little on social media, but I do have some nice shots worth seeing. Coming soon!
+      
+      Second line
     footer: Hakuna matata
 
   socialIcons:

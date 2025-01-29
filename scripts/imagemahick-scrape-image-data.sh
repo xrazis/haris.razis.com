@@ -41,7 +41,10 @@ for image in "${image_files[@]}"; do
         {
             echo -n "  { "
             echo -n "filename = \"$(basename $image)\","
-            identify -verbose "$image" | grep -E "exif:" | sed 's/^\s*//; s/: /=/; s/=/ = "/; s/:/-/g; s/$/",/; $ s/,$/ },/' | tr '\n' ' '
+#            if ["$(basename "$image")" == *"film"*] then
+#              echo -n "film = "true""
+#            fi
+            identify -verbose "$image" | grep -E "exif:" | sed 's/^\s*//; s/: /=/; s/=/ = "/; s/://g; s/$/",/; $ s/,$/ },/' | tr '\n' ' '
             echo
         } >> "${output_file}"
     fi

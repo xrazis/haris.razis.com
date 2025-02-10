@@ -1,0 +1,11 @@
+[phases.setup]
+aptPkgs = ["hugo"]
+
+[ phases.build ]
+cmds = ["hugo --minify"]
+
+[ environment ]
+HUGO_VERSION = "0.143.1"
+
+[[ nixpacks.included_files ]]
+paths = ["/public"]

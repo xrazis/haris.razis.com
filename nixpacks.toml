@@ -2,7 +2,7 @@
 aptPkgs = ["hugo"]
 
 [ phases.build ]
-cmds = ["hugo --minify"]
+cmds = ["hugo --minify --config config.yml"]
 
 [ environment ]
 HUGO_VERSION = "0.143.1"

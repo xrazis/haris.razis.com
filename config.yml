@@ -17,7 +17,7 @@ params:
   description: "Software engineer, avid motorcyclist, occasional racer."
   ShowCodeCopyButtons: true
   disableSpecial1stPost: false
-  cdnUrl: https://cdn.xrazis.com/static
+  cdnUrl: https://cdn.xrazis.com/haris.razis.com/
 
   assets:
     favicon32x32: "/favicon.png"

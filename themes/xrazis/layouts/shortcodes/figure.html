@@ -1,4 +1,4 @@
-{{ $imageSrc := printf "%s%s" site.Params.cdnUrl (.Get "src") }}
+{{ $imageSrc := printf "%s%s%s" site.Params.cdnUrl "static" (.Get "src") }}
 
 <figure class="align-center">
     <a href="{{ $imageSrc }}" target="_blank">

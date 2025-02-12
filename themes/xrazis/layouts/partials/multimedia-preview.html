@@ -1,9 +1,0 @@
-{{- partial "section-header.html" (dict "header" "Last Multimedia" "link" "/multimedia" "linkString" "All multimedia") -}}
-
-{{ range $.Site.Data.images }}
-<div class="multimedia-preview">
-    {{ range first 1 .images }}
-        <img src="/upload/{{ .filename }}" alt="">
-    {{ end }}
-</div>
-{{ end }}

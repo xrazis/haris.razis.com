@@ -1,5 +1,5 @@
 ---
-title: Automated apps installation and configuration in dotfiles
+title: Automating apps installation and configuration in dotfiles
 date: 2023-10-02
 tags: [ Linux ]
 draft: false

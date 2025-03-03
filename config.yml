@@ -119,6 +119,8 @@ params:
       url: "https://mastodon.social/@xrazis"
     - name: Github
       url: "https://github.com/xrazis"
+    - name: Flickr
+      url: "https://flickr.com/photos/202360067@N06
     - name: Linkedin
       url: "https://www.linkedin.com/in/xrazis/"
 

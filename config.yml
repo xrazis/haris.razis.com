@@ -28,30 +28,21 @@ params:
   strings:
     home: |
       Hey, my name is Haris. I create bugs for a living, and this corner of the web is my digital garden — a small collection 
-      of things I’ve learned and done over the years. Here, you’ll find my projects, technical insights, and stories 
-      from my adventures.
+      of things I’ve learned and done over the years. Here you’ll read my technical insights and stories from my adventures.
       
       After trying all sorts of hobbies, I've concluded that riding bikes and motorcycles is my thing. I've gotten 
       especially good at breaking bones, a true talent, one might say. For tales of cracked crankcases and lost 
       paperwork in distant lands, click the yellow highlighted dates and tags.
       
+      On the footer you will find ways to contact me, my Flickr that has some cool photos, and my Mastodon  where i microblog. 
+      
       My default handle is **xrazis**.
     about: |
       The old internet used to be much purer. Free of ads, paywalls, and walled garden social media. It was full of 
-      unique and interesting blogs, where you could read the thoughts of like-minded individuals. Although I am not old 
-      enough to have lived that long-gone era, I've been told the tales and seen the relics.
+      unique and interesting blogs, where you could read the thoughts of like-minded individuals.
 
-      Do not get me wrong; I am not (overly) judgmental of what the internet has evolved to. For 
-      instance, I do believe that social media is worth _some_ of your time — you can meet and connect with a lot of 
-      cool people. But I also believe that they do not work in their current centralized form. That's why I microblog on 
-      [Mastodon](https://joinmastodon.org/). It is exactly how I imagine social media. Open source, free, decentralized,
-      and federated.
-      
-      Besides microblogging, here you will read the long, 'proper', blogs. There is no particular content or purpose for 
-      this blog, it is just my corner of the web. My little contribution to the internet.
-      
-      After all, the internet is not a window to a better world, it is a mirror. A mirror of us. 
-      We do not have to fix the internet. We have to fix ourselves. 
+      This blog is my little contribution to the internet. After all, the internet is not a window to a better world, 
+      it is a mirror. A mirror of us. We do not have to fix the internet. We have to fix ourselves. 
       
       ### Motorcycles and bikes
       
@@ -99,7 +90,7 @@ params:
       Of course you can emulate the _feeling_ of a film camera on a photo. And of course you can print your high quality digital
       photos. But, what I really like, is that naive feeling when you shoot. The fact that you have one chance to get a good shot.
       Waiting for the film to develop, anxious to see if you got any good shots. The photos you have lying around the house, that 
-      you then pass to your friends to see. 
+      you then pass around to your friends to see. 
       
       ### Blogroll
       

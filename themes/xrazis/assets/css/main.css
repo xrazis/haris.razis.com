@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=JetBrains+Mono:wght@100..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
 
 :root {
     --primary: rgb(149, 154, 248);
@@ -52,7 +52,7 @@
     --footer-height: 60px;
     --large-margin: 15px;
 
-    --font-family: 'Inter', system-ui, Avenir, Helvetica, Arial, sans-serif;
+    --font-family: 'Roboto', sans-serif;
     --font-family-monospace: 'JetBrains Mono', monospace;
 
     font-family: var(--font-family), serif;

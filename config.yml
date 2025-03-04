@@ -14,13 +14,10 @@ minify:
 params:
   env: production
   title: xrazis
-  description: "Software engineer, avid motorcyclist, occasional racer."
+  description: ""
   ShowCodeCopyButtons: true
   disableSpecial1stPost: false
   cdnUrl: https://cdn.xrazis.com/haris.razis.com/
-
-  assets:
-    favicon32x32: "/favicon.png"
 
   label:
     text: Haris Razis
@@ -38,13 +35,15 @@ params:
       
       My default handle is **xrazis**.
     about: |
+      ## WIP
+      
       The old internet used to be much purer. Free of ads, paywalls, and walled garden social media. It was full of 
       unique and interesting blogs, where you could read the thoughts of like-minded individuals.
 
       This blog is my little contribution to the internet. After all, the internet is not a window to a better world, 
       it is a mirror. A mirror of us. We do not have to fix the internet. We have to fix ourselves. 
       
-      ### WIP Motorcycles and bikes
+      ### Motorcycles and bikes
       
       Motorcycles are a lifestyle. It may sound cliché, and you've probably heard it before a thousand times, but stick with me. 
       
@@ -81,7 +80,7 @@ params:
       | **Bench**    | 1X BW       | 1-1.5X BW     | 1.5-2X BW    | 2-2.25X BW  | 2.25X+ BW   |
       | **Deadlift** | 1.5X BW     | 1.5-2.25X BW  | 2.25-3X BW   | 3-3.5X BW   | 3.5X+ BW    |
       
-      ### WIP Film photography
+      ### Film photography
       
       At first I thought it was quite stupid to shoot on film in an age where the average smartphone is more than enough
       to cover your needs. I continued to believe it up until my friend Christos gave me printed photos of a trip we had. 

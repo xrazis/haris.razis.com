@@ -43,9 +43,7 @@ blocklists, manually block IP addresses...
 The amount of work required to keep this running is something I no longer have the mental capacity to do. The internet
 was designed as many independent nodes, and you should be able to run your own email. After all, it is a federated
 service. But apparently, we are in the age of walled garden services that all require subscriptions. This is
-basically [email vs capitalism](https://www.youtube.com/watch?v=mrGfahzt-4Q).
-
-Well, if I am going to throw in the towel on selfhosting my email, to what service provider should I turn to?
+[email vs capitalism](https://www.youtube.com/watch?v=mrGfahzt-4Q).
 
 # My planned utopia
 
@@ -56,34 +54,40 @@ you can (probably) get it for free. After all, I do believe that OS software sho
 be [free as in weekend](https://freeasinweekend.org/), and that you should also donate to OS projects regularly. But
 because I wanted to avoid [serverless horrors](https://serverlesshorrors.com/) and vendor lock in. I stumbled
 upon [Coolify](https://coolify.io). It has two dedicated developers on the project, a great community, and is a stellar
-product! I could not be happier.
+product!
 
 As for the email, I did not want to choose a provider like Google. Nor did I want a freemium offering like Zoho. I
 wanted something private and encrypted. I rounded it down to [Tuta](https://tuta.com/). Although not as mature as
-Proton (another popular encrypted email), I liked it more.
+Proton —for the time being— I liked it more.
 
 I am not hallucinating that a private and encrypted email provider will suddenly protect my emails from big tech and
 surveillance capitalism. I already know
 that [Google has most of my mail because it has all of yours](https://mako.cc/copyrighteous/google-has-most-of-my-email-because-it-has-all-of-yours).
 I really did not want to give my money to big tech, so instead I picked a smaller company with a vision for a better
-web. Let's hope they stay true to their mission.
+web. Let's hope they stay true to their mission 🤞.
 
 # Setting up Coolify
 
-//TODO How does coolify work
+Everything inside Coolify runs as a Docker container, even the panel itself and the necessary components like
+traefik. You have four options when choosing a build pack for your services:
 
-Everything inside Coolify runs as a Docker container, even the panel itself and all the necessary components. The cool
-thing with coolify is that you are not locked in an ecosystem (e.x. Vercel). 
+- Nixpacks
+- Static
+- Dockerfile
+- Docker Compose
 
-//TODO How straightforward is bootstrapping
+I really liked nixpacks as it needed little to no configuration to get most of the services running. On top of that, a
+lot of default services are available with a one-click deployment (WordPress/Gitlab/Ghost/etc).
 
-### WordPress migrating
+Spinning up an instance of coolify is straightforward. Running their quick installation script on an Ubuntu server
+bootstrapped Coolify within a few minutes. Hurry up and access the panel from `<server-ip>:8000` before someone else
+creates a root account.
 
-I do not like WordPress. I actually despise it. Unfortunately, I have inherited two WP websites. I exported the contents
-with a plugin and reimported everything on the new instance.
+After creating a root account, you probably want to set an instance domain.
 
-Coolify has a WP service that you can quickly deploy within a few minutes. It also provides backups for the database to
-S3 compatible storage (more on that later).
+1. Go to settings and set _Instance's Domain_. For example `coolify.your-beautiful-domain.com`.
+2. Add an A record to your DNS records. The same as you used for your instance's domain.
+3. Add a firewall and only allow ssh:22, http:80, and https:443.
 
 ### Mailgun
 
@@ -96,9 +100,11 @@ using Cloudflare R2 for my CDN as it has a generous free plan. I created a new b
 for the panel and the various databases. Unfortunately, there are no more S3 backup options at the moment. One nice
 addition would be a docker volume S3 backup.
 
+### Migrated to Hetzner
+
 ### Troubleshooting
 
-It was mostly pain-free, but:
+Migrating and setting up was mostly pain-free, but:
 
 - The panel and the apps crashed because the server ran out of memory. That was due to a high spike of traffic to one of
   the web apps. Rebooting and upscalling the droplet solved the issue.

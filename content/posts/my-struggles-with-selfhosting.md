@@ -12,7 +12,7 @@ tedious process to bring everything over. For a while I was happy. For a very li
 
 ![](https://media1.tenor.com/m/cJRcMyUAiMcAAAAd/ah-shit-here-we-go-again-ah-shit.gif)
 
-# Plesk is a reminisce of the past
+# Plesk is a reminiscence of the past
 
 Plesk was good enough, with a nice feature set ootb, good extensibility with addons, beginner-friendly, and a low price.
 You would even get it for free when renting a server at some providers. Unfortunately, they dismantled the free tier and
@@ -87,27 +87,29 @@ After creating a root account, you probably want to set an instance domain.
 
 1. Go to settings and set _Instance's Domain_. For example `coolify.your-beautiful-domain.com`.
 2. Add an A record to your DNS records. The same as you used for your instance's domain.
-3. Add a firewall and only allow ssh:22, http:80, and https:443.
+3. Add a firewall and only allow `ssh:22`, `http:80`, and `https:443`.
 
-### Mailgun
-
-### Axiom
+ 
 
 ### S3 backups
 
-I guess we are now all calling them S3 because AWS pioneered the space? Whatever the case may be, I am already
-using Cloudflare R2 for my CDN as it has a generous free plan. I created a new bucket for the backups and enabled them
-for the panel and the various databases. Unfortunately, there are no more S3 backup options at the moment. One nice
-addition would be a docker volume S3 backup.
-
-### Migrated to Hetzner
+I guess we are now all calling them S3 and S3 compatible because AWS pioneered the bucket space? Whatever the case may
+be, I am already using Cloudflare R2 for my CDN as it has a generous free plan. I created a new bucket for the backups
+and enabled them for the panel and the various databases. Unfortunately, there are no more S3 backup options at the
+moment. One nice addition would be a docker volume backup.
 
 ### Troubleshooting
 
-Migrating and setting up was mostly pain-free, but:
+The setup was mostly pain-free, but:
 
 - The panel and the apps crashed because the server ran out of memory. That was due to a high spike of traffic to one of
-  the web apps. Rebooting and upscalling the droplet solved the issue.
+  the web apps. Rebooting and upscalling the server solved the issue.
+  [They warned me](https://coolify.io/docs/get-started/installation#_5-server-resources-for-your-projects).
 -
 
-# Closing thoughts
+# Bye Bye Digital Ocean
+
+I also migrated to Hetzner from Digital Ocean. Despite me liking the DO ecosystem, I find better value in Hetzner. If
+you are looking for a server, definitely consider them. You can also use the
+[Coolify referral link](https://coolify.io/hetzner) to help them a bit.
+[This script](https://github.com/Geczy/coolify-migration) made migrating the Coolify installation a breeze.
